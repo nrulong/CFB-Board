@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#07101d">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>CFB Betting HQ</title>
+<style>
+:root{--bg:#07101d;--panel:#0d1828;--panel2:#111f33;--line:#22324a;--text:#f3f7ff;--muted:#9db0c9;--blue:#70b8ff;--chip:#172941;--gold:#f6c453;--green:#8de5aa;--red:#ff8a8a}
+*{box-sizing:border-box}
+body{margin:0;background:linear-gradient(180deg,#07101d,#0a1321 42%,#08111d);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.app{max-width:960px;margin:0 auto;padding:0 12px 80px}
+header{position:sticky;top:0;z-index:20;background:rgba(7,16,29,.95);backdrop-filter:blur(14px);border-bottom:1px solid var(--line);padding:calc(10px + env(safe-area-inset-top)) 0 10px}
+h1{font-size:20px;margin:0 0 3px;font-weight:900}
+.sub{color:var(--muted);font-size:11px;line-height:1.35}
+.status{margin-top:4px;font-size:11px;font-weight:800}
+.status.ok{color:var(--green)} .status.err{color:var(--red)}
+.tabs{display:flex;gap:8px;overflow-x:auto;padding:11px 0 1px;scrollbar-width:none}.tabs::-webkit-scrollbar{display:none}
+.tab{border:1px solid var(--line);background:var(--panel);color:var(--muted);padding:9px 13px;border-radius:999px;font-weight:800;font-size:13px;white-space:nowrap}
+.tab.active{background:var(--text);color:#09111d;border-color:var(--text)}
+.toolbar{display:flex;gap:8px;margin:14px 0 12px}
+.search{flex:1;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px 12px;color:var(--text);font-size:15px}
+.action{background:var(--panel);border:1px solid var(--line);color:var(--text);border-radius:12px;padding:0 12px;font-weight:800}
+.summary{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:10px 0 14px}
+.kpi{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:10px}.kpi b{font-size:18px;display:block}.kpi span{font-size:10px;color:var(--muted)}
+.card{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:16px;padding:13px;margin:9px 0;box-shadow:0 6px 20px rgba(0,0,0,.12)}
+.topline{display:flex;justify-content:space-between;gap:8px}.game{font-size:15px;font-weight:900;line-height:1.25}.time{font-size:11px;color:var(--muted);white-space:nowrap;text-align:right}
+.pick{font-size:18px;font-weight:900;margin:7px 0 5px}
+.meta{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 8px}
+.chip{background:var(--chip);border:1px solid #29415f;color:#cfe0f6;border-radius:999px;padding:4px 8px;font-size:11px;font-weight:800}
+.chip.mine{color:#fff2b8;border-color:#625526;background:#2a2616}.chip.sp{color:#b9ddff}
+.bullets{margin:7px 0 0;padding:0;list-style:none}
+.bullets li{border-top:1px solid rgba(157,176,201,.14);padding:8px 0 0;margin-top:8px;font-size:13px;line-height:1.42;color:#d9e4f2}
+.bullets li:first-child{border-top:0;margin-top:0;padding-top:0}
+.section-title{font-size:13px;color:var(--muted);font-weight:900;text-transform:uppercase;letter-spacing:.8px;margin:18px 2px 8px}
+.tag{font-size:10px;font-weight:800;border-radius:999px;padding:3px 7px;background:#1b314d;color:#bad8fa}
+.tag.actual{background:#173d28;color:#a8efbd}.tag.best{background:#4a3b16;color:#ffe694}.tag.lean{background:#3a2c1c;color:#ffd5a1}
+.capper-head{display:flex;justify-content:space-between;gap:8px;align-items:center}.hidden{display:none!important}
+.footer{color:var(--muted);font-size:11px;line-height:1.45;margin:20px 4px}
+.marketline{font-size:14px;font-weight:850;margin:6px 0 2px;color:#dff6e7}
+.errorbox{background:#351b21;border:1px solid #7a3745;color:#ffd8df;border-radius:14px;padding:12px;font-size:13px;line-height:1.45;margin-top:14px}
+@media(max-width:520px){.app{padding-left:10px;padding-right:10px}.card{border-radius:14px;padding:12px}.pick{font-size:17px}}
+</style>
+</head>
+<body>
+<div class="app">
+<header>
+<h1>🏈 CFB Betting HQ</h1>
+<div id="subtitle" class="sub">Loading board…</div>
+<div id="status" class="status"></div>
+<div class="tabs">
+<button class="tab active" data-tab="mine">🎟️ My Picks</button>
+<button class="tab" data-tab="games">📅 All Games</button>
+<button class="tab" data-tab="experts">👥 Experts</button>
+</div>
+</header>
+<div class="toolbar">
+<input id="search" class="search" placeholder="Search team, pick, capper…">
+<button id="clear" class="action">Clear</button>
+</div>
+<div id="mine" class="view"></div>
+<div id="games" class="view hidden"></div>
+<div id="experts" class="view hidden"></div>
+<div id="error"></div>
+<div class="footer">The app reads <b>board-data.json</b>. To update the betting board in the future, replace only that file in GitHub unless the app design changes.</div>
+</div>
+
+<script>
+(() => {
+  'use strict';
+
+  const els = {
+    subtitle: document.getElementById('subtitle'),
+    status: document.getElementById('status'),
+    mine: document.getElementById('mine'),
+    games: document.getElementById('games'),
+    experts: document.getElementById('experts'),
+    search: document.getElementById('search'),
+    clear: document.getElementById('clear'),
+    error: document.getElementById('error')
+  };
+
+  let DATA = {myPicks:[], allGames:[], experts:[]};
+  let active = 'mine';
+
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'
+  }[c]));
+  const splitLines = s => String(s || '').split(/\n+/).map(x => x.trim()).filter(Boolean)
+    .filter(x => !/^user\b/i.test(x.replace(/^•\s*/,'')));
+  const spSpread = o => o["SP+ Spread"] || "";
+  const spTotal = o => o["SP+ Total"] || "";
+  const bullets = t => {
+    const raw = splitLines(t).map(x => x.replace(/^•\s*/,''));
+    const a = [];
+    for (let i=0; i<raw.length; i++) {
+      let line = raw[i];
+      if (i+1 < raw.length &&
+          /^(Stuckey|Collin|Calabrese|Duck|Geoff|Sammy|Tyler|Cleveland Cam|Bet Labs)\b/i.test(line) &&
+          !/^(Stuckey|Collin|Calabrese|Duck|Geoff|Sammy|Tyler|Cleveland Cam|Bet Labs|SP\+|T-Shoe|TSI)\b/i.test(raw[i+1])) {
+        line = line.replace(/[.:\s]+$/,'') + ': ' + raw[++i];
+      }
+      a.push(line);
+    }
+    return a.length ? `<ul class="bullets">${a.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : '';
+  };
+  const top = o => `<div class="topline"><div class="game">${esc(o.Game)}</div><div class="time">${esc(o.Date)}<br>${esc(o["Time ET"])}</div></div>`;
+
+  function renderMine(){
+    const a = DATA.myPicks || [];
+    els.mine.innerHTML =
+      `<div class="summary">
+        <div class="kpi"><b>${a.length}</b><span>confirmed bets</span></div>
+        <div class="kpi"><b>${a.filter(x => String(x.Read).includes('🔥')).length}</b><span>🔥 supported</span></div>
+        <div class="kpi"><b>${a.filter(x => /[⚔⚠]/.test(String(x.Read))).length}</b><span>conflict/watch</span></div>
+      </div>` +
+      a.map(o => `<article class="card searchable" data-search="${esc(JSON.stringify(o).toLowerCase())}">
+        ${top(o)}
+        <div class="pick">${esc(o["My Pick"])} ${esc(o.Read)}</div>
+        <div class="meta">
+          ${spSpread(o) ? `<span class="chip sp">SP+ Spread: ${esc(spSpread(o))}</span>` : ''}
+          ${spTotal(o) ? `<span class="chip sp">SP+ Total: ${esc(spTotal(o))}</span>` : ''}
+        </div>
+        ${bullets(o["Capper / Model Analysis"])}
+      </article>`).join('');
+  }
+
+  function renderGames(){
+    const a = DATA.allGames || [];
+    els.games.innerHTML =
+      `<div class="summary">
+        <div class="kpi"><b>${a.length}</b><span>games listed</span></div>
+        <div class="kpi"><b>${a.filter(x => x["My Ticket"]).length}</b><span>with my ticket</span></div>
+        <div class="kpi"><b>${a.filter(x => x["Tracked Analysis / Picks"]).length}</b><span>with insight</span></div>
+      </div>` +
+      a.map(o => `<article class="card searchable" data-search="${esc(JSON.stringify(o).toLowerCase())}">
+        ${top(o)}
+        ${(o["Current Spread"] || o["Current Total"]) ? `<div class="marketline">Current: ${esc(o["Current Spread"] || "Spread —")} • O/U ${esc(o["Current Total"] || "—")}</div>` : ''}
+        <div class="meta">
+          ${o["My Ticket"] ? `<span class="chip mine">🎟️ ${esc(o["My Ticket"])}</span>` : ''}
+          ${spSpread(o) ? `<span class="chip sp">SP+ Spread: ${esc(spSpread(o))}</span>` : ''}
+          ${spTotal(o) ? `<span class="chip sp">SP+ Total: ${esc(spTotal(o))}</span>` : ''}
+        </div>
+        ${o["Tracked Analysis / Picks"] ? bullets(o["Tracked Analysis / Picks"]) : ''}
+      </article>`).join('');
+  }
+
+  function cls(t){
+    t = String(t || '').toLowerCase();
+    return t.includes('best') ? 'best' : t.includes('lean') ? 'lean' : t.includes('actual') ? 'actual' : '';
+  }
+
+  function renderExperts(){
+    const groups = {};
+    (DATA.experts || []).forEach(o => (groups[o.Capper] ??= []).push(o));
+    els.experts.innerHTML = Object.entries(groups).map(([capper,rows]) =>
+      `<div class="section-title">${esc(capper)} · ${rows.length} tracked</div>` +
+      rows.map(o => `<article class="card searchable" data-search="${esc(JSON.stringify(o).toLowerCase())}">
+        <div class="capper-head"><div class="game">${esc(o.Game)}</div><span class="tag ${cls(o.Classification)}">${esc(o.Classification)}</span></div>
+        <div class="pick">${esc(o["Pick / Number"])}</div>
+        ${o["One-Bullet Logic"] ? `<ul class="bullets"><li>${esc(o["One-Bullet Logic"])}</li></ul>` : ''}
+      </article>`).join('')
+    ).join('');
+  }
+
+  function applySearch(){
+    const needle = els.search.value.trim().toLowerCase();
+    document.querySelectorAll(`#${active} .searchable`).forEach(el => {
+      el.classList.toggle('hidden', !!needle && !el.dataset.search.includes(needle));
+    });
+  }
+
+  document.querySelectorAll('.tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      active = btn.dataset.tab;
+      document.querySelectorAll('.tab').forEach(x => x.classList.toggle('active', x === btn));
+      document.querySelectorAll('.view').forEach(v => v.classList.toggle('hidden', v.id !== active));
+      applySearch();
+    });
+  });
+
+  els.search.addEventListener('input', applySearch);
+  els.clear.addEventListener('click', () => {
+    els.search.value = '';
+    applySearch();
+    els.search.focus();
+  });
+
+  fetch('./board-data.json?v=' + Date.now(), {cache:'no-store'})
+    .then(resp => {
+      if (!resp.ok) throw new Error(`board-data.json returned HTTP ${resp.status}`);
+      return resp.json();
+    })
+    .then(data => {
+      DATA = data;
+      els.subtitle.textContent = `${DATA.week || ''} • Updated ${DATA.lastUpdated || ''} • ${DATA.marketSource || ''}`;
+      els.status.className = 'status ok';
+      els.status.textContent = `✓ Data loaded: ${(DATA.myPicks||[]).length} picks • ${(DATA.allGames||[]).length} games • ${(DATA.experts||[]).length} expert entries`;
+      renderMine();
+      renderGames();
+      renderExperts();
+    })
+    .catch(err => {
+      console.error(err);
+      els.subtitle.textContent = 'The app loaded, but the data file did not.';
+      els.status.className = 'status err';
+      els.status.textContent = '✕ board-data.json failed to load';
+      els.error.innerHTML = `<div class="errorbox"><b>Diagnostic:</b> ${esc(err.message)}<br><br>Make sure <b>board-data.json</b> is in the same GitHub folder as <b>index.html</b>.</div>`;
+    });
+})();
+</script>
+</body>
+</html>
