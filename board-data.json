@@ -1,6 +1,6 @@
 {
   "week": "Week 3 — Sep 17–19, 2026",
-  "lastUpdated": "Sep 18, 2026 11:45 PM ET",
+  "lastUpdated": "Sep 18, 2026 11:55 PM ET",
   "marketSource": "Full Week 3 FBS slate (75 games) + BBOC/G6/Bear Bets/user intel; spreads refreshed Sep 18",
   "myPicks": [
     {
@@ -1223,6 +1223,27 @@
       "Classification": "Underdog ML parlay",
       "Pick / Number": "Coastal Carolina ML",
       "One-Bullet Logic": "Projects closer to one; Coastal pass rush vs poor Delaware protection."
+    },
+    {
+      "Capper": "Duck",
+      "Game": "Yale @ Holy Cross",
+      "Pick / Number": "Yale -18.5 (-110), 0.5u",
+      "Classification": "FCS Show play",
+      "One-Bullet Logic": "Action Pro Discord FCS Show play; no additional handicap reasoning was included in the screenshot."
+    },
+    {
+      "Capper": "Duck",
+      "Game": "Presbyterian @ Western Carolina",
+      "Pick / Number": "Over 63.5 (-111), 0.5u",
+      "Classification": "FCS Show play",
+      "One-Bullet Logic": "Action Pro Discord FCS Show play; no additional handicap reasoning was included in the screenshot."
+    },
+    {
+      "Capper": "Duck",
+      "Game": "North Carolina Central @ Gardner-Webb",
+      "Pick / Number": "Gardner-Webb -3.5 (-105), 0.5u",
+      "Classification": "FCS Show play",
+      "One-Bullet Logic": "Action Pro Discord FCS Show play; no additional handicap reasoning was included in the screenshot."
     }
   ]
 }
