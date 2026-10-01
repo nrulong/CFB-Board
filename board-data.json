@@ -1,90 +1,66 @@
 {
-  "week": "Week 4 — Sep 24–26, 2026",
-  "lastUpdated": "Sep 25, 2026 — added Cleveland Cam Auburn -9",
-  "marketSource": "Full Week 4 FBS schedule/current lines from CBS Sports (ET) + complete reconciliation of supplied Week 4 BBOC Stuckey/Collin, Bear Bets, and Sixth Gear Duck/Mike transcripts + Cleveland Cam supplied plays.",
+  "week": "Week 5 — Oct 1–4, 2026",
+  "lastUpdated": "Oct 1, 2026 — full Week 5 board + first Sixth Gear intel",
+  "marketSource": "Full Week 5 FBS/FBS-vs-FCS slate and current spread/total snapshot from CBS Sports odds retrieved Oct 1, 2026. Expert intel from user-supplied Week 5 Sixth Gear transcript (Duck + Mike Calabrese). Lines move; original user tickets remain separate.",
   "myPicks": [
     {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
+      "Date": "Thu",
+      "Time ET": "8:00 PM",
       "Read": "",
       "Current Line": "",
       "Middle": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Game": "Sam Houston @ Texas Tech",
-      "My Pick": "Under 54.5 • $31.50 risk • -105",
-      "Capper / Model Analysis": "Collin U55.5, projects 48; SHSU suppresses pass explosives and grades well in Havoc/finishing drives."
+      "Game": "Western Kentucky @ New Mexico State",
+      "My Pick": "Western Kentucky +2.5 • $33 risk",
+      "Capper / Model Analysis": ""
     },
     {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
+      "Date": "Thu",
+      "Time ET": "9:00 PM",
       "Read": "",
       "Current Line": "",
       "Middle": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Game": "Wake Forest @ Louisville",
-      "My Pick": "Wake +13.5 • $34.50 risk • -115",
-      "Capper / Model Analysis": "Stuckey +13 and Collin +13.5 align; Gio Lopez health is the major caveat."
+      "Game": "North Texas @ Tulsa",
+      "My Pick": "Tulsa ML • $37.50 risk",
+      "Capper / Model Analysis": ""
     },
     {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Read": "",
-      "Current Line": "",
-      "Middle": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Game": "Virginia Tech @ Boston College",
-      "My Pick": "Virginia Tech -13.5 alt • $36.60 risk • -122",
-      "Capper / Model Analysis": "Duck -13.5 + Collin -14 align on VT front/Havoc vs BC; Bear is opposite BC +14."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "6:00 PM",
-      "Read": "",
-      "Current Line": "",
-      "Middle": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Game": "James Madison @ Old Dominion",
-      "My Pick": "Under 48 • $33 risk • -110",
-      "Capper / Model Analysis": "Collin U49.5, projects 43.5; ODU offensive issues plus strong ODU rush defense."
-    },
-    {
-      "Date": "Sat",
+      "Date": "Fri",
       "Time ET": "7:00 PM",
       "Read": "",
       "Current Line": "",
       "Middle": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Game": "Kansas State @ Cincinnati",
-      "My Pick": "Over 53.5 • $33 risk • -110",
-      "Capper / Model Analysis": "Collin O53.5, projects 56; KSU scoring-position edge and Cincinnati rush explosiveness."
+      "Game": "Liberty @ Delaware",
+      "My Pick": "Liberty -6.5 • $37.50 risk",
+      "Capper / Model Analysis": "Duck — Discussion/App play: already has Liberty in the app; Delaware has key injuries, Liberty looks rejuvenated and should be fully focused. Supports Liberty on the road."
     },
     {
       "Date": "Sat",
-      "Time ET": "7:30 PM",
+      "Time ET": "12:00 PM",
       "Read": "",
       "Current Line": "",
       "Middle": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Game": "Troy @ Utah State",
-      "My Pick": "Under 49.5 • $33.60 risk • -112",
-      "Capper / Model Analysis": "Collin U51, projects 41; Stuckey separately likes Utah State -2.5."
+      "Game": "UCF @ Houston",
+      "My Pick": "Over 51.5 • $30.60 risk",
+      "Capper / Model Analysis": ""
     },
     {
       "Date": "Sat",
-      "Time ET": "3:30 PM",
+      "Time ET": "12:45 PM",
       "Read": "",
       "Current Line": "",
       "Middle": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Game": "Boise State @ Western Michigan",
-      "My Pick": "Boise State -7 • $33.60 risk • -112",
+      "Game": "Vanderbilt @ Georgia",
+      "My Pick": "Under 52.5 • $33 risk",
       "Capper / Model Analysis": ""
     },
     {
@@ -95,33 +71,21 @@
       "Middle": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Game": "Oklahoma @ Georgia",
-      "My Pick": "Georgia -13.5 • $34.20 risk • -114",
-      "Capper / Model Analysis": "Cleveland Cam Georgia -14 2U; Stuckey/Collin both attack Oklahoma scoring via game Under."
+      "Game": "Ohio State @ Iowa",
+      "My Pick": "Ohio State -13.5 alt • $65 risk",
+      "Capper / Model Analysis": ""
     },
     {
       "Date": "Sat",
-      "Time ET": "9:00 PM",
+      "Time ET": "3:45 PM",
       "Read": "",
       "Current Line": "",
       "Middle": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Game": "UMass @ Sacramento State",
-      "My Pick": "UMass -4.5 • $33 risk • -110",
-      "Capper / Model Analysis": "Mike -4.5 + Cleveland Cam -5.5 align on Sac State offensive weakness vs UMass defense."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Read": "",
-      "Current Line": "",
-      "Middle": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Game": "San Diego State @ Toledo",
-      "My Pick": "Toledo -2.5 • $36 risk • -120",
-      "Capper / Model Analysis": "Cleveland Cam -2.5: SDSU passing limitations vs Toledo explosive offense/protection."
+      "Game": "Marshall @ James Madison",
+      "My Pick": "James Madison -15.5 • $33 risk",
+      "Capper / Model Analysis": "Mike Calabrese — Triple Option: Marshall +18.5; makes JMU -13.5. Believes JMU's ODU blowout was flattered by backup-QB/short-field context and Marshall is a buy-low with Carlos Del Rio-Wilson healthy. Duck agrees 18.5 is outrageous and also makes it 13.5. CONFLICT: our JMU -15.5 ticket is 2 points beyond their fair number."
     },
     {
       "Date": "Sat",
@@ -131,78 +95,66 @@
       "Middle": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Game": "Vanderbilt @ Auburn",
-      "My Pick": "Auburn -8.5 alt • $60 risk • -120",
-      "Capper / Model Analysis": "Stuckey -9; BBOC also identifies Auburn as a favorite-favorite."
+      "Game": "Purdue @ Illinois",
+      "My Pick": "Illinois -9.5 • $34.50 risk",
+      "Capper / Model Analysis": ""
     },
     {
       "Date": "Sat",
-      "Time ET": "6:30 PM",
-      "Read": "",
-      "Current Line": "",
-      "Middle": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Game": "Central Michigan @ Miami",
-      "My Pick": "Miami -41.5 • $33 risk • -110",
-      "Capper / Model Analysis": "Duck G6 Best Bet -41, playable under 42; Bear separately has CMU first-half shutout."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "9:00 PM",
-      "Read": "",
-      "Current Line": "",
-      "Middle": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Game": "Oregon State @ UTEP",
-      "My Pick": "Oregon State TT Over 33.5 • $33.90 risk • -113",
-      "Capper / Model Analysis": "Duck TT O33.5; Mike game O54.5 best bet. Both driven by Oregon State offense."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "10:00 PM",
-      "Read": "",
-      "Current Line": "",
-      "Middle": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Game": "Rice @ Fresno State",
-      "My Pick": "Fresno State -13.5 • $34.50 risk • -115",
-      "Capper / Model Analysis": "Duck -13.5: Rice passing/third-down problems vs Fresno defense."
-    },
-    {
-      "Date": "Fri",
       "Time ET": "7:00 PM",
       "Read": "",
       "Current Line": "",
       "Middle": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Game": "Navy @ UAB",
-      "My Pick": "UAB +7 • $33 risk • -110",
-      "Capper / Model Analysis": "Duck +7.5 and UAB ML; Navy QB downgrade and UAB explosive-run/third-down defense."
+      "Game": "UL Monroe @ South Alabama",
+      "My Pick": "Over 55.5 • $33 risk",
+      "Capper / Model Analysis": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "10:30 PM",
+      "Read": "",
+      "Current Line": "",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Game": "Baylor @ Arizona State",
+      "My Pick": "Baylor +4.5 • $34.20 risk",
+      "Capper / Model Analysis": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "11:00 PM",
+      "Read": "",
+      "Current Line": "",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Game": "Cincinnati @ Arizona",
+      "My Pick": "Cincinnati +7.5 • $34.50 risk",
+      "Capper / Model Analysis": ""
     }
   ],
   "allGames": [
     {
       "Date": "Thu",
-      "Time ET": "7:30 PM",
-      "Game": "Liberty @ Coastal Carolina",
-      "Current Spread": "Liberty -2.5",
-      "Current Total": "50.5",
-      "My Ticket": "",
+      "Time ET": "8:00 PM",
+      "Game": "Western Kentucky @ New Mexico State",
+      "Current Spread": "New Mexico State -2",
+      "Current Total": "56.5",
+      "My Ticket": "Western Kentucky +2.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson: Liberty ML — Projects Liberty -3.5; Coastal poor Havoc Allowed/pass EPA defense."
+      "Tracked Analysis / Picks": ""
     },
     {
-      "Date": "Fri",
-      "Time ET": "4:00 PM",
-      "Game": "Army @ Temple",
-      "Current Spread": "Army -3",
-      "Current Total": "48.5",
-      "My Ticket": "",
+      "Date": "Thu",
+      "Time ET": "9:00 PM",
+      "Game": "North Texas @ Tulsa",
+      "Current Spread": "North Texas -1",
+      "Current Total": "56.5",
+      "My Ticket": "Tulsa ML",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": ""
@@ -210,20 +162,20 @@
     {
       "Date": "Fri",
       "Time ET": "7:00 PM",
-      "Game": "Navy @ UAB",
-      "Current Spread": "Navy -7",
-      "Current Total": "51.5",
-      "My Ticket": "UAB +7",
+      "Game": "Liberty @ Delaware",
+      "Current Spread": "Liberty -7.5",
+      "Current Total": "49.5",
+      "My Ticket": "Liberty -6.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck: UAB +7.5 / ML — Navy QB downgrade; UAB limits explosive runs and defends third down."
+      "Tracked Analysis / Picks": "Duck — Discussion/App play: already has Liberty in the app; Delaware has key injuries, Liberty looks rejuvenated and should be fully focused. Supports Liberty on the road."
     },
     {
       "Date": "Fri",
       "Time ET": "7:00 PM",
-      "Game": "Howard @ Rutgers",
-      "Current Spread": "Rutgers -42.5",
-      "Current Total": "53.5",
+      "Game": "Pittsburgh @ Virginia Tech",
+      "Current Spread": "Virginia Tech -3",
+      "Current Total": "54.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
@@ -232,262 +184,163 @@
     {
       "Date": "Fri",
       "Time ET": "8:00 PM",
-      "Game": "Northwestern @ Indiana",
-      "Current Spread": "Indiana -21.5",
-      "Current Total": "49.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey — Lean/Discussion: Indiana -20.5 at show price; says he might get involved. Notes Indiana 0-3 ATS vs Northwestern 3-0 ATS historical correction angle, Northwestern injuries at OL/DB/edge, and Indiana getting Daly/Wyatt back."
-    },
-    {
-      "Date": "Fri",
-      "Time ET": "10:30 PM",
-      "Game": "Clemson @ California",
-      "Current Spread": "California -1.5",
-      "Current Total": "50.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson: Clemson +1.5 — Projects Clemson -3 but low-unit due short-week west travel. | Sammy P: California +1.5 — Thinks Cal should be favored. | Geoff Schwartz: California +1.5 — Tails Sammy; likes Cal form and home Friday spot. | Bear — Discussion/side support: says he will also be on Cal; acknowledges Cal QB volatility but backs the home dog/short-week travel spot."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Game": "Sam Houston @ Texas Tech",
-      "Current Spread": "Texas Tech -34.5",
-      "Current Total": "55.5",
-      "My Ticket": "Under 54.5",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson: Under 55.5 — Projects 48; SHSU suppresses pass explosives and grades well in Havoc/finishing drives. | Geoff Schwartz — Favorite to Fade: Sam Houston +34.5; situational fade of Texas Tech after emotional Friday win, using prior big-favorite letdown/lookahead spots as template."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Game": "Bucknell @ Pittsburgh",
-      "Current Spread": "Pittsburgh -49.5",
-      "Current Total": "58.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Game": "Colorado @ Baylor",
-      "Current Spread": "Baylor -10",
-      "Current Total": "55.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Geoff Schwartz: Discussion/lean — Wants Baylor in the cart; concerned with Colorado personnel/team quality and notes Baylor defense allowed only 21 combined to Georgia Tech/Northwestern. Not confirmed as official bet."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Game": "Colorado State @ UTSA",
-      "Current Spread": "UTSA -13.5",
-      "Current Total": "58.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "BBOC injury note — Colorado State QB Haney questionable."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Game": "Illinois @ Ohio State",
-      "Current Spread": "Ohio State -27.5",
-      "Current Total": "53.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Sammy P: Discussion — Relayed a plugged-in Illinois booster who immediately wanted Ohio State -28, expecting major trench advantage; this was an attributed anecdote, not Sammy's official bet."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Game": "Ball State @ Kent State",
-      "Current Spread": "Kent State -3.5",
-      "Current Total": "50.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Game": "San Diego State @ Toledo",
-      "Current Spread": "Toledo -3",
-      "Current Total": "49.5",
-      "My Ticket": "Toledo -2.5",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Cleveland Cam: Toledo -2.5 — SDSU cannot throw/chase; Toledo explosive offense faces weak SDSU pressure."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Game": "Texas @ Tennessee",
-      "Current Spread": "Texas -5.5",
-      "Current Total": "55.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson: Tennessee +5.5 — Fade Texas offense: Havoc Allowed, run blocking, drops and recurring mistakes. | Stuckey: Tennessee + points — Joins Collin but notes uncertainty and keeps it smaller. | Sammy P — Lean: Under; Tennessee front vs Texas run game and offensive uncertainty. | Geoff Schwartz — Lean: Under; Texas run-game/60-minute offensive concerns plus true freshman Tennessee QB facing elite defense."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Game": "UNLV @ Akron",
-      "Current Spread": "UNLV -13.5",
-      "Current Total": "49.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Game": "Virginia Tech @ Boston College",
-      "Current Spread": "Virginia Tech -14",
-      "Current Total": "48.5",
-      "My Ticket": "Virginia Tech -13.5 alt",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck: Virginia Tech -13.5 — VT run defense forces BC to throw behind poor pass protection; comfortable to -14. | Collin Wilson: Virginia Tech -14 — Projects -14; VT Havoc/line yards vs BC run-first offense. | Bear: Boston College +14 — Directly opposes Duck and Collin."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:00 PM",
-      "Game": "Wake Forest @ Louisville",
-      "Current Spread": "Louisville -12.5",
-      "Current Total": "58.5",
-      "My Ticket": "Wake +13.5",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey: Actual bet — Wake +13; Louisville situational fatigue/sloppiness and Brohm favorite history; Gio Lopez health is major caveat. | Collin Wilson: Actual bet — Wake +13.5; projects Louisville -12, Wake pass-first matchup and finishing-drive/penalty edge. | BBOC injury note: Gio Lopez status worth monitoring."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "12:45 PM",
-      "Game": "South Alabama @ Kentucky",
-      "Current Spread": "Kentucky -20.5",
-      "Current Total": "54.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "BBOC injury note — South Alabama QB Bishop Davenport questionable."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "1:00 PM",
-      "Game": "Lindenwood @ Eastern Michigan",
-      "Current Spread": "Eastern Michigan -26.5",
-      "Current Total": "49.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "1:30 PM",
-      "Game": "UCLA @ Maryland",
-      "Current Spread": "UCLA -1.5",
-      "Current Total": "57.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Geoff Schwartz: Maryland — UCLA travel/body-clock, defense and penalty concerns; Maryland bounce-back."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "2:00 PM",
-      "Game": "Northern Illinois @ Georgia State",
-      "Current Spread": "Georgia State -9.5",
-      "Current Total": "55.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "2:00 PM",
-      "Game": "Notre Dame @ Purdue",
-      "Current Spread": "Notre Dame -27.5",
-      "Current Total": "57.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson: Over 56.5 — Projects 61.5; Purdue passing success plus ND explosive opportunities."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "3:00 PM",
-      "Game": "Central Arkansas @ Florida State",
-      "Current Spread": "Florida State -44.5",
-      "Current Total": "60.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "3:00 PM",
-      "Game": "Hawaii @ Wyoming",
-      "Current Spread": "Hawaii -3.5",
+      "Game": "Penn State @ Northwestern",
+      "Current Spread": "Penn State -2.5",
       "Current Total": "45.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "BBOC injury note — Hawaii QB Alejado expected to go but is banged up."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "3:30 PM",
-      "Game": "Gardner-Webb @ Marshall",
-      "Current Spread": "Marshall -26.5",
-      "Current Total": "51.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
       "Tracked Analysis / Picks": ""
     },
     {
       "Date": "Sat",
-      "Time ET": "3:30 PM",
-      "Game": "William & Mary @ Duke",
-      "Current Spread": "Duke -43.5",
-      "Current Total": "62.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "3:30 PM",
-      "Game": "Utah @ Iowa State",
-      "Current Spread": "Utah -7.5",
+      "Time ET": "12:00 PM",
+      "Game": "Middle Tennessee @ Kansas",
+      "Current Spread": "Kansas -18.5",
       "Current Total": "49.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey — Actual bet: Iowa State +8.5/+8 reduced juice; makes it +7 after major Iowa State upgrades. Likes Iowa State run defense, ability to run on Utah, special teams/home-dog profile, and thinks they can win outright. | Collin Wilson — Discussion/other side: would not play Iowa State at the reduced number; considered Utah ML in a parlay if cheaper. Concerned about Jalen Rayner turnover risk and his poor results vs man coverage."
+      "Tracked Analysis / Picks": ""
     },
     {
       "Date": "Sat",
-      "Time ET": "3:30 PM",
-      "Game": "UConn @ Miami (OH)",
-      "Current Spread": "Miami (OH) -3.5",
-      "Current Total": "48.5",
+      "Time ET": "12:00 PM",
+      "Game": "Navy @ Air Force",
+      "Current Spread": "Air Force -3.5",
+      "Current Total": "45.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:00 PM",
+      "Game": "Boston College @ SMU",
+      "Current Spread": "SMU -20.5",
+      "Current Total": "55.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:00 PM",
+      "Game": "Michigan @ Minnesota",
+      "Current Spread": "Michigan -5.5",
+      "Current Total": "43.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:00 PM",
+      "Game": "Alabama @ Mississippi State",
+      "Current Spread": "Alabama -5.5",
+      "Current Total": "60.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": "Mike Calabrese — P4 play: Over 59.5. Alabama's offense has been explosive/elite in clean pockets while Mississippi State can play fast in chase mode; Alabama tackling has been vulnerable. Mike thinks it can reach the 70s and calls it one of his most confident P4 plays."
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:00 PM",
+      "Game": "West Virginia @ Iowa State",
+      "Current Spread": "Iowa State -2.5",
+      "Current Total": "53.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:00 PM",
+      "Game": "UCF @ Houston",
+      "Current Spread": "Houston -11.5",
+      "Current Total": "51.5",
+      "My Ticket": "Over 51.5",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:00 PM",
+      "Game": "Stanford @ Wake Forest",
+      "Current Spread": "Wake Forest -12.5",
+      "Current Total": "53.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:00 PM",
+      "Game": "Notre Dame @ North Carolina",
+      "Current Spread": "Notre Dame -21",
+      "Current Total": "47.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:00 PM",
+      "Game": "Syracuse @ UConn",
+      "Current Spread": "Syracuse -6.5",
+      "Current Total": "50.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": "Duck — P4 play: Syracuse -6.5; expects Syracuse's passing game to exploit one of the weaker coverage/pass-rush units and sees a motivated bounce-back, predicting a 14–17 point win. Mike Calabrese — Opposite side: UConn +points; distrusts Syracuse QB play and likes Jim Mora/Jason Candle-type dog profile despite acknowledging Syracuse has played better than its record."
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:30 PM",
+      "Game": "Michigan State @ Wisconsin",
+      "Current Spread": "Wisconsin -9.5",
+      "Current Total": "43.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:45 PM",
+      "Game": "Vanderbilt @ Georgia",
+      "Current Spread": "Georgia -24.5",
+      "Current Total": "51.5",
+      "My Ticket": "Under 52.5",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "1:00 PM",
+      "Game": "Western Michigan @ Buffalo",
+      "Current Spread": "Western Michigan -13.5",
+      "Current Total": "46.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "2:00 PM",
+      "Game": "Toledo @ Ball State",
+      "Current Spread": "Toledo -19.5",
+      "Current Total": "52.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
@@ -496,19 +349,30 @@
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
-      "Game": "TCU @ UCF",
-      "Current Spread": "TCU -3",
-      "Current Total": "48.5",
+      "Game": "Louisville @ NC State",
+      "Current Spread": "Louisville -3.5",
+      "Current Total": "58.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "BBOC injury note — UCF will again be without Barnett; Jenkins gets the start."
+      "Tracked Analysis / Picks": ""
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
-      "Game": "Stonehill @ Ohio",
-      "Current Spread": "Ohio -37.5",
+      "Game": "California @ UNLV",
+      "Current Spread": "UNLV -2.5",
+      "Current Total": "53.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "3:30 PM",
+      "Game": "Samford @ UAB",
+      "Current Spread": "UAB -30.5",
       "Current Total": "51.5",
       "My Ticket": "",
       "SP+ Spread": "",
@@ -518,9 +382,9 @@
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
-      "Game": "Robert Morris @ Buffalo",
-      "Current Spread": "Buffalo -28.5",
-      "Current Total": "44.5",
+      "Game": "Wyoming @ North Dakota State",
+      "Current Spread": "North Dakota State -17.5",
+      "Current Total": "45.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
@@ -529,19 +393,30 @@
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
-      "Game": "Oklahoma @ Georgia",
-      "Current Spread": "Georgia -14",
-      "Current Total": "44.5",
-      "My Ticket": "Georgia -13.5",
+      "Game": "Ohio State @ Iowa",
+      "Current Spread": "Ohio State -14.5",
+      "Current Total": "45.5",
+      "My Ticket": "Ohio State -13.5 alt",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey: Under 45.5 — Anything north of 45 called primo; Oklahoma scoring concern. | Collin Wilson: Under 44.5 — Projects 38; OU rush offense limited, OU defense can slow Georgia. | Cleveland Cam: Georgia -14 — OU offensive weakness; Georgia balanced offense/OL can survive OU pressure. Projects 31-13."
+      "Tracked Analysis / Picks": ""
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
-      "Game": "New Mexico @ New Mexico State",
-      "Current Spread": "New Mexico -11.5",
+      "Game": "Auburn @ Tennessee",
+      "Current Spread": "Tennessee -6.5",
+      "Current Total": "54.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "3:30 PM",
+      "Game": "Florida @ Missouri",
+      "Current Spread": "Florida -4.5",
       "Current Total": "57.5",
       "My Ticket": "",
       "SP+ Spread": "",
@@ -551,41 +426,96 @@
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
-      "Game": "Ole Miss @ Florida",
-      "Current Spread": "Florida -3.5",
-      "Current Total": "58.5",
+      "Game": "Bowling Green @ Miami (OH)",
+      "Current Spread": "Miami (OH) -13",
+      "Current Total": "43.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "3+ EXPERT ALIGNMENT • Stuckey: Florida -2.5 (-120) — Needed under 3; rates Florida around -3.6 after spot adjustment; home field, DL/run game and Ole Miss letdown. | Collin Wilson: Florida ML -135 — Projects Florida -4; Florida Havoc/pass rush/tackling advantages. | Sammy P: Florida ML -155 — Market respect for Florida; prefers ML rather than laying 3. | Geoff Schwartz — Discussion/lean: Florida-ish on side, but stronger lean to Over because Ole Miss defense has struggled in yards/play, pressure and run/pass defense."
+      "Tracked Analysis / Picks": ""
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
-      "Game": "Iowa @ Michigan",
-      "Current Spread": "Iowa -5.5",
-      "Current Total": "38.5",
+      "Game": "Eastern Michigan @ UMass",
+      "Current Spread": "UMass -6.5",
+      "Current Total": "49.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "3+ EXPERT ALIGNMENT • Stuckey: Under 38 — Low-possession defensive profile. | Sammy P: Under 38.5 — Run-game difficulty, long third downs and conservative field position. | Geoff Schwartz: Under 38.5 — Aligned with low-scoring game script. | Bear: Iowa TT Under 17.5 — Does not expect Iowa to score much; bought to 17.5."
+      "Tracked Analysis / Picks": "Mike Calabrese — Underdog ML parlay: Eastern Michigan roughly +200. Questions whether UMass's defensive metrics are inflated by a soft schedule; trusts Chris Creighton as a MAC dog and thinks Noah Kim is competent enough in this class."
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
-      "Game": "Boise State @ Western Michigan",
-      "Current Spread": "Boise State -7",
+      "Game": "Ohio @ Kent State",
+      "Current Spread": "Ohio -3.5",
+      "Current Total": "50.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "3:30 PM",
+      "Game": "Old Dominion @ Georgia State",
+      "Current Spread": "Georgia State -2.5",
+      "Current Total": "51.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "3:30 PM",
+      "Game": "Virginia @ Florida State",
+      "Current Spread": "Virginia -2.5",
+      "Current Total": "51.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "3:30 PM",
+      "Game": "Memphis @ Charlotte",
+      "Current Spread": "Memphis -20.5",
       "Current Total": "53.5",
-      "My Ticket": "Boise State -7",
+      "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey: Discussion/lean — Not involved; slight Boise lean at -7 or better. Matchup: Western wants to attack Boise through air but that is not its strength; Boise DL should hold up, run game can work, and Boise can hit shots over top. | Collin Wilson — Discussion/ML parlay candidate: likes Boise ML; Boise's power/man-gap run concepts match up well with Western Michigan's run defense, with Dylan Riley productive after contact."
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "3:30 PM",
+      "Game": "Akron @ Central Michigan",
+      "Current Spread": "Central Michigan -6.5",
+      "Current Total": "47.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": "Duck — Triple Option: Central Michigan -6.5, playable under 7. Akron is depleted on the defensive front, down to QB3, 137th in offensive explosiveness and 134th in starting field position; CMU gets OL/fullback help back and can control the game on the ground. Mike agrees with the Akron/trench concerns but is less comfortable backing CMU's limited offense."
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "3:45 PM",
+      "Game": "Marshall @ James Madison",
+      "Current Spread": "James Madison -18.5",
+      "Current Total": "56.5",
+      "My Ticket": "James Madison -15.5",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": "Mike Calabrese — Triple Option: Marshall +18.5; makes JMU -13.5. Believes JMU's ODU blowout was flattered by backup-QB/short-field context and Marshall is a buy-low with Carlos Del Rio-Wilson healthy. Duck agrees 18.5 is outrageous and also makes it 13.5. CONFLICT: our JMU -15.5 ticket is 2 points beyond their fair number."
     },
     {
       "Date": "Sat",
       "Time ET": "4:00 PM",
-      "Game": "NC Central @ East Carolina",
-      "Current Spread": "East Carolina -31.5",
+      "Game": "Maryland @ Nebraska",
+      "Current Spread": "Nebraska -14.5",
       "Current Total": "52.5",
       "My Ticket": "",
       "SP+ Spread": "",
@@ -595,63 +525,41 @@
     {
       "Date": "Sat",
       "Time ET": "4:00 PM",
-      "Game": "Houston @ Georgia Southern",
-      "Current Spread": "Houston -18.5",
-      "Current Total": "56.5",
+      "Game": "UTEP @ New Mexico",
+      "Current Spread": "New Mexico -22.5",
+      "Current Total": "48.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bear — Favorite to Fade: Georgia Southern +points; difficult nonconference road spot for Houston after emotional loss, Clay Helton/Houston history, and Georgia Southern defensive effort. Envisions Houston win around 34-17 but GS cover."
+      "Tracked Analysis / Picks": ""
     },
     {
       "Date": "Sat",
       "Time ET": "4:15 PM",
-      "Game": "Vanderbilt @ Auburn",
-      "Current Spread": "Auburn -9.5",
-      "Current Total": "54.5",
-      "My Ticket": "Auburn -8.5 alt",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey: Auburn -9 — Auburn bounce-back; Vanderbilt emotional letdown. | Cleveland Cam — Actual bet: Auburn -9 (-110), 1u at ProphetX; full-risk playable at anything under 10. Cam makes Auburn -11.5. Bounce-back/sell-high thesis: Vanderbilt escaped NC State despite defensive/offensive struggles and now freshman QB Jared Curtis makes his first SEC road start at Jordan-Hare; Auburn is a major step up from Vanderbilt's Delaware/Austin Peay/NC State schedule on both sides. Expects Auburn offense to have success and Auburn defense to pressure Curtis. Market already moving toward -9.5, which Cam would still play at same risk; possible future upgrade to a bigger play."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "5:00 PM",
-      "Game": "Wisconsin @ Penn State",
-      "Current Spread": "Penn State -9.5",
-      "Current Total": "45",
+      "Game": "Kentucky @ South Carolina",
+      "Current Spread": "South Carolina -2.5",
+      "Current Total": "53.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey: Wisconsin +10.5 — Takes double digits against Penn State. | Sammy P: Wisconsin +10 — Expects Wisconsin to muck it up and stay inside double digits."
+      "Tracked Analysis / Picks": ""
     },
     {
       "Date": "Sat",
-      "Time ET": "5:00 PM",
-      "Game": "USF @ Bowling Green",
-      "Current Spread": "USF -17.5",
-      "Current Total": "48.5",
-      "My Ticket": "",
+      "Time ET": "4:15 PM",
+      "Game": "Purdue @ Illinois",
+      "Current Spread": "Illinois -9.5",
+      "Current Total": "62.5",
+      "My Ticket": "Illinois -9.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey: Bowling Green +17.5 — Direct conflict with Collin. | Collin Wilson: USF -17 — Projects USF -24; BGSU outside top 115 across key categories."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "5:00 PM",
-      "Game": "Nebraska @ Michigan State",
-      "Current Spread": "Nebraska -5.5",
-      "Current Total": "48.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Geoff Schwartz: Dog-to-cover / best-bet discussion — Michigan State; wants a physical, ugly game and notes Nebraska's first road test. Exact number not preserved in supplied excerpt."
+      "Tracked Analysis / Picks": ""
     },
     {
       "Date": "Sat",
       "Time ET": "6:00 PM",
-      "Game": "Incarnate Word @ Texas State",
-      "Current Spread": "Texas State -30.5",
+      "Game": "Texas Southern @ FAU",
+      "Current Spread": "FAU -43.5",
       "Current Total": "61.5",
       "My Ticket": "",
       "SP+ Spread": "",
@@ -661,294 +569,30 @@
     {
       "Date": "Sat",
       "Time ET": "6:00 PM",
-      "Game": "LIU @ FIU",
-      "Current Spread": "FIU -34.5",
-      "Current Total": "51.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "6:00 PM",
-      "Game": "James Madison @ Old Dominion",
-      "Current Spread": "James Madison -3.5",
-      "Current Total": "51.5",
-      "My Ticket": "Under 48",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson: Actual bet — Under 49.5; projects 43.5, ODU offense poor and ODU rush defense strong. | BBOC injury note: ODU QB Pinnacle questionable."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "6:00 PM",
-      "Game": "Delaware @ Virginia",
-      "Current Spread": "Virginia -19",
-      "Current Total": "52.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "6:30 PM",
-      "Game": "Louisiana @ Charlotte",
-      "Current Spread": "Louisiana -10.5",
-      "Current Total": "48.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "6:30 PM",
-      "Game": "Central Michigan @ Miami",
-      "Current Spread": "Miami -41.5",
-      "Current Total": "55",
-      "My Ticket": "Miami -41.5",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck: G6 Best Bet — Miami -41, playable under 42; CMU cannot sustain drives/pass, expects short fields and 52+ Miami. | Bear: Best bet derivative — CMU 1H shutout; expects few CMU possessions and no first-half score."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:00 PM",
-      "Game": "Mercyhurst @ Western Kentucky",
-      "Current Spread": "Western Kentucky -37.5",
-      "Current Total": "54.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:00 PM",
-      "Game": "Kennesaw State @ Arkansas State",
-      "Current Spread": "Arkansas State -6.5",
-      "Current Total": "52.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey — Actual bet: Arkansas State -5.5."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:00 PM",
-      "Game": "Kansas State @ Cincinnati",
-      "Current Spread": "Kansas State -6.5",
-      "Current Total": "53.5",
-      "My Ticket": "Over 53.5",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson: Over 53.5 — Projects 56; KSU scoring-position edge and Cincinnati rush explosiveness."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:00 PM",
-      "Game": "Middle Tennessee @ Jacksonville State",
-      "Current Spread": "Jacksonville State -8.5",
-      "Current Total": "54",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:00 PM",
-      "Game": "Oklahoma State @ West Virginia",
-      "Current Spread": "Oklahoma State -1.5",
-      "Current Total": "60.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bear: Discussion/no bet — No play; optimistic about WVU trajectory/Rich Rodriguez-Hawkins context. | Sammy P: Discussion/no bet — No wager; notes Oklahoma State's portal overhaul and that he moved the Cowboys up roughly five points from preseason. | Mike Calabrese — P4 play: Over 59.5; expects a fast-tempo Big 12 shootout with both offenses operating around 24 seconds per snap."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:00 PM",
-      "Game": "South Carolina @ Alabama",
-      "Current Spread": "Alabama -12.5",
-      "Current Total": "54.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey/Collin BBOC discussion — South Carolina has theoretical upside as offense settles and LT/Stewart health improves, but difficult to trust the offense right now."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:00 PM",
-      "Game": "Southern Miss @ Tulane",
-      "Current Spread": "Tulane -18.5",
-      "Current Total": "52.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:30 PM",
-      "Game": "Texas A&M @ LSU",
-      "Current Spread": "LSU -8.5",
-      "Current Total": "51.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bear: LSU -8.5 — LSU bounce-back; A&M rebuilding trenches and Reed struggling downfield."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:30 PM",
-      "Game": "Troy @ Utah State",
-      "Current Spread": "Utah State -3",
-      "Current Total": "48.5",
-      "My Ticket": "Under 49.5",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey: Utah State -2.5 — Side position; compatible with Collin total under. | Collin Wilson: Under 51 — Projects 41; both offenses near bottom in success."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:30 PM",
-      "Game": "Oregon @ USC",
-      "Current Spread": "Oregon -3",
+      "Game": "Oregon State @ Colorado State",
+      "Current Spread": "Oregon State -6",
       "Current Total": "62.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson: Oregon ML — Projects Oregon -5; USC pass defense/pass rush weakness. | Bear: USC 1Q +0.5 — Competitive early-game script. | Geoff Schwartz — Discussion: likes Oregon to win but refuses to lay 3.5; sees USC defensive/pass-rush issues but thinks market move is an overreaction. Oregon playoff future discussed instead of side."
+      "Tracked Analysis / Picks": "Mike Calabrese — Triple Option: Over 61. OSU passing attack should exploit CSU's poor pass rush; CSU can attack OSU's secondary, both teams top-40 tempo, and special-teams explosiveness can create short fields. Duck agrees with Mike's read and remains bullish on Oregon State's offense."
     },
     {
       "Date": "Sat",
-      "Time ET": "7:30 PM",
-      "Game": "Houston Christian @ North Texas",
-      "Current Spread": "North Texas -38.5",
-      "Current Total": "58.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:30 PM",
-      "Game": "Arizona @ Washington State",
-      "Current Spread": "Arizona -10",
-      "Current Total": "48.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:30 PM",
-      "Game": "App State @ NC State",
-      "Current Spread": "NC State -14",
-      "Current Total": "55.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "7:45 PM",
-      "Game": "Missouri @ Mississippi State",
-      "Current Spread": "Mississippi State -6.5",
-      "Current Total": "58.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "8:00 PM",
-      "Game": "Tulsa @ Arkansas",
-      "Current Spread": "Arkansas -7",
+      "Time ET": "7:00 PM",
+      "Game": "Arkansas @ Texas A&M",
+      "Current Spread": "Texas A&M -13.5",
       "Current Total": "50.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Mike Calabrese: Underdog ML parlay — Tulsa ML +220. | BBOC injury note — Tulsa expected to use its backup QB."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "8:00 PM",
-      "Game": "FAU @ UL Monroe",
-      "Current Spread": "FAU -13.5",
-      "Current Total": "57.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Mike Calabrese: Triple Option — FAU -13.5; returning to FAU after protecting the ball in the Shula Bowl and sees matchup edge."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "9:00 PM",
-      "Game": "UMass @ Sacramento State",
-      "Current Spread": "UMass -5",
-      "Current Total": "48.5",
-      "My Ticket": "UMass -4.5",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Mike Calabrese: UMass -4.5 — UMass trench/pass-rush and third-down advantages vs Sac State. | Cleveland Cam: UMass -5.5 — Sac State poor rush efficiency/explosives/early downs vs UMass defense; projects 31-13."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "9:00 PM",
-      "Game": "Oregon State @ UTEP",
-      "Current Spread": "UTEP -10.5",
-      "Current Total": "55.5",
-      "My Ticket": "Oregon State TT Over 33.5",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck: Triple Option — Oregon State TT Over 33.5; passing mismatch/field-position edge, expects about 40. | Mike Calabrese: G6 Best Bet — Over 54.5; OSU offense drives scoring and UTEP likely forced to chase."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "9:00 PM",
-      "Game": "Missouri State @ SMU",
-      "Current Spread": "SMU -34.5",
-      "Current Total": "59.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey — Actual bet: Missouri State +35; small underdog position from his posted Week 4 card."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "10:00 PM",
-      "Game": "Rice @ Fresno State",
-      "Current Spread": "Fresno State -13.5",
-      "Current Total": "44.5",
-      "My Ticket": "Fresno State -13.5",
-      "SP+ Spread": "",
-      "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck: Fresno State -13.5 — Rice passing/third-down weakness vs Fresno coverage/run defense; expects separation."
-    },
-    {
-      "Date": "Sat",
-      "Time ET": "10:30 PM",
-      "Game": "Air Force @ Nevada",
-      "Current Spread": "Air Force -4.5",
-      "Current Total": "48.5",
-      "My Ticket": "",
-      "SP+ Spread": "",
-      "SP+ Total": "",
       "Tracked Analysis / Picks": ""
     },
     {
       "Date": "Sat",
-      "Time ET": "10:30 PM",
-      "Game": "Georgia Tech @ Stanford",
-      "Current Spread": "Georgia Tech -4.5",
+      "Time ET": "7:00 PM",
+      "Game": "BYU @ TCU",
+      "Current Spread": "BYU -6.5",
       "Current Total": "47.5",
       "My Ticket": "",
       "SP+ Spread": "",
@@ -957,331 +601,276 @@
     },
     {
       "Date": "Sat",
-      "Time ET": "11:00 PM",
-      "Game": "Minnesota @ Washington",
-      "Current Spread": "Washington -10",
+      "Time ET": "7:00 PM",
+      "Game": "UL Monroe @ South Alabama",
+      "Current Spread": "South Alabama -13.5",
+      "Current Total": "57.5",
+      "My Ticket": "Over 55.5",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "7:00 PM",
+      "Game": "UTSA @ Rice",
+      "Current Spread": "UTSA -11.5",
+      "Current Total": "56.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": "Duck — Triple Option: UTSA -11.5, still good around 12. Rice is heavily dependent on Jakuri Brown, whose ankle/mobility is a concern; Rice defense has faded late and allows explosive runs. Duck sees blowout potential and discussed alt-margin possibilities."
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "7:00 PM",
+      "Game": "Georgia Southern @ Coastal Carolina",
+      "Current Spread": "Georgia Southern -2.5",
+      "Current Total": "54.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": "Duck — Underdog ML parlay: Coastal Carolina +114. Georgia Southern's recent defense/pass rush has been poor; Coastal has played better than results and Duck sees a favorable home/schedule spot with outright-win potential."
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "7:30 PM",
+      "Game": "Miami @ Clemson",
+      "Current Spread": "Miami -16.5",
+      "Current Total": "47.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "7:30 PM",
+      "Game": "Temple @ South Florida",
+      "Current Spread": "South Florida -6.5",
+      "Current Total": "48.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "7:30 PM",
+      "Game": "Army @ Louisiana Tech",
+      "Current Spread": "Army -2",
+      "Current Total": "47.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "7:30 PM",
+      "Game": "Utah State @ Boise State",
+      "Current Spread": "Boise State -20",
+      "Current Total": "51.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "7:30 PM",
+      "Game": "Texas Tech @ Colorado",
+      "Current Spread": "Texas Tech -11.5",
+      "Current Total": "50.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "7:30 PM",
+      "Game": "Washington @ USC",
+      "Current Spread": "USC -9.5",
+      "Current Total": "58.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "7:45 PM",
+      "Game": "McNeese State @ LSU",
+      "Current Spread": "LSU -53.5",
+      "Current Total": "61.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "8:00 PM",
+      "Game": "Indiana @ Rutgers",
+      "Current Spread": "Indiana -23.5",
+      "Current Total": "56.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "8:00 PM",
+      "Game": "Arkansas State @ Louisiana",
+      "Current Spread": "Louisiana -6.5",
+      "Current Total": "47.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "9:30 PM",
+      "Game": "Fresno State @ Washington State",
+      "Current Spread": "Washington State -1.5",
       "Current Total": "45.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "10:30 PM",
+      "Game": "Baylor @ Arizona State",
+      "Current Spread": "Arizona State -4",
+      "Current Total": "49.5",
+      "My Ticket": "Baylor +4.5",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "10:30 PM",
+      "Game": "Texas State @ San Diego State",
+      "Current Spread": "Texas State -7.5",
+      "Current Total": "58.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": "Mike Calabrese — Triple Option / G6 Best Bet: Texas State -4.5; comfortable to the verge of -7. SDSU's feature backs are banged up, QB struggles badly against pressure, and Texas State's offense has scored 112 points in two weeks. Duck strongly agrees with the matchup and expects Texas State to score heavily."
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "11:00 PM",
+      "Game": "Cincinnati @ Arizona",
+      "Current Spread": "Arizona -6.5",
+      "Current Total": "56.5",
+      "My Ticket": "Cincinnati +7.5",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sun",
+      "Time ET": "12:00 AM",
+      "Game": "San Jose State @ Hawaii",
+      "Current Spread": "Hawaii -2.5",
+      "Current Total": "51.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": "Duck — Triple Option / G6 Best Bet: Under 51.5. Both offenses lack downfield explosiveness, Hawaii is battered and inefficient in the red zone, SJSU can lean on the run vs Hawaii's depleted front; expects long drives and field goals. Duck projected a close around 49.5. Mike says this is the Duck Triple Option play he likes best."
     }
   ],
   "experts": [
     {
-      "Capper": "Stuckey",
-      "Game": "Ole Miss @ Florida",
-      "Classification": "Actual bet • 3+ alignment",
-      "Pick / Number": "Florida -2.5 (-120)",
-      "One-Bullet Logic": "Needed under 3; rates Florida around -3.6 after spot adjustment; home field, DL/run game and Ole Miss letdown."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Ole Miss @ Florida",
-      "Classification": "Actual bet • 3+ alignment",
-      "Pick / Number": "Florida ML -135",
-      "One-Bullet Logic": "Projects Florida -4; Florida Havoc/pass rush/tackling advantages."
-    },
-    {
-      "Capper": "Sammy P",
-      "Game": "Ole Miss @ Florida",
-      "Classification": "Best bet • 3+ alignment",
-      "Pick / Number": "Florida ML -155",
-      "One-Bullet Logic": "Market respect for Florida; prefers ML rather than laying 3."
-    },
-    {
-      "Capper": "Stuckey",
-      "Game": "Iowa @ Michigan",
-      "Classification": "Actual bet • 3+ alignment",
-      "Pick / Number": "Under 38",
-      "One-Bullet Logic": "Low-possession defensive profile."
-    },
-    {
-      "Capper": "Sammy P",
-      "Game": "Iowa @ Michigan",
-      "Classification": "Best bet • 3+ alignment",
-      "Pick / Number": "Under 38.5",
-      "One-Bullet Logic": "Run-game difficulty, long third downs and conservative field position."
-    },
-    {
-      "Capper": "Geoff Schwartz",
-      "Game": "Iowa @ Michigan",
-      "Classification": "Best bet • 3+ alignment",
-      "Pick / Number": "Under 38.5",
-      "One-Bullet Logic": "Aligned with low-scoring game script."
-    },
-    {
-      "Capper": "Stuckey",
-      "Game": "Wake Forest @ Louisville",
-      "Classification": "Actual bet",
-      "Pick / Number": "Wake +13",
-      "One-Bullet Logic": "Louisville situational fatigue/sloppiness; Gio Lopez health caveat."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Wake Forest @ Louisville",
-      "Classification": "Actual bet",
-      "Pick / Number": "Wake +13.5",
-      "One-Bullet Logic": "Projects Louisville -12; Wake passing matchup and finishing-drive/penalty edge."
-    },
-    {
-      "Capper": "Stuckey",
-      "Game": "Oklahoma @ Georgia",
-      "Classification": "Actual bet",
-      "Pick / Number": "Under 45.5",
-      "One-Bullet Logic": "Anything north of 45 called primo; Oklahoma scoring concern."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Oklahoma @ Georgia",
-      "Classification": "Actual bet",
-      "Pick / Number": "Under 44.5",
-      "One-Bullet Logic": "Projects 38; OU rush offense limited, OU defense can slow Georgia."
-    },
-    {
-      "Capper": "Cleveland Cam",
-      "Game": "Oklahoma @ Georgia",
-      "Classification": "2U actual bet",
-      "Pick / Number": "Georgia -14",
-      "One-Bullet Logic": "OU offensive weakness; Georgia balanced offense/OL can survive OU pressure. Projects 31-13."
-    },
-    {
       "Capper": "Duck",
-      "Game": "Central Michigan @ Miami",
-      "Classification": "G6 Best Bet",
-      "Pick / Number": "Miami -41",
-      "One-Bullet Logic": "CMU cannot sustain drives or throw; expects short fields and 52+ Miami points; playable under 42."
-    },
-    {
-      "Capper": "Bear",
-      "Game": "Central Michigan @ Miami",
-      "Classification": "Best bet derivative",
-      "Pick / Number": "CMU 1H shutout",
-      "One-Bullet Logic": "CMU run-based/slow; expects few possessions and no first-half score."
-    },
-    {
-      "Capper": "Duck",
-      "Game": "Oregon State @ UTEP",
+      "Game": "Akron @ Central Michigan",
       "Classification": "Triple Option",
-      "Pick / Number": "Oregon State TT Over 33.5",
-      "One-Bullet Logic": "OSU passing mismatch; poor UTEP field position can create short fields; expects about 40."
+      "Pick / Number": "Central Michigan -6.5",
+      "One-Bullet Logic": "Playable under 7; Akron QB3/depleted front and near-bottom explosiveness; CMU run/control matchup."
     },
     {
       "Capper": "Mike Calabrese",
-      "Game": "Oregon State @ UTEP",
-      "Classification": "G6 Best Bet",
-      "Pick / Number": "Over 54.5",
-      "One-Bullet Logic": "OSU offense drives scoring; UTEP likely forced to chase and speed up."
-    },
-    {
-      "Capper": "Duck",
-      "Game": "Rice @ Fresno State",
+      "Game": "Oregon State @ Colorado State",
       "Classification": "Triple Option",
-      "Pick / Number": "Fresno State -13.5",
-      "One-Bullet Logic": "Rice passing/third-down weakness vs Fresno coverage/run defense; expects separation."
+      "Pick / Number": "Over 61",
+      "One-Bullet Logic": "OSU pass offense vs weak CSU rush; both top-40 tempo; CSU can contribute vs OSU secondary."
     },
     {
       "Capper": "Duck",
-      "Game": "Navy @ UAB",
-      "Classification": "App bet + ML",
-      "Pick / Number": "UAB +7.5 / ML",
-      "One-Bullet Logic": "Navy QB downgrade; UAB limits explosive runs and defends third down."
+      "Game": "UTSA @ Rice",
+      "Classification": "Triple Option",
+      "Pick / Number": "UTSA -11.5",
+      "One-Bullet Logic": "Rice QB Brown ankle concern; Rice defense fades late; sees blowout potential."
+    },
+    {
+      "Capper": "Mike Calabrese",
+      "Game": "Texas State @ San Diego State",
+      "Classification": "Triple Option • G6 Best Bet",
+      "Pick / Number": "Texas State -4.5",
+      "One-Bullet Logic": "SDSU RB injuries/QB pressure issues vs red-hot Texas State offense; playable near -7."
     },
     {
       "Capper": "Duck",
-      "Game": "Virginia Tech @ Boston College",
+      "Game": "San Jose State @ Hawaii",
+      "Classification": "Triple Option • G6 Best Bet",
+      "Pick / Number": "Under 51.5",
+      "One-Bullet Logic": "Non-explosive offenses, Hawaii injuries/red-zone issues; expects methodical drives/FGs and close ~49.5."
+    },
+    {
+      "Capper": "Mike Calabrese",
+      "Game": "Marshall @ James Madison",
+      "Classification": "Triple Option • conflict with our ticket",
+      "Pick / Number": "Marshall +18.5",
+      "One-Bullet Logic": "Makes JMU -13.5; buy-low Marshall and says JMU perception inflated."
+    },
+    {
+      "Capper": "Duck",
+      "Game": "Georgia Southern @ Coastal Carolina",
+      "Classification": "Underdog ML parlay",
+      "Pick / Number": "Coastal Carolina +114",
+      "One-Bullet Logic": "Georgia Southern defense/pass rush struggling; Coastal home/schedule spot and QB/receiver upside."
+    },
+    {
+      "Capper": "Mike Calabrese",
+      "Game": "Eastern Michigan @ UMass",
+      "Classification": "Underdog ML parlay",
+      "Pick / Number": "Eastern Michigan ~+200",
+      "One-Bullet Logic": "UMass metrics inflated by schedule; Creighton dog history and competent Noah Kim."
+    },
+    {
+      "Capper": "Duck",
+      "Game": "Syracuse @ UConn",
       "Classification": "P4 play",
-      "Pick / Number": "Virginia Tech -13.5",
-      "One-Bullet Logic": "VT run defense forces BC to throw behind poor pass protection; comfortable to -14."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Virginia Tech @ Boston College",
-      "Classification": "Actual bet",
-      "Pick / Number": "Virginia Tech -14",
-      "One-Bullet Logic": "Projects -14; VT Havoc/line yards vs BC run-first offense."
-    },
-    {
-      "Capper": "Bear",
-      "Game": "Virginia Tech @ Boston College",
-      "Classification": "Best bet • conflict",
-      "Pick / Number": "Boston College +14",
-      "One-Bullet Logic": "Directly opposes Duck and Collin."
+      "Pick / Number": "Syracuse -6.5",
+      "One-Bullet Logic": "UConn coverage/pass rush vulnerable; expects Syracuse best effort and 14–17 point win."
     },
     {
       "Capper": "Mike Calabrese",
-      "Game": "UMass @ Sacramento State",
-      "Classification": "Triple Option",
-      "Pick / Number": "UMass -4.5",
-      "One-Bullet Logic": "UMass trench/pass-rush and third-down advantages vs Sac State."
+      "Game": "Syracuse @ UConn",
+      "Classification": "P4 play • conflict",
+      "Pick / Number": "UConn +points",
+      "One-Bullet Logic": "Opposes Duck; distrusts Syracuse QB play and prefers UConn as dog."
     },
     {
-      "Capper": "Cleveland Cam",
-      "Game": "UMass @ Sacramento State",
-      "Classification": "Actual bet",
-      "Pick / Number": "UMass -5.5",
-      "One-Bullet Logic": "Sac State poor rush efficiency/explosives/early downs vs UMass defense; projects 31-13."
+      "Capper": "Mike Calabrese",
+      "Game": "Alabama @ Mississippi State",
+      "Classification": "P4 play • high confidence",
+      "Pick / Number": "Over 59.5",
+      "One-Bullet Logic": "Alabama explosive offense + Mississippi State tempo/chase script; sees 70s ceiling."
     },
     {
-      "Capper": "Cleveland Cam",
-      "Game": "San Diego State @ Toledo",
-      "Classification": "Actual bet",
-      "Pick / Number": "Toledo -2.5",
-      "One-Bullet Logic": "SDSU cannot throw/chase; Toledo explosive offense faces weak SDSU pressure."
-    },
-    {
-      "Capper": "Stuckey",
-      "Game": "Vanderbilt @ Auburn",
-      "Classification": "Actual bet",
-      "Pick / Number": "Auburn -9",
-      "One-Bullet Logic": "Auburn bounce-back; Vanderbilt emotional letdown."
-    },
-    {
-      "Capper": "Stuckey",
-      "Game": "Wisconsin @ Penn State",
-      "Classification": "Actual bet",
-      "Pick / Number": "Wisconsin +10.5",
-      "One-Bullet Logic": "Takes double digits against Penn State."
-    },
-    {
-      "Capper": "Sammy P",
-      "Game": "Wisconsin @ Penn State",
-      "Classification": "Best bet",
-      "Pick / Number": "Wisconsin +10",
-      "One-Bullet Logic": "Expects Wisconsin to muck it up and stay inside double digits."
-    },
-    {
-      "Capper": "Stuckey",
-      "Game": "USF @ Bowling Green",
-      "Classification": "Actual bet • conflict",
-      "Pick / Number": "Bowling Green +17.5",
-      "One-Bullet Logic": "Direct conflict with Collin."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "USF @ Bowling Green",
-      "Classification": "Actual bet • conflict",
-      "Pick / Number": "USF -17",
-      "One-Bullet Logic": "Projects USF -24; BGSU outside top 115 across key categories."
-    },
-    {
-      "Capper": "Stuckey",
-      "Game": "Troy @ Utah State",
-      "Classification": "Actual bet",
-      "Pick / Number": "Utah State -2.5",
-      "One-Bullet Logic": "Side position; compatible with Collin total under."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Troy @ Utah State",
-      "Classification": "Actual bet",
-      "Pick / Number": "Under 51",
-      "One-Bullet Logic": "Projects 41; both offenses near bottom in success."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Sam Houston @ Texas Tech",
-      "Classification": "Actual bet",
-      "Pick / Number": "Under 55.5",
-      "One-Bullet Logic": "Projects 48; SHSU suppresses pass explosives and grades well in Havoc/finishing drives."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Kansas State @ Cincinnati",
-      "Classification": "Actual bet",
-      "Pick / Number": "Over 53.5",
-      "One-Bullet Logic": "Projects 56; KSU scoring-position edge and Cincinnati rush explosiveness."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "James Madison @ Old Dominion",
-      "Classification": "Actual bet",
-      "Pick / Number": "Under 49.5",
-      "One-Bullet Logic": "Projects 43.5; ODU offense poor, ODU rush defense strong."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Notre Dame @ Purdue",
-      "Classification": "Actual bet",
-      "Pick / Number": "Over 56.5",
-      "One-Bullet Logic": "Projects 61.5; Purdue passing success plus ND explosive opportunities."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Clemson @ California",
-      "Classification": "Low-unit actual bet • conflict",
-      "Pick / Number": "Clemson +1.5",
-      "One-Bullet Logic": "Projects Clemson -3 but low-unit due short-week west travel."
-    },
-    {
-      "Capper": "Sammy P",
-      "Game": "Clemson @ California",
-      "Classification": "Best bet • conflict",
-      "Pick / Number": "California +1.5",
-      "One-Bullet Logic": "Thinks Cal should be favored."
-    },
-    {
-      "Capper": "Geoff Schwartz",
-      "Game": "Clemson @ California",
-      "Classification": "Best bet • conflict",
-      "Pick / Number": "California +1.5",
-      "One-Bullet Logic": "Tails Sammy; likes Cal form and home Friday spot."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Liberty @ Coastal Carolina",
-      "Classification": "Actual bet",
-      "Pick / Number": "Liberty ML",
-      "One-Bullet Logic": "Projects Liberty -3.5; Coastal poor Havoc Allowed/pass EPA defense."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Oregon @ USC",
-      "Classification": "Actual bet",
-      "Pick / Number": "Oregon ML",
-      "One-Bullet Logic": "Projects Oregon -5; USC pass defense/pass rush weakness."
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Texas @ Tennessee",
-      "Classification": "Actual bet",
-      "Pick / Number": "Tennessee +5.5",
-      "One-Bullet Logic": "Fade Texas offense: Havoc Allowed, run blocking, drops and recurring mistakes."
-    },
-    {
-      "Capper": "Stuckey",
-      "Game": "Texas @ Tennessee",
-      "Classification": "Small show play",
-      "Pick / Number": "Tennessee + points",
-      "One-Bullet Logic": "Joins Collin but notes uncertainty and keeps it smaller."
-    },
-    {
-      "Capper": "Bear",
-      "Game": "Texas A&M @ LSU",
-      "Classification": "Best bet",
-      "Pick / Number": "LSU -8.5",
-      "One-Bullet Logic": "LSU bounce-back; A&M rebuilding trenches and Reed struggling downfield."
-    },
-    {
-      "Capper": "Bear",
-      "Game": "Oregon @ USC",
-      "Classification": "Best bet derivative",
-      "Pick / Number": "USC 1Q +0.5",
-      "One-Bullet Logic": "Competitive early-game script."
-    },
-    {
-      "Capper": "Bear",
-      "Game": "Iowa @ Michigan",
-      "Classification": "Best bet derivative",
-      "Pick / Number": "Iowa TT Under 17.5",
-      "One-Bullet Logic": "Does not expect Iowa to score much; bought to 17.5."
-    },
-    {
-      "Capper": "Geoff Schwartz",
-      "Game": "UCLA @ Maryland",
-      "Classification": "Best bet",
-      "Pick / Number": "Maryland",
-      "One-Bullet Logic": "UCLA travel/body-clock, defense and penalty concerns; Maryland bounce-back."
+      "Capper": "Duck",
+      "Game": "Liberty @ Delaware",
+      "Classification": "Discussion / app play",
+      "Pick / Number": "Liberty",
+      "One-Bullet Logic": "Already has Liberty in app; Delaware injuries and Liberty rejuvenation/Conference USA run angle."
     }
   ]
 }
