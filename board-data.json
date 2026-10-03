@@ -1,6 +1,6 @@
 {
   "week": "Week 5 — Oct 1–4, 2026",
-  "lastUpdated": "Oct 2, 2026 — added Bear Bets Week 5 transcript intel",
+  "lastUpdated": "Oct 2, 2026 — added Bet Labs Week 5 plays",
   "marketSource": "Full Week 5 FBS/FBS-vs-FCS slate and current spread/total snapshot from CBS Sports odds retrieved Oct 1, 2026. Expert intel from user-supplied Week 5 Sixth Gear transcript (Duck + Mike Calabrese). Lines move; original user tickets remain separate.",
   "myPicks": [
     {
@@ -37,7 +37,7 @@
       "SP+ Total": "",
       "Game": "Liberty @ Delaware",
       "My Pick": "Liberty -6.5 • $37.50 risk",
-      "Capper / Model Analysis": "Duck — Discussion/App play: already has Liberty in the app; Delaware has key injuries, Liberty looks rejuvenated and should be fully focused. Supports Liberty on the road."
+      "Capper / Model Analysis": "Duck — Discussion/App play: already has Liberty in the app; Delaware has key injuries, Liberty looks rejuvenated and should be fully focused. Supports Liberty on the road.\nBet Labs — TEASER LEG: Liberty ML paired with Pittsburgh +7.5, -114 at FanDuel, 1u. Would consider laying Liberty points but calls spread suspect/possible Delaware QB uncertainty; still views Delaware as fade and expects Liberty to move ball/control game. SUPPORTS our Liberty -6.5 direction, though Bet Labs specifically buys to ML."
     },
     {
       "Date": "Sat",
@@ -168,7 +168,7 @@
       "My Ticket": "Liberty -6.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck — Discussion/App play: already has Liberty in the app; Delaware has key injuries, Liberty looks rejuvenated and should be fully focused. Supports Liberty on the road."
+      "Tracked Analysis / Picks": "Duck — Discussion/App play: already has Liberty in the app; Delaware has key injuries, Liberty looks rejuvenated and should be fully focused. Supports Liberty on the road.\nBet Labs — TEASER LEG: Liberty ML paired with Pittsburgh +7.5, -114 at FanDuel, 1u. Would consider laying Liberty points but calls spread suspect/possible Delaware QB uncertainty; still views Delaware as fade and expects Liberty to move ball/control game. SUPPORTS our Liberty -6.5 direction, though Bet Labs specifically buys to ML."
     },
     {
       "Date": "Fri",
@@ -179,7 +179,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Bet Labs — TEASER LEG: Pittsburgh +7.5 paired with Liberty ML, -114 at FanDuel, 1u. Leaned Pitt at opener; after adverse steam likes buying through key numbers to full TD + hook."
     },
     {
       "Date": "Fri",
@@ -190,7 +190,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Bet Labs — BET: Northwestern +3 (-110), 1u. Home spot after competitive Indiana game; Penn State off blown home lead to Wisconsin and offense viewed as ordinary. Notes Northwestern injuries (Turner/Fussell/Dehnicke) but experienced depth; Penn State has injuries too."
     },
     {
       "Date": "Sat",
@@ -223,7 +223,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Bet Labs — BET: SMU -21 (-110), 1u. Anything below 21 fine; 21.5 for 0.75u. Bounce-back after misleading Missouri State scoreboard despite statistical dominance. BC travels Boston→Dallas after nor'easter game whose rain/40 MPH gusts neutralized VT passing and suited BC. Expects #1 passing offense/Kevin Jennings to have time against BC secondary and SMU to dominate at home."
     },
     {
       "Date": "Sat",
@@ -663,7 +663,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey/Collin — Board/Wilson special: Louisiana Tech +2. Extra prep off bye vs Army option, Army defense concerns, strong La Tech defensive line metrics and possible personnel returns."
+      "Tracked Analysis / Picks": "Stuckey/Collin — Board/Wilson special: Louisiana Tech +2. Extra prep off bye vs Army option, Army defense concerns, strong La Tech defensive line metrics and possible personnel returns.\nBet Labs — BET: Louisiana Tech +2.5 (-114), 1u; +1.5/ML also fine. Major SOS discrepancy (LT top-10 schedule vs Army near 130th), LT rested off bye, Army severely outgained by Temple. Likes Kukuk mobility if Baker sits and matchup vs poor Army defensive success rate. AGREES with BBOC Louisiana Tech +2."
     },
     {
       "Date": "Sat",
@@ -1018,6 +1018,41 @@
       "Classification": "Dog to Cover",
       "Pick / Number": "Colorado State +6.5",
       "One-Bullet Logic": "Expects points; Oregon State defense vulnerable, with CSU QB status the concern."
+    },
+    {
+      "Capper": "Bet Labs",
+      "Game": "Boston College @ SMU",
+      "Classification": "Bet",
+      "Pick / Number": "SMU -21 (-110), 1u",
+      "One-Bullet Logic": "Bounce-back/home spot; BC travel/weather distortion from VT game and weak pressure/secondary vs elite SMU passing attack. <21 fine; 21.5 0.75u."
+    },
+    {
+      "Capper": "Bet Labs",
+      "Game": "Pittsburgh @ Virginia Tech",
+      "Classification": "Teaser leg",
+      "Pick / Number": "Pittsburgh +7.5",
+      "One-Bullet Logic": "Buys Pitt through key numbers after adverse steam; paired with Liberty ML at -114."
+    },
+    {
+      "Capper": "Bet Labs",
+      "Game": "Liberty @ Delaware",
+      "Classification": "Teaser leg / Agree",
+      "Pick / Number": "Liberty ML",
+      "One-Bullet Logic": "Fade Delaware/QB uncertainty; expects Liberty to control and move ball consistently; paired with Pitt +7.5."
+    },
+    {
+      "Capper": "Bet Labs",
+      "Game": "Penn State @ Northwestern",
+      "Classification": "Bet",
+      "Pick / Number": "Northwestern +3 (-110), 1u",
+      "One-Bullet Logic": "Northwestern home bounce-back spot vs Penn State off brutal loss; PSU offense unimpressive and both teams managing injuries."
+    },
+    {
+      "Capper": "Bet Labs",
+      "Game": "Army @ Louisiana Tech",
+      "Classification": "Bet / Convergence",
+      "Pick / Number": "Louisiana Tech +2.5 (-114), 1u",
+      "One-Bullet Logic": "Huge SOS gap, rested LT off bye, Army off misleading win; +1.5/ML also acceptable."
     }
   ]
 }
