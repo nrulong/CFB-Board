@@ -1,6 +1,6 @@
 {
   "week": "Week 5 — Oct 1–4, 2026",
-  "lastUpdated": "Oct 3, 2026 — expanded BBOC board discussion + Discord integration",
+  "lastUpdated": "Oct 3, 2026 — replaced generic BBOC mentions with source-specific matchup summaries",
   "marketSource": "Full Week 5 FBS/FBS-vs-FCS slate and current spread/total snapshot from CBS Sports odds retrieved Oct 1, 2026. Expert intel from user-supplied Week 5 Sixth Gear transcript (Duck + Mike Calabrese). Lines move; original user tickets remain separate.",
   "myPicks": [
     {
@@ -277,7 +277,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Pythagoras — BET: Navy +3.5 (-115), 1u. Discord-sourced official play; preserve posted number/price.\nBBOC — Matchup discussed in the episode; preserve as discussion rather than inventing a side where no official board play was stated."
+      "Tracked Analysis / Picks": "Pythagoras — BET: Navy +3.5 (-115), 1u. Discord-sourced official play; preserve posted number/price.\nBBOC — Stuckey and Collin both lean OVER. Stuckey: Navy can't defend the pass and Air Force can't defend the run, so expects more explosives than a typical service-academy game; made the side about Air Force -3. Collin agrees strongly: both offenses have major line-yards, stuff-rate, quality-drive and finishing-drive advantages and says the ground games/methodical drives should work for both; he planned to be on the Over."
     },
     {
       "Date": "Sat",
@@ -299,7 +299,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bear Bets — Sammy dog pick Minnesota +5.5; Geoff also likes Minnesota and later lists +5.5 among wagers, citing Michigan's first road game and offense concerns.\nBBOC (Stuckey/Collin) — NO DIRECT MATCHUP BREAKDOWN found in the supplied Week 5 episode transcript. Minnesota is mentioned only in other-game context; do not infer a BBOC side."
+      "Tracked Analysis / Picks": "Bear Bets — Sammy dog pick Minnesota +5.5; Geoff also likes Minnesota and later lists +5.5 among wagers, citing Michigan's first road game and offense concerns.\nBBOC — Not directly discussed as a matchup in the supplied Week 5 episode. Minnesota is only referenced while discussing Mississippi State's résumé and Washington's prior loss; no Stuckey/Collin side, total, lean or matchup thesis is stated."
     },
     {
       "Date": "Sat",
@@ -475,7 +475,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "BBOC — Matchup discussion: Tennessee in potential emotional/letdown spot after Texas; Auburn difficult to trust. No official BBOC side added."
+      "Tracked Analysis / Picks": "BBOC — Stuckey is out on Auburn's offense because its OL can't block Power Four fronts; despite the fastest projected tempo of the week, he leans UNDER and wants 55, believing both defensive fronts can wreck drives. Slight Tennessee lean below -7. Collin has no side; projects total 53 and also wants Under 55, focused on Tennessee guard injuries/inside-zone limitations plus Auburn's blocking problems and Byron Brown facing Jim Knowles."
     },
     {
       "Date": "Sat",
@@ -662,7 +662,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bet Labs — BET: TCU +6.5 (-110), 1u. Buy-low home dog / sell-high BYU; Dwyer return adds offensive upside; TCU run defense matches BYU's run-heavy strength.\nBBOC — Discussion included a TCU side case: home dog/revenge, improved health at WR and defensive matchup vs BYU; treated as discussion unless/until exact official ticket is stated."
+      "Tracked Analysis / Picks": "Bet Labs — BET: TCU +6.5 (-110), 1u. Buy-low home dog / sell-high BYU; Dwyer return adds offensive upside; TCU run defense matches BYU's run-heavy strength.\nBBOC — Stuckey played TCU +6/+6.5: buy-low home dog, Dwyer back, improving new offense, strong TCU run defense vs BYU's strength, distrusts BYU passing game and thinks TCU can win outright. Collin also likes TCU, makes it +4.5, cites a big tackling edge, TCU top-20 run-defense efficiency and BYU tackle issues; prefers patience for +7. Both note TCU is healthier at WR and BYU's tackle injury matters on the road."
     },
     {
       "Date": "Sat",
