@@ -1,6 +1,6 @@
 {
   "week": "Week 5 — Oct 1–4, 2026",
-  "lastUpdated": "Oct 2, 2026 — added Bet Labs Week 5 plays",
+  "lastUpdated": "Oct 3, 2026 — reconciled chat + Discord CFB intel (Pythagoras, Anders) and missing user tickets",
   "marketSource": "Full Week 5 FBS/FBS-vs-FCS slate and current spread/total snapshot from CBS Sports odds retrieved Oct 1, 2026. Expert intel from user-supplied Week 5 Sixth Gear transcript (Duck + Mike Calabrese). Lines move; original user tickets remain separate.",
   "myPicks": [
     {
@@ -134,6 +134,71 @@
       "Game": "Cincinnati @ Arizona",
       "My Pick": "Cincinnati +7.5 • $34.50 risk",
       "Capper / Model Analysis": "Bear Bets — Sammy BEST BET: Arizona -6.5; says anything under 7 is a fire, citing Arizona offensive edge, Cincinnati limited vertically and desert heat. Ed Sammon makes Arizona -10."
+    },
+    {
+      "Date": "",
+      "Time ET": "",
+      "Read": "",
+      "Current Line": "",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Game": "Akron @ Central Michigan",
+      "My Pick": "",
+      "Capper / Model Analysis": "User-added Week 5 ticket from Duck; exact stake/odds not provided.",
+      "Pick": "Central Michigan -6.5"
+    },
+    {
+      "Date": "",
+      "Time ET": "",
+      "Read": "",
+      "Current Line": "",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Game": "Oregon State @ Colorado State",
+      "My Pick": "",
+      "Capper / Model Analysis": "User-added Week 5 ticket from Mike Calabrese; exact stake/odds not provided.",
+      "Pick": "Over 61.5"
+    },
+    {
+      "Date": "",
+      "Time ET": "",
+      "Read": "",
+      "Current Line": "",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Game": "UTSA @ Rice",
+      "My Pick": "",
+      "Capper / Model Analysis": "User-added Week 5 ticket from Duck; exact stake/odds not provided.",
+      "Pick": "UTSA -11.5"
+    },
+    {
+      "Date": "",
+      "Time ET": "",
+      "Read": "",
+      "Current Line": "",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Game": "Texas State @ San Diego State",
+      "My Pick": "",
+      "Capper / Model Analysis": "User-added Week 5 ticket from Mike Calabrese; exact stake/odds not provided.",
+      "Pick": "Texas State -4.5"
+    },
+    {
+      "Date": "",
+      "Time ET": "",
+      "Read": "",
+      "Current Line": "",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Game": "San Jose State @ Hawaii",
+      "My Pick": "",
+      "Capper / Model Analysis": "User-added Week 5 ticket from Duck; exact stake/odds not provided.",
+      "Pick": "Under 51.5"
     }
   ],
   "allGames": [
@@ -212,7 +277,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Pythagoras — BET: Navy +3.5 (-115), 1u. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -256,7 +321,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Pythagoras — BET: West Virginia +3.5 (-115), 1u. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -289,7 +354,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Pythagoras — BET: Over 45 (-125), 1u; bought 1/2 point at BetOnline. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -300,7 +365,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck — P4 play: Syracuse -6.5; expects Syracuse's passing game to exploit one of the weaker coverage/pass-rush units and sees a motivated bounce-back, predicting a 14–17 point win. Mike Calabrese — Opposite side: UConn +points; distrusts Syracuse QB play and likes Jim Mora/Jason Candle-type dog profile despite acknowledging Syracuse has played better than its record.\nBBOC — Additional Week 5 discussion present in episode; keep separate from Duck/Mike positions. No official BBOC board play captured in recap."
+      "Tracked Analysis / Picks": "Duck — P4 play: Syracuse -6.5; expects Syracuse's passing game to exploit one of the weaker coverage/pass-rush units and sees a motivated bounce-back, predicting a 14–17 point win. Mike Calabrese — Opposite side: UConn +points; distrusts Syracuse QB play and likes Jim Mora/Jason Candle-type dog profile despite acknowledging Syracuse has played better than its record.\nBBOC — Additional Week 5 discussion present in episode; keep separate from Duck/Mike positions. No official BBOC board play captured in recap.\nAnders — BET: Syracuse -6.5 (-110), 1u. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -311,7 +376,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Pythagoras — BET: Michigan State +10.5 (-117), 1u. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -388,7 +453,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Pythagoras — BET: Wyoming +18 (-111), 1u. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -421,7 +486,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey — Bet/intent: Missouri +5.5; makes Florida roughly -3 to -3.5, cites Florida letdown spot, WR injuries and Missouri tackle/defensive matchup. Collin — Live-bet plan: Missouri +7 or better after an expected slow start; prefers waiting because Florida motion could hurt Missouri early.\nBear Bets — Bear/Sammy: Missouri-or-pass; Florida price viewed as inflated after rapid power-rating rise. Sammy cites move from near pick'em two weeks earlier; no official best bet."
+      "Tracked Analysis / Picks": "Stuckey — Bet/intent: Missouri +5.5; makes Florida roughly -3 to -3.5, cites Florida letdown spot, WR injuries and Missouri tackle/defensive matchup. Collin — Live-bet plan: Missouri +7 or better after an expected slow start; prefers waiting because Florida motion could hurt Missouri early.\nBear Bets — Bear/Sammy: Missouri-or-pass; Florida price viewed as inflated after rapid power-rating rise. Sammy cites move from near pick'em two weeks earlier; no official best bet.\nAnders — BET: Florida/Missouri Over 56.5 (-115), 1u; marked 'Already Sent'. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -476,7 +541,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Pythagoras — BET: Florida State +3 (-123), 1u; bought 1/2 point. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -495,7 +560,7 @@
       "Game": "Akron @ Central Michigan",
       "Current Spread": "Central Michigan -6.5",
       "Current Total": "47.5",
-      "My Ticket": "",
+      "My Ticket": "Central Michigan -6.5",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Duck — Triple Option: Central Michigan -6.5, playable under 7. Akron is depleted on the defensive front, down to QB3, 137th in offensive explosiveness and 134th in starting field position; CMU gets OL/fullback help back and can control the game on the ground. Mike agrees with the Akron/trench concerns but is less comfortable backing CMU's limited offense.\nStuckey — Discussion: strongly agrees Akron is in dire shape with QB/defensive injuries; says Central Michigan can bury them and cannot get near Akron. Reinforces our CMU -6.5 ticket."
@@ -572,7 +637,7 @@
       "Game": "Oregon State @ Colorado State",
       "Current Spread": "Oregon State -6",
       "Current Total": "62.5",
-      "My Ticket": "",
+      "My Ticket": "Over 61.5",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Mike Calabrese — Triple Option: Over 61. OSU passing attack should exploit CSU's poor pass rush; CSU can attack OSU's secondary, both teams top-40 tempo, and special-teams explosiveness can create short fields. Duck agrees with Mike's read and remains bullish on Oregon State's offense."
@@ -586,7 +651,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Pythagoras — BET: Arkansas +14 (-110), 1u. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -616,7 +681,7 @@
       "Game": "UTSA @ Rice",
       "Current Spread": "UTSA -11.5",
       "Current Total": "56.5",
-      "My Ticket": "",
+      "My Ticket": "UTSA -11.5",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Duck — Triple Option: UTSA -11.5, still good around 12. Rice is heavily dependent on Jakuri Brown, whose ankle/mobility is a concern; Rice defense has faded late and allows explosive runs. Duck sees blowout potential and discussed alt-margin possibilities."
@@ -652,7 +717,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Pythagoras — BET: Temple +7 (-122), 1u. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -663,7 +728,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey/Collin — Board/Wilson special: Louisiana Tech +2. Extra prep off bye vs Army option, Army defense concerns, strong La Tech defensive line metrics and possible personnel returns.\nBet Labs — BET: Louisiana Tech +2.5 (-114), 1u; +1.5/ML also fine. Major SOS discrepancy (LT top-10 schedule vs Army near 130th), LT rested off bye, Army severely outgained by Temple. Likes Kukuk mobility if Baker sits and matchup vs poor Army defensive success rate. AGREES with BBOC Louisiana Tech +2."
+      "Tracked Analysis / Picks": "Stuckey/Collin — Board/Wilson special: Louisiana Tech +2. Extra prep off bye vs Army option, Army defense concerns, strong La Tech defensive line metrics and possible personnel returns.\nBet Labs — BET: Louisiana Tech +2.5 (-114), 1u; +1.5/ML also fine. Major SOS discrepancy (LT top-10 schedule vs Army near 130th), LT rested off bye, Army severely outgained by Temple. Likes Kukuk mobility if Baker sits and matchup vs poor Army defensive success rate. AGREES with BBOC Louisiana Tech +2.\nAnders — BET: Louisiana Tech +1.5 (+100), 1u. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -685,7 +750,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey/Collin — Trash/board: Colorado +13/+13.5. Texas Tech fade; Colorado QB change viewed as possible upgrade, Tech has underperformed market expectations and travels to altitude.\nBear Bets — Geoff BEST BET/WAGER: Texas Tech -11.5 despite 'stinky' number; views Colorado offense/QB situation as poor. Sammy notes sharp market support drove line from ~14.5 to 11.5 but still says Colorado stinks. CONFLICTS with BBOC Colorado +13.5."
+      "Tracked Analysis / Picks": "Stuckey/Collin — Trash/board: Colorado +13/+13.5. Texas Tech fade; Colorado QB change viewed as possible upgrade, Tech has underperformed market expectations and travels to altitude.\nBear Bets — Geoff BEST BET/WAGER: Texas Tech -11.5 despite 'stinky' number; views Colorado offense/QB situation as poor. Sammy notes sharp market support drove line from ~14.5 to 11.5 but still says Colorado stinks. CONFLICTS with BBOC Colorado +13.5.\nAnders — BET: Colorado +13.5 (-109), 1u. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -751,7 +816,7 @@
       "My Ticket": "Baylor +4.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "Pythagoras — BET: Baylor +4 (-110), 1u. Discord-sourced official play; preserve posted number/price."
     },
     {
       "Date": "Sat",
@@ -759,7 +824,7 @@
       "Game": "Texas State @ San Diego State",
       "Current Spread": "Texas State -7.5",
       "Current Total": "58.5",
-      "My Ticket": "",
+      "My Ticket": "Texas State -4.5",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Mike Calabrese — Triple Option / G6 Best Bet: Texas State -4.5; comfortable to the verge of -7. SDSU's feature backs are banged up, QB struggles badly against pressure, and Texas State's offense has scored 112 points in two weeks. Duck strongly agrees with the matchup and expects Texas State to score heavily."
@@ -781,7 +846,7 @@
       "Game": "San Jose State @ Hawaii",
       "Current Spread": "Hawaii -2.5",
       "Current Total": "51.5",
-      "My Ticket": "",
+      "My Ticket": "Under 51.5",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Duck — Triple Option / G6 Best Bet: Under 51.5. Both offenses lack downfield explosiveness, Hawaii is battered and inefficient in the red zone, SJSU can lean on the run vs Hawaii's depleted front; expects long drives and field goals. Duck projected a close around 49.5. Mike says this is the Duck Triple Option play he likes best."
@@ -1053,6 +1118,97 @@
       "Classification": "Bet / Convergence",
       "Pick / Number": "Louisiana Tech +2.5 (-114), 1u",
       "One-Bullet Logic": "Huge SOS gap, rested LT off bye, Army off misleading win; +1.5/ML also acceptable."
+    },
+    {
+      "Capper": "Pythagoras",
+      "Game": "Baylor @ Arizona State",
+      "Classification": "Discord bet",
+      "Pick / Number": "Baylor +4 -110",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Pythagoras",
+      "Game": "Navy @ Air Force",
+      "Classification": "Discord bet",
+      "Pick / Number": "Navy +3.5 -115",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Pythagoras",
+      "Game": "West Virginia @ Iowa State",
+      "Classification": "Discord bet",
+      "Pick / Number": "West Virginia +3.5 -115",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Pythagoras",
+      "Game": "Michigan State @ Wisconsin",
+      "Classification": "Discord bet",
+      "Pick / Number": "Michigan State +10.5 -117",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Pythagoras",
+      "Game": "Wyoming @ North Dakota State",
+      "Classification": "Discord bet",
+      "Pick / Number": "Wyoming +18 -111",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Pythagoras",
+      "Game": "Arkansas @ Texas A&M",
+      "Classification": "Discord bet",
+      "Pick / Number": "Arkansas +14 -110",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Pythagoras",
+      "Game": "Temple @ South Florida",
+      "Classification": "Discord bet",
+      "Pick / Number": "Temple +7 -122",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Pythagoras",
+      "Game": "Virginia @ Florida State",
+      "Classification": "Discord bet",
+      "Pick / Number": "Florida State +3 -123 (bought 1/2 point)",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Pythagoras",
+      "Game": "Notre Dame @ North Carolina",
+      "Classification": "Discord bet",
+      "Pick / Number": "Notre Dame game Over 45 -125 (bought 1/2 point, BetOnline)",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Anders",
+      "Game": "Florida @ Missouri",
+      "Classification": "Discord bet",
+      "Pick / Number": "Over 56.5 -115",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Anders",
+      "Game": "Syracuse @ UConn",
+      "Classification": "Discord bet",
+      "Pick / Number": "Syracuse -6.5 -110",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Anders",
+      "Game": "Texas Tech @ Colorado",
+      "Classification": "Discord bet",
+      "Pick / Number": "Colorado +13.5 -109",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
+    },
+    {
+      "Capper": "Anders",
+      "Game": "Army @ Louisiana Tech",
+      "Classification": "Discord bet",
+      "Pick / Number": "Louisiana Tech +1.5 +100",
+      "One-Bullet Logic": "Official Discord play; posted number and price preserved."
     }
   ]
 }
