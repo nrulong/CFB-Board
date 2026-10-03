@@ -1,6 +1,6 @@
 {
   "week": "Week 5 — Oct 1–4, 2026",
-  "lastUpdated": "Oct 3, 2026 — latest Discord picks reconciled",
+  "lastUpdated": "Oct 3, 2026 — expanded BBOC board discussion + Discord integration",
   "marketSource": "Full Week 5 FBS/FBS-vs-FCS slate and current spread/total snapshot from CBS Sports odds retrieved Oct 1, 2026. Expert intel from user-supplied Week 5 Sixth Gear transcript (Duck + Mike Calabrese). Lines move; original user tickets remain separate.",
   "myPicks": [
     {
@@ -255,7 +255,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bet Labs — BET: Northwestern +3 (-110), 1u. Home spot after competitive Indiana game; Penn State off blown home lead to Wisconsin and offense viewed as ordinary. Notes Northwestern injuries (Turner/Fussell/Dehnicke) but experienced depth; Penn State has injuries too."
+      "Tracked Analysis / Picks": "Bet Labs — BET: Northwestern +3 (-110), 1u. Home spot after competitive Indiana game; Penn State off blown home lead to Wisconsin and offense viewed as ordinary. Notes Northwestern injuries (Turner/Fussell/Dehnicke) but experienced depth; Penn State has injuries too.\nBBOC — Stuckey bet Over 45 after the total dropped; also had finger on Northwestern +3. Notes Northwestern explosiveness under Chip Kelly/Aiden Childs and Penn State offense diminished without Kobe Howard; thinks new-stadium wind may matter less than assumed."
     },
     {
       "Date": "Sat",
@@ -277,7 +277,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Pythagoras — BET: Navy +3.5 (-115), 1u. Discord-sourced official play; preserve posted number/price."
+      "Tracked Analysis / Picks": "Pythagoras — BET: Navy +3.5 (-115), 1u. Discord-sourced official play; preserve posted number/price.\nBBOC — Matchup discussed in the episode; preserve as discussion rather than inventing a side where no official board play was stated."
     },
     {
       "Date": "Sat",
@@ -288,7 +288,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bet Labs — BET: SMU -21 (-110), 1u. Anything below 21 fine; 21.5 for 0.75u. Bounce-back after misleading Missouri State scoreboard despite statistical dominance. BC travels Boston→Dallas after nor'easter game whose rain/40 MPH gusts neutralized VT passing and suited BC. Expects #1 passing offense/Kevin Jennings to have time against BC secondary and SMU to dominate at home."
+      "Tracked Analysis / Picks": "Bet Labs — BET: SMU -21 (-110), 1u. Anything below 21 fine; 21.5 for 0.75u. Bounce-back after misleading Missouri State scoreboard despite statistical dominance. BC travels Boston→Dallas after nor'easter game whose rain/40 MPH gusts neutralized VT passing and suited BC. Expects #1 passing offense/Kevin Jennings to have time against BC secondary and SMU to dominate at home.\nBBOC — Stuckey's favorite overdog: SMU -21. BC defensive rating viewed as flattered by Rutgers turnovers and VT typhoon; expects SMU to shred BC and says SMU's own rating is depressed by unlucky results."
     },
     {
       "Date": "Sat",
@@ -299,7 +299,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bear Bets — Sammy dog pick Minnesota +5.5; Geoff also likes Minnesota and later lists +5.5 among wagers, citing Michigan's first road game and offense concerns."
+      "Tracked Analysis / Picks": "Bear Bets — Sammy dog pick Minnesota +5.5; Geoff also likes Minnesota and later lists +5.5 among wagers, citing Michigan's first road game and offense concerns.\nBBOC (Stuckey/Collin) — NO DIRECT MATCHUP BREAKDOWN found in the supplied Week 5 episode transcript. Minnesota is mentioned only in other-game context; do not infer a BBOC side."
     },
     {
       "Date": "Sat",
@@ -354,7 +354,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Pythagoras — BET: Over 45 (-125), 1u; bought 1/2 point at BetOnline. Discord-sourced official play; preserve posted number/price."
+      "Tracked Analysis / Picks": "Pythagoras — BET: Over 45 (-125), 1u; bought 1/2 point at BetOnline. Discord-sourced official play; preserve posted number/price.\nBBOC — Stuckey played Under around 47/47.5. UNC off bye; discussion centered on whether Notre Dame's large favorite price and game environment create a lower-scoring script."
     },
     {
       "Date": "Sat",
@@ -475,7 +475,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "BBOC — Matchup discussion: Tennessee in potential emotional/letdown spot after Texas; Auburn difficult to trust. No official BBOC side added."
     },
     {
       "Date": "Sat",
@@ -662,7 +662,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bet Labs — BET: TCU +6.5 (-110), 1u. Buy-low home dog / sell-high BYU; Dwyer return adds offensive upside; TCU run defense matches BYU's run-heavy strength."
+      "Tracked Analysis / Picks": "Bet Labs — BET: TCU +6.5 (-110), 1u. Buy-low home dog / sell-high BYU; Dwyer return adds offensive upside; TCU run defense matches BYU's run-heavy strength.\nBBOC — Discussion included a TCU side case: home dog/revenge, improved health at WR and defensive matchup vs BYU; treated as discussion unless/until exact official ticket is stated."
     },
     {
       "Date": "Sat",
@@ -761,7 +761,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bear Bets — Geoff discussion/contest lean USC; Washington OL/run game and third-down offense have been poor. Also likes USC opening-drive/early scoring derivative angles based on their tendency to take the ball."
+      "Tracked Analysis / Picks": "Bear Bets — Geoff discussion/contest lean USC; Washington OL/run game and third-down offense have been poor. Also likes USC opening-drive/early scoring derivative angles based on their tendency to take the ball.\nBBOC — Discussion leans USC / anti-Washington. Washington has been repeatedly steamed despite poor cover margin, depleted RB/WR room and weak OL/run game. Stuckey had USC -9 and also bet USC team total Over 34.5; did not add side to board because he thought +7 might become available."
     },
     {
       "Date": "Sat",
@@ -827,7 +827,7 @@
       "My Ticket": "Texas State -4.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Mike Calabrese — Triple Option / G6 Best Bet: Texas State -4.5; comfortable to the verge of -7. SDSU's feature backs are banged up, QB struggles badly against pressure, and Texas State's offense has scored 112 points in two weeks. Duck strongly agrees with the matchup and expects Texas State to score heavily."
+      "Tracked Analysis / Picks": "Mike Calabrese — Triple Option / G6 Best Bet: Texas State -4.5; comfortable to the verge of -7. SDSU's feature backs are banged up, QB struggles badly against pressure, and Texas State's offense has scored 112 points in two weeks. Duck strongly agrees with the matchup and expects Texas State to score heavily.\nBBOC — Collin's favorite 'nowhere fast' type: Texas State. Cites SDSU run-defense weakness, Texas State RB elusiveness / top-15 pass EPA, SDSU bottom-tier offensive efficiency and possible mumps absences; thinks line could keep climbing."
     },
     {
       "Date": "Sat",
@@ -838,7 +838,7 @@
       "My Ticket": "Cincinnati +7.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bear Bets — Sammy BEST BET: Arizona -6.5; says anything under 7 is a fire, citing Arizona offensive edge, Cincinnati limited vertically and desert heat. Ed Sammon makes Arizona -10."
+      "Tracked Analysis / Picks": "Bear Bets — Sammy BEST BET: Arizona -6.5; says anything under 7 is a fire, citing Arizona offensive edge, Cincinnati limited vertically and desert heat. Ed Sammon makes Arizona -10.\nBBOC — HEAD-TO-HEAD: Stuckey laid Arizona -7 and strongly likes the Wildcats; sell-high Cincinnati, Arizona run defense vs Cincy run game, possible Richardson return, late West Coast travel. Collin makes Arizona -4 and is on Cincinnati, citing Cincy's outside-zone rushing matchup and Arizona's poor passing-down defense."
     },
     {
       "Date": "Sun",
