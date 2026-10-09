@@ -1,7 +1,7 @@
 {
   "week": "Week 6 — Oct 8–10, 2026",
   "lastUpdated": "Oct 9, 2026 — full FBS slate, sourced market snapshot, expert tickets and podcast intelligence",
-  "marketSource": "CBS Sports Week 6 odds snapshot Oct 9, 2026; expert tickets from user-supplied app cards; analysis from BBOC, Sixth Gear and Bear Bets transcripts. Odds may move; source analyst weather claims not independently verified. No user tickets reported for Week 6.",
+  "marketSource": "CBS Sports Week 6 odds snapshot Oct 9, 2026; expert tickets from user-supplied app cards; analysis from BBOC, Sixth Gear and Bear Bets transcripts. Odds may move; source analyst weather claims not independently verified. No user tickets reported for Week 6. FCS Drake–Valparaiso included because a tracked expert discussed a specific bet.",
   "myPicks": [],
   "allGames": [
     {
@@ -575,6 +575,39 @@
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Stuckey: No bet; uncertain Fresno profile despite Washington State result, sees signs of improvement.\nCollin: Fresno +7 app bet, projects Boise -5; Boise backs injured, may manage to bye rather than win by margin; Fresno strong defensive EPA/hard stops, offensive tackle Braden Walton returning.\nMike Calabrese / Duck — Discussion: No official play. Both see Fresno–Boise as consequential for conference; Mike notes Boise upcoming challenging schedule, Duck references Fresno–Boise importance after Texas State collapse. No specific game handicap or pick in episode.\nCollin Wilson — App bet: Fresno State +7 (-115) • 1.15u • BetRivers NJ. Projects Boise -5; Fresno rush EPA 22nd vs Boise rush EPA defense 135th, tackling 119th"
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:00 PM",
+      "Game": "Wake Forest @ NC State",
+      "Current Spread": "Wake Forest -3.5",
+      "Current Total": "59.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "3:45 PM",
+      "Game": "UConn @ Temple",
+      "Current Spread": "Temple -3.5",
+      "Current Total": "54.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": ""
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "2:00 PM",
+      "Game": "Drake @ Valparaiso",
+      "Current Spread": "Drake -7.5",
+      "Current Total": "53.5",
+      "My Ticket": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Tracked Analysis / Picks": "Bear — FCS pick: Over 53.5. Ricky's total signal; says line likely to rise before Saturday."
     }
   ],
   "experts": [
@@ -1305,6 +1338,13 @@
       "Classification": "Discussion / Guys Naming Dudes",
       "Pick / Number": "JMU offensive player note, no side",
       "One-Bullet Logic": "Highlights JMU RB George Pettaway: 206 yards/2 TD vs Marshall, nearly 500 rush yards and six TD this season; expects big day vs Georgia Southern. Do not infer official JMU side; Stuckey on Georgia Southern +8.5."
+    },
+    {
+      "Capper": "Bear",
+      "Game": "Drake @ Valparaiso",
+      "Classification": "FCS pick",
+      "Pick / Number": "Over 53.5",
+      "One-Bullet Logic": "Ricky FCS total signal, expects line to rise; episode best-bet discussion."
     }
   ],
   "teamIntel": [
