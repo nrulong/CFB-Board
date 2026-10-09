@@ -1,6 +1,6 @@
 {
   "week": "Week 6 — Oct 8–10, 2026",
-  "lastUpdated": "Oct 9, 2026 — added five user-confirmed Bet Labs tickets (stake and odds unspecified)",
+  "lastUpdated": "Oct 9, 2026 — added Cleveland Cam FSU +4.5 (-109) 1U with full analyst rationale",
   "marketSource": "CBS Sports Week 6 odds snapshot Oct 9, 2026; expert tickets from user-supplied app cards; analysis from BBOC, Sixth Gear and Bear Bets transcripts. Odds may move; source analyst weather claims not independently verified. No user tickets reported for Week 6. FCS Drake–Valparaiso included because a tracked expert discussed a specific bet. Personal wagers imported from user transaction export; original decimal prices converted to American odds.",
   "myPicks": [
     {
@@ -13,14 +13,15 @@
       "Middle": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Capper / Model Analysis": "Bear — Best Bet: Louisville team total Over 31.5. Discount FSU defensive showing vs UVA; Louisville rebound after close losses.\nCollin Wilson — App bet: FSU +6.5 (-110) • 1.1u • bet365 OH. Projects Louisville -4; Keinholz mobility concern; FSU pass EPA 2nd vs Louisville D 136th",
+      "Capper / Model Analysis": "Bear — Best Bet: Louisville team total Over 31.5. Discount FSU defensive showing vs UVA; Louisville rebound after close losses.\nCollin Wilson — App bet: FSU +6.5 (-110) • 1.1u • bet365 OH. Projects Louisville -4; Keinholz mobility concern; FSU pass EPA 2nd vs Louisville D 136th\nCleveland Cam — Florida State +4.5 (-109), 1U, posted four days ago (NOVIG best price). Projects fair line closer to Louisville -3 after move from -6.5. Louisville lost two straight and has one Power 4 win; QB dealing with foot injury and potentially limited mobility. FSU has improved: narrow SMU loss, 36 points at Alabama, and Virginia held scoreless on 12 of 13 drives. FSU QB Daniels' running versus Louisville tackling and FSU pass rush versus compromised Louisville QB are matchup edges. Counterargument: Louisville backs Isaac Brown and Keyjuan Brown rushed for 213 yards on 17 carries last week; 40 rush attempts could make it a toss-up. Likes 4.5 points in a near toss-up.",
       "Status": "PLACED",
       "Type": "straight",
       "Odds": "-120",
       "DecimalOdds": 1.833333,
       "Stake": 60,
       "Book": "bet365",
-      "PlacedUTC": "2026-10-05T15:57:00.000Z"
+      "PlacedUTC": "2026-10-05T15:57:00.000Z",
+      "Analyst Match": "Cleveland Cam +4.5 (-109), 1U"
     },
     {
       "Date": "Fri",
@@ -323,7 +324,7 @@
       "My Ticket": "Florida State +4.5 -120 • $60 • OPEN | SGP: Louisville ML + Louisville TT Over 30.5 + Neither team scores 3 unanswered times +825 • $10 • OPEN",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bear — Best Bet: Louisville team total Over 31.5. Discount FSU defensive showing vs UVA; Louisville rebound after close losses.\nCollin Wilson — App bet: FSU +6.5 (-110) • 1.1u • bet365 OH. Projects Louisville -4; Keinholz mobility concern; FSU pass EPA 2nd vs Louisville D 136th"
+      "Tracked Analysis / Picks": "Bear — Best Bet: Louisville team total Over 31.5. Discount FSU defensive showing vs UVA; Louisville rebound after close losses.\nCollin Wilson — App bet: FSU +6.5 (-110) • 1.1u • bet365 OH. Projects Louisville -4; Keinholz mobility concern; FSU pass EPA 2nd vs Louisville D 136th\nCleveland Cam — Florida State +4.5 (-109), 1U, posted four days ago (NOVIG best price). Projects fair line closer to Louisville -3 after move from -6.5. Louisville lost two straight and has one Power 4 win; QB dealing with foot injury and potentially limited mobility. FSU has improved: narrow SMU loss, 36 points at Alabama, and Virginia held scoreless on 12 of 13 drives. FSU QB Daniels' running versus Louisville tackling and FSU pass rush versus compromised Louisville QB are matchup edges. Counterargument: Louisville backs Isaac Brown and Keyjuan Brown rushed for 213 yards on 17 carries last week; 40 rush attempts could make it a toss-up. Likes 4.5 points in a near toss-up."
     },
     {
       "Date": "Fri",
@@ -1646,6 +1647,13 @@
       "Classification": "User-confirmed Bet Labs pick",
       "Pick / Number": "Georgia Southern +7.5",
       "One-Bullet Logic": "User identifies this as a Bet Labs pick and confirms they placed it; no detailed rationale provided."
+    },
+    {
+      "Capper": "Cleveland Cam",
+      "Game": "Florida State @ Louisville",
+      "Classification": "Posted pick • 1U",
+      "Pick / Number": "Florida State +4.5 (-109)",
+      "One-Bullet Logic": "Cleveland Cam — Florida State +4.5 (-109), 1U, posted four days ago (NOVIG best price). Projects fair line closer to Louisville -3 after move from -6.5. Louisville lost two straight and has one Power 4 win; QB dealing with foot injury and potentially limited mobility. FSU has improved: narrow SMU loss, 36 points at Alabama, and Virginia held scoreless on 12 of 13 drives. FSU QB Daniels' running versus Louisville tackling and FSU pass rush versus compromised Louisville QB are matchup edges. Counterargument: Louisville backs Isaac Brown and Keyjuan Brown rushed for 213 yards on 17 carries last week; 40 rush attempts could make it a toss-up. Likes 4.5 points in a near toss-up."
     }
   ],
   "teamIntel": [
