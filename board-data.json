@@ -1,6 +1,6 @@
 {
   "week": "Week 6 — Oct 8–10, 2026",
-  "lastUpdated": "Oct 9, 2026 — imported 9 Week 6 user wagers from transaction CSV; 5 open, 4 settled",
+  "lastUpdated": "Oct 9, 2026 — added five user-confirmed Bet Labs tickets (stake and odds unspecified)",
   "marketSource": "CBS Sports Week 6 odds snapshot Oct 9, 2026; expert tickets from user-supplied app cards; analysis from BBOC, Sixth Gear and Bear Bets transcripts. Odds may move; source analyst weather claims not independently verified. No user tickets reported for Week 6. FCS Drake–Valparaiso included because a tracked expert discussed a specific bet. Personal wagers imported from user transaction export; original decimal prices converted to American odds.",
   "myPicks": [
     {
@@ -177,6 +177,96 @@
       "Book": "DraftKings",
       "PlacedUTC": "2026-10-08T22:52:13.369Z",
       "Profit": -10
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "12:00 PM",
+      "Game": "North Carolina @ Pittsburgh",
+      "My Pick": "North Carolina +4 • Bet Labs • CONFIRMED (stake/odds not provided)",
+      "Read": "",
+      "Current Line": "Pittsburgh -3.5 / O-U 46.5",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Capper / Model Analysis": "Stuckey: UNC +4.5 app bet and UNC +4 BBOC board; UNC top-15 SOS vs Pitt >80, Pitt VT win turnover-inflated, QB Heintzel loss to Garner, UNC limits explosives, Pitt defense overrated and vulnerable to Petrino explosives.\nCollin: Likes UNC +4 and leans game Over, no app bet; Pitt rush game can exploit UNC poor line yards/stuff rate, while UNC pin-pull/crack-toss rushing concepts and explosive passing can trouble Pitt.\nStuckey — App bet: UNC +4.5 (-110) • 0.5u • bet365 IL",
+      "Status": "PLACED",
+      "Type": "straight",
+      "Book": "Not provided",
+      "Source": "User-confirmed Bet Labs",
+      "Stake": null,
+      "Odds": null
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "7:30 PM",
+      "Game": "USC @ Penn State",
+      "My Pick": "Penn State ML • Bet Labs • CONFIRMED (stake/odds not provided)",
+      "Read": "",
+      "Current Line": "Penn State -1.5 / O-U 54.5",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Capper / Model Analysis": "Sammy P — Favorite to fade: USC side / fade Penn State. Penn State poor recent performance; opposes Geoff's Penn State ML.\nGeoff Schwartz — Best Bet: Penn State ML. USC travel east and unfavorable spot; primarily fade USC.\nCollin Wilson — App bet: Penn State ML (-112) • 2.24u • DK NJ. USC 2-4 in 2+ timezone trips, seventh straight game, Penn State DC D'Anton Lynn previously at USC",
+      "Status": "PLACED",
+      "Type": "straight",
+      "Book": "Not provided",
+      "Source": "User-confirmed Bet Labs",
+      "Stake": null,
+      "Odds": null
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "3:30 PM",
+      "Game": "Duke @ Georgia Tech",
+      "My Pick": "Georgia Tech +7 • Bet Labs • CONFIRMED (stake/odds not provided)",
+      "Read": "",
+      "Current Line": "Duke -6.5 / O-U 43.5",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Capper / Model Analysis": "Stuckey — App bet: Georgia Tech +7 (-105) • 0.5u • BetMGM KY",
+      "Status": "PLACED",
+      "Type": "straight",
+      "Book": "Not provided",
+      "Source": "User-confirmed Bet Labs",
+      "Stake": null,
+      "Odds": null
+    },
+    {
+      "Date": "Fri",
+      "Time ET": "9:00 PM",
+      "Game": "Iowa @ Washington",
+      "My Pick": "Washington ML • Bet Labs • CONFIRMED (stake/odds not provided)",
+      "Read": "",
+      "Current Line": "Washington -2.5 / O-U 41.5",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Capper / Model Analysis": "Stuckey: Washington -3 BBOC board agreement; Iowa short-week westward travel, Hank Brown shoulder injury, poor Iowa run game vs Washington front; Washington QB Demond Williams zone/escape strengths.\nCollin: Washington -3 app bet, projects -3; Iowa pass rush likely forces Williams into effective scrambles, Washington run defense matches Iowa outside zone.\nSammy P — Best Bet: Iowa +3.5. Iowa backup Jeremy Hecklinski likely to start; trusts Kirk Ferentz after Ohio State loss; expects outright win.\nGeoff Schwartz — Lean: Iowa +3.5. Washington offensive struggles vs USC; Iowa bounce-back and run/defense identity.\nBear — Discussion: Iowa outright lean. Iowa won 16 of previous 20 games with spread within 3.5 either direction (per episode).\nCollin Wilson — App bet: Washington -3 (-110) • 1.1u • DK NJ. Projects Washington -3; Hank Brown AC sprain, Demond Williams scrambles vs Iowa pressure, outside zone matchup",
+      "Status": "PLACED",
+      "Type": "straight",
+      "Book": "Not provided",
+      "Source": "User-confirmed Bet Labs",
+      "Stake": null,
+      "Odds": null
+    },
+    {
+      "Date": "Sat",
+      "Time ET": "7:30 PM",
+      "Game": "James Madison @ Georgia Southern",
+      "My Pick": "Georgia Southern +7.5 • Bet Labs • CONFIRMED (stake/odds not provided)",
+      "Read": "",
+      "Current Line": "James Madison -7.5 / O-U 51.5",
+      "Middle": "",
+      "SP+ Spread": "",
+      "SP+ Total": "",
+      "Capper / Model Analysis": "Stuckey: Georgia Southern +8.5 app bet; JMU inflated results/resume and sell-high spot; Georgia Southern buy-low argument.\nCollin: BBOC round-robin support for Georgia Southern; separate exact app bet not supplied.\nDuck — Discussion / Guys Naming Dudes: JMU offensive player note, no side. Highlights JMU RB George Pettaway: 206 yards/2 TD vs Marshall, nearly 500 rush yards and six TD this season; expects big day vs Georgia Southern. Do not infer official JMU side; Stuckey on Georgia Southern +8.5.\nStuckey — App bet: Georgia Southern +8.5 (-110) • 0.5u • FanDuel TN",
+      "Status": "PLACED",
+      "Type": "straight",
+      "Book": "Not provided",
+      "Source": "User-confirmed Bet Labs",
+      "Stake": null,
+      "Odds": null
     }
   ],
   "allGames": [
@@ -252,10 +342,10 @@
       "Game": "Iowa @ Washington",
       "Current Spread": "Washington -2.5",
       "Current Total": "41.5",
-      "My Ticket": "",
+      "My Ticket": "Washington ML • Bet Labs • CONFIRMED",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey: Washington -3 BBOC board agreement; Iowa short-week westward travel, Hank Brown shoulder injury, poor Iowa run game vs Washington front; Washington QB Demond Williams zone/escape strengths.\nCollin: Washington -3 app bet, projects -3; Iowa pass rush likely forces Williams into effective scrambles, Washington run defense matches Iowa outside zone.\nSammy P — Best Bet: Iowa +3.5. Iowa backup Jeremy Hecklinski likely to start; trusts Kirk Ferentz after Ohio State loss; expects outright win.\nGeoff Schwartz — Lean: Iowa +3.5. Washington offensive struggles vs USC; Iowa bounce-back and run/defense identity.\nBear — Discussion: Iowa outright lean. Iowa won 16 of previous 20 games with spread within 3.5 either direction (per episode).\nCollin Wilson — App bet: Washington -3 (-110) • 1.1u • DK NJ. Projects Washington -3; Hank Brown AC sprain, Demond Williams scrambles vs Iowa pressure, outside zone matchup"
+      "Tracked Analysis / Picks": "Stuckey: Washington -3 BBOC board agreement; Iowa short-week westward travel, Hank Brown shoulder injury, poor Iowa run game vs Washington front; Washington QB Demond Williams zone/escape strengths.\nCollin: Washington -3 app bet, projects -3; Iowa pass rush likely forces Williams into effective scrambles, Washington run defense matches Iowa outside zone.\nSammy P — Best Bet: Iowa +3.5. Iowa backup Jeremy Hecklinski likely to start; trusts Kirk Ferentz after Ohio State loss; expects outright win.\nGeoff Schwartz — Lean: Iowa +3.5. Washington offensive struggles vs USC; Iowa bounce-back and run/defense identity.\nBear — Discussion: Iowa outright lean. Iowa won 16 of previous 20 games with spread within 3.5 either direction (per episode).\nCollin Wilson — App bet: Washington -3 (-110) • 1.1u • DK NJ. Projects Washington -3; Hank Brown AC sprain, Demond Williams scrambles vs Iowa pressure, outside zone matchup\nBet Labs — USER-CONFIRMED PLAY: Washington ML. Exact stake, price, and sportsbook not supplied; no analyst rationale supplied."
     },
     {
       "Date": "Fri",
@@ -318,10 +408,10 @@
       "Game": "North Carolina @ Pittsburgh",
       "Current Spread": "Pittsburgh -3.5",
       "Current Total": "46.5",
-      "My Ticket": "",
+      "My Ticket": "North Carolina +4 • Bet Labs • CONFIRMED",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey: UNC +4.5 app bet and UNC +4 BBOC board; UNC top-15 SOS vs Pitt >80, Pitt VT win turnover-inflated, QB Heintzel loss to Garner, UNC limits explosives, Pitt defense overrated and vulnerable to Petrino explosives.\nCollin: Likes UNC +4 and leans game Over, no app bet; Pitt rush game can exploit UNC poor line yards/stuff rate, while UNC pin-pull/crack-toss rushing concepts and explosive passing can trouble Pitt.\nStuckey — App bet: UNC +4.5 (-110) • 0.5u • bet365 IL"
+      "Tracked Analysis / Picks": "Stuckey: UNC +4.5 app bet and UNC +4 BBOC board; UNC top-15 SOS vs Pitt >80, Pitt VT win turnover-inflated, QB Heintzel loss to Garner, UNC limits explosives, Pitt defense overrated and vulnerable to Petrino explosives.\nCollin: Likes UNC +4 and leans game Over, no app bet; Pitt rush game can exploit UNC poor line yards/stuff rate, while UNC pin-pull/crack-toss rushing concepts and explosive passing can trouble Pitt.\nStuckey — App bet: UNC +4.5 (-110) • 0.5u • bet365 IL\nBet Labs — USER-CONFIRMED PLAY: North Carolina +4. Exact stake, price, and sportsbook not supplied; no analyst rationale supplied."
     },
     {
       "Date": "Sat",
@@ -527,10 +617,10 @@
       "Game": "Duke @ Georgia Tech",
       "Current Spread": "Duke -6.5",
       "Current Total": "43.5",
-      "My Ticket": "",
+      "My Ticket": "Georgia Tech +7 • Bet Labs • CONFIRMED",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey — App bet: Georgia Tech +7 (-105) • 0.5u • BetMGM KY"
+      "Tracked Analysis / Picks": "Stuckey — App bet: Georgia Tech +7 (-105) • 0.5u • BetMGM KY\nBet Labs — USER-CONFIRMED PLAY: Georgia Tech +7. Exact stake, price, and sportsbook not supplied; no analyst rationale supplied."
     },
     {
       "Date": "Sat",
@@ -681,10 +771,10 @@
       "Game": "James Madison @ Georgia Southern",
       "Current Spread": "James Madison -7.5",
       "Current Total": "51.5",
-      "My Ticket": "",
+      "My Ticket": "Georgia Southern +7.5 • Bet Labs • CONFIRMED",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey: Georgia Southern +8.5 app bet; JMU inflated results/resume and sell-high spot; Georgia Southern buy-low argument.\nCollin: BBOC round-robin support for Georgia Southern; separate exact app bet not supplied.\nDuck — Discussion / Guys Naming Dudes: JMU offensive player note, no side. Highlights JMU RB George Pettaway: 206 yards/2 TD vs Marshall, nearly 500 rush yards and six TD this season; expects big day vs Georgia Southern. Do not infer official JMU side; Stuckey on Georgia Southern +8.5.\nStuckey — App bet: Georgia Southern +8.5 (-110) • 0.5u • FanDuel TN"
+      "Tracked Analysis / Picks": "Stuckey: Georgia Southern +8.5 app bet; JMU inflated results/resume and sell-high spot; Georgia Southern buy-low argument.\nCollin: BBOC round-robin support for Georgia Southern; separate exact app bet not supplied.\nDuck — Discussion / Guys Naming Dudes: JMU offensive player note, no side. Highlights JMU RB George Pettaway: 206 yards/2 TD vs Marshall, nearly 500 rush yards and six TD this season; expects big day vs Georgia Southern. Do not infer official JMU side; Stuckey on Georgia Southern +8.5.\nStuckey — App bet: Georgia Southern +8.5 (-110) • 0.5u • FanDuel TN\nBet Labs — USER-CONFIRMED PLAY: Georgia Southern +7.5. Exact stake, price, and sportsbook not supplied; no analyst rationale supplied."
     },
     {
       "Date": "Sat",
@@ -692,10 +782,10 @@
       "Game": "USC @ Penn State",
       "Current Spread": "Penn State -1.5",
       "Current Total": "54.5",
-      "My Ticket": "",
+      "My Ticket": "Penn State ML • Bet Labs • CONFIRMED",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Sammy P — Favorite to fade: USC side / fade Penn State. Penn State poor recent performance; opposes Geoff's Penn State ML.\nGeoff Schwartz — Best Bet: Penn State ML. USC travel east and unfavorable spot; primarily fade USC.\nCollin Wilson — App bet: Penn State ML (-112) • 2.24u • DK NJ. USC 2-4 in 2+ timezone trips, seventh straight game, Penn State DC D'Anton Lynn previously at USC"
+      "Tracked Analysis / Picks": "Sammy P — Favorite to fade: USC side / fade Penn State. Penn State poor recent performance; opposes Geoff's Penn State ML.\nGeoff Schwartz — Best Bet: Penn State ML. USC travel east and unfavorable spot; primarily fade USC.\nCollin Wilson — App bet: Penn State ML (-112) • 2.24u • DK NJ. USC 2-4 in 2+ timezone trips, seventh straight game, Penn State DC D'Anton Lynn previously at USC\nBet Labs — USER-CONFIRMED PLAY: Penn State ML. Exact stake, price, and sportsbook not supplied; no analyst rationale supplied."
     },
     {
       "Date": "Sat",
@@ -1521,6 +1611,41 @@
       "Classification": "FCS pick",
       "Pick / Number": "Over 53.5",
       "One-Bullet Logic": "Ricky FCS total signal, expects line to rise; episode best-bet discussion."
+    },
+    {
+      "Capper": "Bet Labs",
+      "Game": "North Carolina @ Pittsburgh",
+      "Classification": "User-confirmed Bet Labs pick",
+      "Pick / Number": "North Carolina +4",
+      "One-Bullet Logic": "User identifies this as a Bet Labs pick and confirms they placed it; no detailed rationale provided."
+    },
+    {
+      "Capper": "Bet Labs",
+      "Game": "USC @ Penn State",
+      "Classification": "User-confirmed Bet Labs pick",
+      "Pick / Number": "Penn State ML",
+      "One-Bullet Logic": "User identifies this as a Bet Labs pick and confirms they placed it; no detailed rationale provided."
+    },
+    {
+      "Capper": "Bet Labs",
+      "Game": "Duke @ Georgia Tech",
+      "Classification": "User-confirmed Bet Labs pick",
+      "Pick / Number": "Georgia Tech +7",
+      "One-Bullet Logic": "User identifies this as a Bet Labs pick and confirms they placed it; no detailed rationale provided."
+    },
+    {
+      "Capper": "Bet Labs",
+      "Game": "Iowa @ Washington",
+      "Classification": "User-confirmed Bet Labs pick",
+      "Pick / Number": "Washington ML",
+      "One-Bullet Logic": "User identifies this as a Bet Labs pick and confirms they placed it; no detailed rationale provided."
+    },
+    {
+      "Capper": "Bet Labs",
+      "Game": "James Madison @ Georgia Southern",
+      "Classification": "User-confirmed Bet Labs pick",
+      "Pick / Number": "Georgia Southern +7.5",
+      "One-Bullet Logic": "User identifies this as a Bet Labs pick and confirms they placed it; no detailed rationale provided."
     }
   ],
   "teamIntel": [
