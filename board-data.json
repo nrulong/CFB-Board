@@ -1,6 +1,6 @@
 {
   "week": "Week 6 — Oct 8–10, 2026",
-  "lastUpdated": "Oct 9, 2026 — added Cleveland Cam FSU +4.5 (-109) 1U with full analyst rationale",
+  "lastUpdated": "Oct 9, 2026 — Cleveland Cam NDSU -3 (-115) 1U matchup breakdown added",
   "marketSource": "CBS Sports Week 6 odds snapshot Oct 9, 2026; expert tickets from user-supplied app cards; analysis from BBOC, Sixth Gear and Bear Bets transcripts. Odds may move; source analyst weather claims not independently verified. No user tickets reported for Week 6. FCS Drake–Valparaiso included because a tracked expert discussed a specific bet. Personal wagers imported from user transaction export; original decimal prices converted to American odds.",
   "myPicks": [
     {
@@ -731,7 +731,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey: UNLV +3.5 app bet; makes spread below field goal, NDSU soft schedule and untested secondary, UNLV tougher opponents and improving offense.\nCollin: Under 48.5 app bet, projects 42; two run-heavy teams, NDSU ~30 seconds/play, UNLV rushing inefficiency, questionable strength-of-schedule-adjusted NDSU metrics.\nMike Calabrese — Triple Option: NDSU -3. UNLV coverage outside top 100, susceptible to intermediate 10–19-yard passes; NDSU QB Nathan Hayes improving and play-action can exploit behind linebackers drawn by strong NDSU run blocking. NDSU pass rush/containment should challenge Jackson Arnold. Predicts NDSU by 10; direct opposition to Stuckey UNLV +3.5.\nCollin Wilson — App bet: Under 48.5 (-115) • 0.57u • BetMGM NJ. Projects 42; both run-heavy and inefficient, NDSU quality drives defense\nStuckey — App bet: UNLV +3.5 (-115) • 0.5u • CR\nDuck — App bet: NDSU TT Under 25.5 (-105) • 0.35u • BetMGM NC. Action writeup forthcoming"
+      "Tracked Analysis / Picks": "Stuckey: UNLV +3.5 app bet; makes spread below field goal, NDSU soft schedule and untested secondary, UNLV tougher opponents and improving offense.\nCollin: Under 48.5 app bet, projects 42; two run-heavy teams, NDSU ~30 seconds/play, UNLV rushing inefficiency, questionable strength-of-schedule-adjusted NDSU metrics.\nMike Calabrese — Triple Option: NDSU -3. UNLV coverage outside top 100, susceptible to intermediate 10–19-yard passes; NDSU QB Nathan Hayes improving and play-action can exploit behind linebackers drawn by strong NDSU run blocking. NDSU pass rush/containment should challenge Jackson Arnold. Predicts NDSU by 10; direct opposition to Stuckey UNLV +3.5.\nCollin Wilson — App bet: Under 48.5 (-115) • 0.57u • BetMGM NJ. Projects 42; both run-heavy and inefficient, NDSU quality drives defense\nStuckey — App bet: UNLV +3.5 (-115) • 0.5u • CR\nDuck — App bet: NDSU TT Under 25.5 (-105) • 0.35u • BetMGM NC. Action writeup forthcoming\nCleveland Cam — Posted pick: North Dakota State -3 (-115), 1U, Caesars (CZR), posted 3 days ago. NDSU 5-0 in first FBS season; beat Air Force and Jacksonville State 33-7, shut out Wyoming 28-0 (162 yards allowed). Defensive EPA/play #7, pass #15, run #12, explosive plays allowed #11, early downs #5. UNLV offense #127 adjusted success, #107 adjusted rushing EPA, #106 sacks allowed against NDSU #6 pressure rate. UNLV scored 6 vs North Texas and 21 vs Hawaii. Concern: Jackson Arnold's explosive rushing/passing (110 rush yards, 158 pass, 5 total TD vs Cal), and UNLV pass D #21 adjusted EPA/pass. NDSU QB Nathan Hayes rushed for 79 and two TD last week, so passing less essential; NDSU #14 net EPA/play. Projects NDSU by 4–5. These statistics are analyst claims, not independently verified."
     },
     {
       "Date": "Sat",
@@ -1654,6 +1654,13 @@
       "Classification": "Posted pick • 1U",
       "Pick / Number": "Florida State +4.5 (-109)",
       "One-Bullet Logic": "Cleveland Cam — Florida State +4.5 (-109), 1U, posted four days ago (NOVIG best price). Projects fair line closer to Louisville -3 after move from -6.5. Louisville lost two straight and has one Power 4 win; QB dealing with foot injury and potentially limited mobility. FSU has improved: narrow SMU loss, 36 points at Alabama, and Virginia held scoreless on 12 of 13 drives. FSU QB Daniels' running versus Louisville tackling and FSU pass rush versus compromised Louisville QB are matchup edges. Counterargument: Louisville backs Isaac Brown and Keyjuan Brown rushed for 213 yards on 17 carries last week; 40 rush attempts could make it a toss-up. Likes 4.5 points in a near toss-up."
+    },
+    {
+      "Capper": "Cleveland Cam",
+      "Game": "North Dakota State @ UNLV",
+      "Classification": "Posted pick • 1U",
+      "Pick / Number": "North Dakota State -3 (-115)",
+      "One-Bullet Logic": "Cleveland Cam — Posted pick: North Dakota State -3 (-115), 1U, Caesars (CZR), posted 3 days ago. NDSU 5-0 in first FBS season; beat Air Force and Jacksonville State 33-7, shut out Wyoming 28-0 (162 yards allowed). Defensive EPA/play #7, pass #15, run #12, explosive plays allowed #11, early downs #5. UNLV offense #127 adjusted success, #107 adjusted rushing EPA, #106 sacks allowed against NDSU #6 pressure rate. UNLV scored 6 vs North Texas and 21 vs Hawaii. Concern: Jackson Arnold's explosive rushing/passing (110 rush yards, 158 pass, 5 total TD vs Cal), and UNLV pass D #21 adjusted EPA/pass. NDSU QB Nathan Hayes rushed for 79 and two TD last week, so passing less essential; NDSU #14 net EPA/play. Projects NDSU by 4–5. These statistics are analyst claims, not independently verified."
     }
   ],
   "teamIntel": [
