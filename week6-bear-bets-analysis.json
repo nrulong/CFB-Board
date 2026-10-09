@@ -1,0 +1,252 @@
+{
+  "week": "Week 6 — Oct 9–10, 2026",
+  "source": "User-provided Bear Bets transcript",
+  "note": "Episode odds are historical quotes, not verified live lines. Separately attribute each analyst and avoid classifying leans as official bets.",
+  "entries": [
+    {
+      "game": "Georgia @ Alabama",
+      "analyst": "Sammy P",
+      "status": "Best Bet",
+      "pick": "Georgia +1",
+      "analysis": "Power ratings and bettors favor Georgia; strong front seven tests Alabama OL."
+    },
+    {
+      "game": "Georgia @ Alabama",
+      "analyst": "Bear",
+      "status": "Best Bet",
+      "pick": "Over 50.5 (playable 51.5)",
+      "analysis": "Weather concern subsiding; both offenses have scoring routes, sees 28-24 type game."
+    },
+    {
+      "game": "Georgia @ Alabama",
+      "analyst": "Geoff Schwartz",
+      "status": "Discussion",
+      "pick": "Over lean",
+      "analysis": "Georgia can score; Alabama OL protection vs Georgia front is decisive; not a formal best bet."
+    },
+    {
+      "game": "UCLA @ Oregon",
+      "analyst": "Sammy P",
+      "status": "Best Bet",
+      "pick": "Oregon -11.5",
+      "analysis": "Rates Oregon -14; UCLA rushing offense and lack of outside passing challenged by Oregon."
+    },
+    {
+      "game": "UCLA @ Oregon",
+      "analyst": "Geoff Schwartz",
+      "status": "Lean",
+      "pick": "Oregon -11.5",
+      "analysis": "Dante Moore out, Dylan Raiola expected; Oregon defense can force UCLA into passing; Oregon should cover."
+    },
+    {
+      "game": "UCLA @ Oregon",
+      "analyst": "Bear",
+      "status": "Discussion",
+      "pick": "No official pick",
+      "analysis": "UCLA could win outright or lose big; concerned about dependence on field position and rushing."
+    },
+    {
+      "game": "Oklahoma @ Texas",
+      "analyst": "Bear",
+      "status": "Lean",
+      "pick": "Oklahoma team total Under 14.5",
+      "analysis": "Oklahoma OL/offense struggling; hesitant on game Under 38.5 given low margin for error."
+    },
+    {
+      "game": "Oklahoma @ Texas",
+      "analyst": "Geoff Schwartz",
+      "status": "Lean",
+      "pick": "Game Under 38.5 / Oklahoma TT Under 15.5–16.5",
+      "analysis": "Poor Oklahoma offense and offensive line; low total makes a defensive/special-teams TD costly. Also discusses Texas key-number respect."
+    },
+    {
+      "game": "Akron vs Eastern Michigan",
+      "analyst": "Bear",
+      "status": "Dog to win outright",
+      "pick": "Akron ML (price unstated)",
+      "analysis": "Fade EMU after emotional road win at UMass; EMU laying 6.5 on road despite Akron QB issues."
+    },
+    {
+      "game": "Iowa @ Washington",
+      "analyst": "Sammy P",
+      "status": "Best Bet",
+      "pick": "Iowa +3.5",
+      "analysis": "Iowa backup Jeremy Hecklinski likely to start; trusts Kirk Ferentz after Ohio State loss; expects outright win."
+    },
+    {
+      "game": "Iowa @ Washington",
+      "analyst": "Geoff Schwartz",
+      "status": "Lean",
+      "pick": "Iowa +3.5",
+      "analysis": "Washington offensive struggles vs USC; Iowa bounce-back and run/defense identity."
+    },
+    {
+      "game": "Iowa @ Washington",
+      "analyst": "Bear",
+      "status": "Discussion",
+      "pick": "Iowa outright lean",
+      "analysis": "Iowa won 16 of previous 20 games with spread within 3.5 either direction (per episode)."
+    },
+    {
+      "game": "Rice @ East Carolina",
+      "analyst": "Bear",
+      "status": "Favorite to fade",
+      "pick": "Rice +10 lean",
+      "analysis": "Rice QB Jacurri Brown's rushing threat, ECU should not lay double digits."
+    },
+    {
+      "game": "USC @ Penn State",
+      "analyst": "Sammy P",
+      "status": "Favorite to fade",
+      "pick": "USC side / fade Penn State",
+      "analysis": "Penn State poor recent performance; opposes Geoff's Penn State ML."
+    },
+    {
+      "game": "USC @ Penn State",
+      "analyst": "Geoff Schwartz",
+      "status": "Best Bet",
+      "pick": "Penn State ML",
+      "analysis": "USC travel east and unfavorable spot; primarily fade USC."
+    },
+    {
+      "game": "Maryland @ Ohio State",
+      "analyst": "Geoff Schwartz",
+      "status": "Favorite to fade",
+      "pick": "Maryland side lean / pass Ohio State",
+      "analysis": "Ohio State may look ahead to Indiana; Maryland QB pick-six risk acknowledged. Not formal bet."
+    },
+    {
+      "game": "Indiana @ Nebraska",
+      "analyst": "Bear",
+      "status": "Best Bet",
+      "pick": "Indiana -7.5",
+      "analysis": "Nebraska poor record vs ranked teams, Indiana front healthier and more reliable."
+    },
+    {
+      "game": "Indiana @ Nebraska",
+      "analyst": "Geoff Schwartz",
+      "status": "Lean",
+      "pick": "Indiana -7.5",
+      "analysis": "Indiana avoids turnovers; Nebraska penalties, limited outside passing and run injuries; Hoosier OL edge."
+    },
+    {
+      "game": "Indiana @ Nebraska",
+      "analyst": "Sammy P",
+      "status": "Discussion",
+      "pick": "Indiana side",
+      "analysis": "Refuses Nebraska; agrees with Bear's assessment."
+    },
+    {
+      "game": "Texas A&M @ Missouri",
+      "analyst": "Sammy P",
+      "status": "Lean",
+      "pick": "Texas A&M +3.5",
+      "analysis": "Power rates teams close to pick'em; Missouri off emotional Florida win, situational fade."
+    },
+    {
+      "game": "Texas A&M @ Missouri",
+      "analyst": "Bear",
+      "status": "Pass",
+      "pick": "Missouri or pass",
+      "analysis": "Marcel Reed poor away vs ranked teams; cannot back A&M."
+    },
+    {
+      "game": "Texas A&M @ Missouri",
+      "analyst": "Geoff Schwartz",
+      "status": "Pass",
+      "pick": "A&M only at +7",
+      "analysis": "Acknowledges possible Missouri fade but current number not enough."
+    },
+    {
+      "game": "LSU @ Kentucky",
+      "analyst": "Sammy P / Bear",
+      "status": "Discussion",
+      "pick": "No bet",
+      "analysis": "Kentucky +8.5 viewed as trendy dog; LSU may pull away; total fell from 55 to ~52."
+    },
+    {
+      "game": "South Carolina @ Florida",
+      "analyst": "Geoff Schwartz",
+      "status": "Lean / contest consideration",
+      "pick": "Florida -12.5",
+      "analysis": "SC defensive-line concerns without Stewart, poor second halves, Florida rebound spot."
+    },
+    {
+      "game": "South Carolina @ Florida",
+      "analyst": "Bear",
+      "status": "Lean",
+      "pick": "Florida or pass",
+      "analysis": "SC poor recent P4 results, Florida bounce-back at home."
+    },
+    {
+      "game": "South Carolina @ Florida",
+      "analyst": "Sammy P",
+      "status": "Lean / prospective wager",
+      "pick": "Florida -11.5",
+      "analysis": "Rates Florida 10 points better plus ~4 home field; near opener -14; may bet -11.5."
+    },
+    {
+      "game": "Minnesota @ Purdue",
+      "analyst": "Sammy P",
+      "status": "Lean / conflicted",
+      "pick": "Minnesota -2.5",
+      "analysis": "Power ratings Minnesota 80 vs Purdue 70; Purdue home field not enough; discloses Minnesota season-win bias."
+    },
+    {
+      "game": "Minnesota @ Purdue",
+      "analyst": "Geoff Schwartz",
+      "status": "Discussion",
+      "pick": "Minnesota lean / no bet",
+      "analysis": "Surprised move from Minnesota -4.5 to -2.5; Purdue porous defense, but Minnesota sputters."
+    },
+    {
+      "game": "Minnesota @ Purdue",
+      "analyst": "Bear",
+      "status": "Pass",
+      "pick": "No bet",
+      "analysis": "Wants no part of both teams coming off upsets."
+    },
+    {
+      "game": "Drake FCS game",
+      "analyst": "Bear",
+      "status": "FCS pick",
+      "pick": "Drake game Over 53.5",
+      "analysis": "Ricky's FCS totals signal; claims line could rise before Saturday; opponent not stated."
+    },
+    {
+      "game": "Louisville @ Florida State",
+      "analyst": "Bear",
+      "status": "Best Bet",
+      "pick": "Louisville team total Over 31.5",
+      "analysis": "Discount FSU defensive showing vs UVA; Louisville rebound after close losses."
+    },
+    {
+      "game": "UCF @ Oklahoma State",
+      "analyst": "Bear",
+      "status": "Best Bet",
+      "pick": "UCF +11",
+      "analysis": "UCF defense better than market suggests, competitive vs Houston/Pitt; 11 too many."
+    },
+    {
+      "game": "Oregon State vs San Diego State",
+      "analyst": "Geoff Schwartz",
+      "status": "Best Bet",
+      "pick": "Oregon State -14.5",
+      "analysis": "SDSU outgained by 300 yards in prior win; Beaver QB/WR offensive advantage."
+    },
+    {
+      "game": "Kansas @ Utah",
+      "analyst": "Geoff Schwartz",
+      "status": "Best Bet",
+      "pick": "Utah -15.5",
+      "analysis": "Kansas young QB first true road game, difficult night at Utah; Kansas TT Under also a lean."
+    },
+    {
+      "game": "BYU vs Iowa State",
+      "analyst": "Bear / Sammy P / Geoff Schwartz",
+      "status": "Discussion / pass",
+      "pick": "No bet",
+      "analysis": "LJ Martin absent, BYU potential Notre Dame lookahead, Iowa State +10 floated but no one endorsed."
+    }
+  ]
+}
