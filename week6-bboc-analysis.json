@@ -1,0 +1,112 @@
+{
+  "week": "Week 6 — Oct 9–10, 2026",
+  "source": "User-uploaded BBOC Week 6 transcript and Stuckey/Collin app cards",
+  "note": "Source-derived game analysis; official app picks remain distinct from podcast discussion. Weather and injuries are analyst claims at recording time, not independently verified.",
+  "games": [
+    {
+      "game": "Georgia @ Alabama",
+      "stuckey": "Stuckey: Under 55 bet; liked Under even before weather. Alabama's offense hasn't faced a top-50 defense; Georgia's short-pass offense hasn't been tested by strong defenses, while Georgia's front can pressure Alabama and suppress Russell's deep balls. Georgia live look if Alabama starts fast; weather potentially favors Georgia.",
+      "collin": "Collin: Under 52 app bet; makes Georgia -1.5, interested in Georgia live after Alabama scripted/second-quarter strength. Wind/rain could force short passing and hurt kickers; concerned delays could change scoring."
+    },
+    {
+      "game": "Texas @ Oklahoma",
+      "stuckey": "Stuckey: Oklahoma +8.5 bet; elite OU pressure/blitz vs Arch Manning and shaky Texas OL, Texas offensive inefficiency, bye allows OU to change Mateer plan; expects low-scoring contest and predicts OU 20-17.",
+      "collin": "Collin: Texas defensive/special-teams TD +500 app bet; both offenses near bottom in Havoc allowed and both defenses top-20 Havoc; return-game TD history. Expects Texas to win but wouldn't lay 7.5, would buy Texas at -7."
+    },
+    {
+      "game": "Indiana @ Nebraska",
+      "stuckey": "Stuckey: Discussion/prediction Nebraska upset despite clear Indiana line-of-scrimmage edge; Nebraska's run defense concerning against weak schedule, Indiana strong rushing and run D; wind likely helps IU. No app side.",
+      "collin": "Collin: Under 48.5 app bet; makes Indiana -10, Nebraska 126th SOS, poor line yards/stuff rate vs Indiana inside zone, IU strong vs Nebraska rush concepts; wind and OSU next week suggest ground-heavy conservative IU game."
+    },
+    {
+      "game": "UCLA @ Oregon",
+      "stuckey": "Stuckey: Lean UCLA +11.5 if forced, no bet; UCLA rush success vs Oregon's shaky run D could keep them in it, but poor UCLA pass protection and Oregon backup QB Raiola make outcomes volatile.",
+      "collin": "Collin: UCLA team total Under 23 app bet; UCLA rush stats inflated by 113th SOS, Oregon prepared for Chesney/Wayne Knight concepts, Oregon top-10 pass rush vs UCLA 98th pass protection; avoids Oregon offensive side with Raiola uncertainty."
+    },
+    {
+      "game": "UNC @ Pittsburgh",
+      "stuckey": "Stuckey: UNC +4.5 app bet and UNC +4 BBOC board; UNC top-15 SOS vs Pitt >80, Pitt VT win turnover-inflated, QB Heintzel loss to Garner, UNC limits explosives, Pitt defense overrated and vulnerable to Petrino explosives.",
+      "collin": "Collin: Likes UNC +4 and leans game Over, no app bet; Pitt rush game can exploit UNC poor line yards/stuff rate, while UNC pin-pull/crack-toss rushing concepts and explosive passing can trouble Pitt."
+    },
+    {
+      "game": "Houston @ Kansas State",
+      "stuckey": "Stuckey: No official play; concerned KSU tackles and poor run defense vs easy schedule, Houston's rush defense stronger; skeptical KSU defensive metrics.",
+      "collin": "Collin: Over 53.5 app bet, projects 59; both defenses bottom-tier finishing drives, both rush-heavy with exploitable run-concept matchups, wind less relevant to ground-based scoring. Slight KSU side lean, not a side bet."
+    },
+    {
+      "game": "NDSU @ UNLV",
+      "stuckey": "Stuckey: UNLV +3.5 app bet; makes spread below field goal, NDSU soft schedule and untested secondary, UNLV tougher opponents and improving offense.",
+      "collin": "Collin: Under 48.5 app bet, projects 42; two run-heavy teams, NDSU ~30 seconds/play, UNLV rushing inefficiency, questionable strength-of-schedule-adjusted NDSU metrics."
+    },
+    {
+      "game": "LSU @ Kentucky",
+      "stuckey": "Stuckey: No official side; weather could help Kentucky run game and make LSU passing mistakes, but LSU pressure could overwhelm if Kentucky falls behind.",
+      "collin": "Collin: Kentucky upset/round-robin lean; diverse top-tier Kentucky rush concepts versus LSU weakness against man blocking, weather favors ground game; Kentucky tackling concerns and LSU outside-zone matchup noted."
+    },
+    {
+      "game": "Boise State @ Fresno State",
+      "stuckey": "Stuckey: No bet; uncertain Fresno profile despite Washington State result, sees signs of improvement.",
+      "collin": "Collin: Fresno +7 app bet, projects Boise -5; Boise backs injured, may manage to bye rather than win by margin; Fresno strong defensive EPA/hard stops, offensive tackle Braden Walton returning."
+    },
+    {
+      "game": "Louisiana @ Louisiana Tech",
+      "stuckey": "Stuckey: BBOC board Louisiana Tech -3; prefers La Tech defense against Louisiana rushing, Baker back at QB after Kukuk injury may aid passing against Louisiana.",
+      "collin": "Collin: Louisiana Tech ML -132 app bet, projects LT -4; massive SOS disparity, Louisiana 104th offensive Havoc allowed vs La Tech 7th defensive Havoc, Louisiana heavy rush meets strong La Tech front."
+    },
+    {
+      "game": "UAB @ Memphis",
+      "stuckey": "Stuckey: UAB +14.5 look, no app bet; UAB inside zone can attack Memphis poor rush defense, weather could suppress Memphis passing explosives.",
+      "collin": "Collin: Under 53.5 app bet; heavy rush offenses and projected adverse weather. BBOC discussion also supports UAB run-game matchup."
+    },
+    {
+      "game": "Texas A&M @ Missouri",
+      "stuckey": "Stuckey: A&M +3.5 app bet and BBOC board; situational fade of Missouri after emotional Florida win, despite skepticism about A&M offense/Marcel Reed.",
+      "collin": "Collin: Supports A&M BBOC board based on situational sequence; A&M inside zone vs Missouri weakness against 11-personnel inside zone; Missouri QB turnover risk. Notes A&M metrics not convincing."
+    },
+    {
+      "game": "Ball State @ Northwestern",
+      "stuckey": "Stuckey: Ball State +35.5 app bet, playable north of +35; Northwestern letdown/sleepy spot after Penn State, 11 straight weeks without bye, likely vanilla gameplan/rest starters; Ball State injury worries.",
+      "collin": "Collin: No clear official play in supplied excerpt."
+    },
+    {
+      "game": "Air Force @ Northern Illinois",
+      "stuckey": "Stuckey: NIU +10.5 app bet; BBOC board NIU +7.5, playable >7; bye/prep vs option, AF emotional Navy win/travel, QB Zarka out, NIU QB Dickens improving, NIU much stronger SOS.",
+      "collin": "Collin: Agrees NIU BBOC board; NIU strong tackling/line yards vs AF rush, backup uncertainty remains."
+    },
+    {
+      "game": "Nevada @ UTEP",
+      "stuckey": "Stuckey: UTEP +10 app bet; UTEP top-15 SOS vs Nevada 150th, potential QB absence, Raymond Moore rushing can attack Nevada, expects UTEP effort.",
+      "collin": "Collin: Makes spread Nevada -8 but passes because Nevada top-10 special teams vs UTEP 136th."
+    },
+    {
+      "game": "SDSU @ Oregon State",
+      "stuckey": "Stuckey: No official play; Oregon State consistently covers, SDSU offense and injuries uncertain.",
+      "collin": "Collin: Oregon State team total Over lean; Oregon State 11th in Havoc allowed, Atkinson-to-Legree passing should sustain drives against SDSU."
+    },
+    {
+      "game": "Tennessee @ Arkansas",
+      "stuckey": "Stuckey: No official pick; Tennessee QB change to McIntyre discussed.",
+      "collin": "Collin: Under lean; Arkansas offense overly reliant on Chris Marshall, Tennessee pressure/coverage should suppress Arkansas, Tennessee rushing edge vs Arkansas rush defense."
+    },
+    {
+      "game": "Minnesota @ Purdue",
+      "stuckey": "Stuckey: Purdue side lean/no official pick; Purdue has faced brutal schedule, Minnesota run defense vulnerable, Purdue healthier and situational sell-high Minnesota.",
+      "collin": "Collin: Over 49.5 app bet, projects 57; Purdue defense outside top 100 except pass rush."
+    },
+    {
+      "game": "Iowa @ Washington",
+      "stuckey": "Stuckey: Washington -3 BBOC board agreement; Iowa short-week westward travel, Hank Brown shoulder injury, poor Iowa run game vs Washington front; Washington QB Demond Williams zone/escape strengths.",
+      "collin": "Collin: Washington -3 app bet, projects -3; Iowa pass rush likely forces Williams into effective scrambles, Washington run defense matches Iowa outside zone."
+    },
+    {
+      "game": "Arizona @ West Virginia",
+      "stuckey": "Stuckey: WVU +3 app bet.",
+      "collin": "Collin: No app pick recorded."
+    },
+    {
+      "game": "JMU @ Georgia Southern",
+      "stuckey": "Stuckey: Georgia Southern +8.5 app bet; JMU inflated results/resume and sell-high spot; Georgia Southern buy-low argument.",
+      "collin": "Collin: BBOC round-robin support for Georgia Southern; separate exact app bet not supplied."
+    }
+  ]
+}
