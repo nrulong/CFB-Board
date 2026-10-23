@@ -1207,13 +1207,6 @@
     },
     {
       "Capper": "Bear",
-      "Game": "North Carolina @ Syracuse",
-      "Classification": "Lean",
-      "Pick / Number": "Syracuse upset potential",
-      "One-Bullet Logic": "UNC Miami lookahead; Syracuse quarterback improved"
-    },
-    {
-      "Capper": "Bear",
       "Game": "Syracuse @ North Carolina",
       "Classification": "Lean",
       "Pick / Number": "Syracuse upset potential",
@@ -1246,13 +1239,6 @@
       "Classification": "Underdog ML parlay leg",
       "Pick / Number": "Rice ML",
       "One-Bullet Logic": "FAU run defense; paired Illinois ML per BBOC podcast"
-    },
-    {
-      "Capper": "Collin Wilson",
-      "Game": "Alabama @ Texas A&M",
-      "Classification": "Lean",
-      "Pick / Number": "Under 50.5; prefers 51 or 1H Under 26.5",
-      "One-Bullet Logic": "Model 48.5; no app ticket"
     },
     {
       "Capper": "Collin Wilson",
@@ -1337,13 +1323,6 @@
       "Classification": "Team intel",
       "Pick / Number": "QB Owen Echelman improves offense",
       "One-Bullet Logic": "425 total yards vs Oregon State, much from garbage time"
-    },
-    {
-      "Capper": "Mike Calabrese",
-      "Game": "Air Force outlook",
-      "Classification": "Team intel",
-      "Pick / Number": "Army QB Kale Helms rushing surge",
-      "One-Bullet Logic": "Army ran 479 yards against FAU; Tulsa matchup could slow"
     },
     {
       "Capper": "Duck",
