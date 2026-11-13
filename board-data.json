@@ -1,6 +1,6 @@
 {
   "week": "Week 11 — Nov 13–14, 2026",
-  "lastUpdated": "Nov 13, 2026 — Draft including Bear/Sammy/Jeff podcast; not published; market snapshot needs verification",
+  "lastUpdated": "Nov 13, 2026 — Week 11 published; Cleveland Cam Houston -10 added",
   "marketSource": "Illustrative third-party posted odds snapshot, not Caesars/live. Friday lines: CBS Sports Nov 12 Week 11 odds. Saturday lines: The Odds Board Week 11 slate accessed Nov 13. Numbers may differ from Caesars and change. NCAA.com Nov 13 kickoff times; all Eastern. No expert picks or SP+ projections have been imported or inferred. Duck official ticket odds are posted historical prices, not live market quotes; futures listed separately in Experts. Stuckey feed: 12 Week 11 CFB tickets; Week 10 round robin and NFL bets excluded from Week 11 CFB board. Original source book and price preserved; lines not verified as live. BBOC podcast market numbers are discussion-time snapshots, not live Caesars prices; podcast leans, projections, parlay legs and hypothetical lines are explicitly non-ticket unless separately confirmed in supplied app cards. | Sixth Gear podcast numbers are analyst-stated, not live market quotes; Memphis @ South Florida provisional with unverified kickoff. | Podcast prices are quoted historical numbers, not live market confirmations.",
   "myPicks": [],
   "allGames": [
@@ -35,7 +35,7 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson — Official app bet: Over 48.5 (-110) • 1.1u • BetRivers NJ\nCollin Wilson — Official app bet: Colorado +10 (-112) • 1.12u • DraftKings NJ. Projects Colorado +6; Houston defense struggles in success rate and EPA allowed, near bottom in finishing drives\nStuckey — Official app bet: Colorado +10.5 (-120) • 0.4u • FanDuel KY | BBOC podcast: Both officially Colorado sides already posted: Stuckey +10.5 (-120), Collin +10 (-112). Podcast agrees Colorado but says +9.5 is dead zone and to seek +10. Houston defensive finishing drives…"
+      "Tracked Analysis / Picks": "Collin Wilson — Official app bet: Over 48.5 (-110) • 1.1u • BetRivers NJ\nCollin Wilson — Official app bet: Colorado +10 (-112) • 1.12u • DraftKings NJ. Projects Colorado +6; Houston defense struggles in success rate and EPA allowed, near bottom in finishing drives\nStuckey — Official app bet: Colorado +10.5 (-120) • 0.4u • FanDuel KY | BBOC podcast: Both officially Colorado sides already posted: Stuckey +10.5 (-120), Collin +10 (-112). Podcast agrees Colorado but says +9.5 is dead zone and to seek +10. Houston defensive finishing drives…\nCleveland Cam — Official posted pick: Houston -10 (-107), 1u, Caesars. Contradicts Collin Wilson Colorado +10 and Stuckey Colorado +10.5. Thesis: Houston explosive passing vs Colorado pass-defense vulnerabilities; Houston drive efficiency and field position vs Colorado struggling offense. Analyst statistics unverified."
     },
     {
       "Date": "Sat",
@@ -1365,6 +1365,13 @@
       "Classification": "Bear/Sammy/Jeff podcast — Temptation — no bet",
       "Pick / Number": "Rutgers +14.5",
       "One-Bullet Logic": "Discusses temptation but says trying to avoid; not official. 41:18."
+    },
+    {
+      "Capper": "Cleveland Cam",
+      "Game": "Houston @ Colorado",
+      "Classification": "Official posted pick",
+      "Pick / Number": "Houston -10 (-107)",
+      "One-Bullet Logic": "1u • Caesars (CZR) • Posted 4 days before Nov 13. Houston ranks 4th in offensive efficiency, 3rd passing, 5th explosive-pass rate; Colorado defense 69th vs pass, 111th in explosive passes allowed. Houston strong on quality drives, conversions and net field position; Colorado offense struggles in efficiency, third/fourth downs and starting field position. Analyst statistics not independently verified."
     }
   ],
   "teamIntel": [
