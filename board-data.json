@@ -1,6 +1,6 @@
 {
   "week": "Week 12 — Nov 17–21, 2026",
-  "lastUpdated": "Nov 20, 2026 — six user-confirmed Week 12 tickets recorded",
+  "lastUpdated": "Nov 20, 2026 — six My Picks market comparisons updated; other game odds not verified",
   "marketSource": "70-game schedule and kickoff times: footballschedule.info/college-football/week/12/ and NCAA.com Nov 19 schedule (ET). Market spread and total fields intentionally blank: no verified live Caesars odds. Expert prices are historical Action Network profile PDF or podcast quotes, NOT live. Official tracked bets separated from podcast endorsements, leans, projections and parlay legs. Futures and college player props excluded. Earlier Tue–Thu games retained for complete slate; do not treat as upcoming.",
   "myPicks": [
     {
@@ -9,7 +9,10 @@
       "Odds": "Not provided",
       "Units": "Not provided",
       "Status": "Placed — user confirmed",
-      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied. Current market is not actual ticket price; original selection retained.",
+      "CurrentMarket": "TCU +7 (-115)",
+      "MarketSource": "FantasyData current market",
+      "MarketChecked": "2026-11-20"
     },
     {
       "Game": "BYU @ Kansas",
@@ -17,7 +20,10 @@
       "Odds": "Not provided",
       "Units": "Not provided",
       "Status": "Placed — user confirmed",
-      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied. Current market is not actual ticket price; original selection retained.",
+      "CurrentMarket": "Kansas +5.5 (-110)",
+      "MarketSource": "FantasyData current market",
+      "MarketChecked": "2026-11-20"
     },
     {
       "Game": "FIU @ Kennesaw State",
@@ -25,7 +31,10 @@
       "Odds": "Not provided",
       "Units": "Not provided",
       "Status": "Placed — user confirmed",
-      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied. Current market is not actual ticket price; original selection retained.",
+      "CurrentMarket": "FIU +3 (-112)",
+      "MarketSource": "FantasyData current market",
+      "MarketChecked": "2026-11-20"
     },
     {
       "Game": "East Carolina @ Army",
@@ -33,7 +42,10 @@
       "Odds": "Not provided",
       "Units": "Not provided",
       "Status": "Placed — user confirmed",
-      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied. Current market is not actual ticket price; original selection retained.",
+      "CurrentMarket": "Army -6 (-110)",
+      "MarketSource": "FantasyData current market",
+      "MarketChecked": "2026-11-20"
     },
     {
       "Game": "Hawaii @ Nevada",
@@ -41,7 +53,10 @@
       "Odds": "Not provided",
       "Units": "Not provided",
       "Status": "Placed — user confirmed",
-      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied. Current market is not actual ticket price; original selection retained.",
+      "CurrentMarket": "Hawaii TT Under 17.5 (-130)",
+      "MarketSource": "ATS.io team total / FantasyData game market",
+      "MarketChecked": "2026-11-20"
     },
     {
       "Game": "UTSA @ UAB",
@@ -49,7 +64,10 @@
       "Odds": "Not provided",
       "Units": "Not provided",
       "Status": "Placed — user confirmed",
-      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied. Current market is not actual ticket price; original selection retained.",
+      "CurrentMarket": "Under 50.5 (-112)",
+      "MarketSource": "FantasyData current market",
+      "MarketChecked": "2026-11-20"
     }
   ],
   "allGames": [
@@ -255,8 +273,8 @@
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "East Carolina @ Army",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Army -6 (-110)",
+      "Current Total": "45.5",
       "My Ticket": "Army -5.5",
       "SP+ Spread": "",
       "SP+ Total": "",
@@ -299,8 +317,8 @@
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "BYU @ Kansas",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "BYU -5.5 (-113)",
+      "Current Total": "47.5",
       "My Ticket": "Kansas +6",
       "SP+ Spread": "",
       "SP+ Total": "",
@@ -464,8 +482,8 @@
       "Date": "Sat",
       "Time ET": "3:00 PM",
       "Game": "FIU @ Kennesaw State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Kennesaw State -3 (-110)",
+      "Current Total": "44.5",
       "My Ticket": "FIU +3.5",
       "SP+ Spread": "",
       "SP+ Total": "",
@@ -761,8 +779,8 @@
       "Date": "Sat",
       "Time ET": "8:00 PM",
       "Game": "UTSA @ UAB",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "UTSA -6.5 (-108)",
+      "Current Total": "50.5",
       "My Ticket": "Under 52.5",
       "SP+ Spread": "",
       "SP+ Total": "",
@@ -772,8 +790,8 @@
       "Date": "Sat",
       "Time ET": "9:00 PM",
       "Game": "Utah @ TCU",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Utah -7 (-108)",
+      "Current Total": "46.5",
       "My Ticket": "TCU +7.5",
       "SP+ Spread": "",
       "SP+ Total": "",
@@ -805,8 +823,8 @@
       "Date": "Sat",
       "Time ET": "10:30 PM",
       "Game": "Hawaii @ Nevada",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Nevada -5.5 (-113)",
+      "Current Total": "40.5",
       "My Ticket": "Hawaii TT Under 17.5",
       "SP+ Spread": "",
       "SP+ Total": "",
