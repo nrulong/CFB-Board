@@ -1,7 +1,7 @@
 {
   "week": "Week 12 — Nov 17–21, 2026",
-  "lastUpdated": "Nov 20, 2026 — six My Picks market comparisons updated; other game odds not verified",
-  "marketSource": "70-game schedule and kickoff times: footballschedule.info/college-football/week/12/ and NCAA.com Nov 19 schedule (ET). Market spread and total fields intentionally blank: no verified live Caesars odds. Expert prices are historical Action Network profile PDF or podcast quotes, NOT live. Official tracked bets separated from podcast endorsements, leans, projections and parlay legs. Futures and college player props excluded. Earlier Tue–Thu games retained for complete slate; do not treat as upcoming.",
+  "lastUpdated": "Nov 20, 2026 — VegasInsider Week 12 consensus spreads and totals populated",
+  "marketSource": "VegasInsider Week 12 consensus spread and total snapshots retrieved Nov 20 2026 (https://www.vegasinsider.com/college-football/odds/las-vegas/). Not live Caesars. Blank cells mean no confidently verified VegasInsider consensus; Tue–Thu completed games deliberately not labeled current. Historical expert tickets remain unchanged; six My Picks remain user-confirmed with actual ticket odds unknown.",
   "myPicks": [
     {
       "Game": "Utah @ TCU",
@@ -141,694 +141,757 @@
       "Date": "Fri",
       "Time ET": "6:00 PM",
       "Game": "Iowa State @ UCF",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Iowa State -1.5",
+      "Current Total": "53.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Under 53.5 (-110) — 1u • Action Network profile PDF; historical tracked line"
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Under 53.5 (-110) — 1u • Action Network profile PDF; historical tracked line",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Fri",
       "Time ET": "7:30 PM",
       "Game": "Clemson @ Duke",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Duke -11.5",
+      "Current Total": "40.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey [BBOC lean]: Under 40 — Clemson QB/offensive limitations"
+      "Tracked Analysis / Picks": "Stuckey [BBOC lean]: Under 40 — Clemson QB/offensive limitations",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Fri",
       "Time ET": "7:30 PM",
       "Game": "Bowling Green @ Toledo",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Toledo -16.5",
+      "Current Total": "45.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Fri",
       "Time ET": "8:00 PM",
       "Game": "Oregon @ Michigan State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Oregon -17.5",
+      "Current Total": "42.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Oregon -17.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Over 44.5 (-115) — 1.15u • Action Network profile PDF; historical tracked line\nMike Calabrese [Sixth Gear Power Four]: Oregon -16.5 — Michigan State QB injuries; Jeff agrees\nJeff Schwartz [Bear Bets best bet]: Oregon, number not stated — Michigan State QB injuries; agrees with Mike\nSixth Gear + Bear Bets + Action: Duck official Oregon -17.5; Mike -16.5; Jeff supports Oregon; Collin official Over 44.5. Michigan State QB injuries; Oregon margin incentive. Side+total pairing is inferred."
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Oregon -17.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Over 44.5 (-115) — 1.15u • Action Network profile PDF; historical tracked line\nMike Calabrese [Sixth Gear Power Four]: Oregon -16.5 — Michigan State QB injuries; Jeff agrees\nJeff Schwartz [Bear Bets best bet]: Oregon, number not stated — Michigan State QB injuries; agrees with Mike\nSixth Gear + Bear Bets + Action: Duck official Oregon -17.5; Mike -16.5; Jeff supports Oregon; Collin official Over 44.5. Michigan State QB injuries; Oregon margin incentive. Side+total pairing is inferred.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Fri",
       "Time ET": "8:00 PM",
       "Game": "UTEP @ Air Force",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Air Force -22.5",
+      "Current Total": "48.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Air Force TT Over 34.5 (-112) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Over 34.5 (-111) — 1.11u • Action Network profile PDF; historical tracked line"
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Air Force TT Over 34.5 (-112) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Over 34.5 (-111) — 1.11u • Action Network profile PDF; historical tracked line",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Fri",
       "Time ET": "9:00 PM",
       "Game": "New Mexico @ Wyoming",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "New Mexico -9.5",
+      "Current Total": "37.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Wyoming +10.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Over 37 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nCollin Wilson [BBOC podcast endorsement]: Over 37 — Matches Action ticket"
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Wyoming +10.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Over 37 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nCollin Wilson [BBOC podcast endorsement]: Over 37 — Matches Action ticket",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "Colorado @ Cincinnati",
-      "Current Spread": "",
+      "Current Spread": "Cincinnati -3",
       "Current Total": "",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "Vanderbilt @ Florida",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Florida -13.5",
+      "Current Total": "45.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "Wake Forest @ Georgia Tech",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Wake Forest -20.5",
+      "Current Total": "56.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Sammy [Bear Bets best bet]: Georgia Tech +20.5 — Wake Forest inflated market rating\nBear Bets: Sammy Georgia Tech +20.5 best bet; Wake Forest market premium; note actual matchup Wake Forest @ Georgia Tech."
+      "Tracked Analysis / Picks": "Sammy [Bear Bets best bet]: Georgia Tech +20.5 — Wake Forest inflated market rating\nBear Bets: Sammy Georgia Tech +20.5 best bet; Wake Forest market premium; note actual matchup Wake Forest @ Georgia Tech.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "Northwestern @ Minnesota",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Northwestern -2.5",
+      "Current Total": "41.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Sammy [Bear Bets pending selection]: Minnesota +2.5 — Closing selection; explicitly not yet placed"
+      "Tracked Analysis / Picks": "Sammy [Bear Bets pending selection]: Minnesota +2.5 — Closing selection; explicitly not yet placed",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "Syracuse @ Boston College",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Syracuse -3",
+      "Current Total": "52.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "Wofford @ Ole Miss",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Ole Miss -49.5",
+      "Current Total": "59.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "East Carolina @ Army",
-      "Current Spread": "Army -6 (-110)",
+      "Current Spread": "Army -6",
       "Current Total": "45.5",
       "My Ticket": "Army -5.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Army -5.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: Army -5.5 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nDuck [Sixth Gear Triple Option]: Army -5.5 — ECU injuries, Army bye and ball control\nStuckey [BBOC favorite overdog]: Army -6 — Podcast number; official Action -5.5\nBBOC + Sixth Gear + Action: Duck and Stuckey official Army -5.5. Army bye, ECU injuries, rushing/possession edge. Stuckey favorite overdog."
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Army -5.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: Army -5.5 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nDuck [Sixth Gear Triple Option]: Army -5.5 — ECU injuries, Army bye and ball control\nStuckey [BBOC favorite overdog]: Army -6 — Podcast number; official Action -5.5\nBBOC + Sixth Gear + Action: Duck and Stuckey official Army -5.5. Army bye, ECU injuries, rushing/possession edge. Stuckey favorite overdog.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "Ohio State @ Nebraska",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Ohio State -3.5",
+      "Current Total": "41.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Nebraska +3.5 (-115) — 1.15u • Action Network profile PDF; historical tracked line\nStuckey + Collin Wilson [BBOC consensus board]: Nebraska +3.5 — Joint podcast agreement; NOT additional independent Action tickets\nSammy [Bear Bets wager]: Nebraska +3.5 — Bear and Jeff lean same side\nCollin Wilson [BBOC underdog parlay leg]: Nebraska ML — Paired with Navy ML; approx +440 combined\nBBOC + Bear Bets: Stuckey/Collin consensus Nebraska +3.5; Sammy wager; Bear/Jeff leans. Ohio State pass rush concerns, Nebraska ground game, defensive injuries; Jeremiah Smith usage risk."
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Nebraska +3.5 (-115) — 1.15u • Action Network profile PDF; historical tracked line\nStuckey + Collin Wilson [BBOC consensus board]: Nebraska +3.5 — Joint podcast agreement; NOT additional independent Action tickets\nSammy [Bear Bets wager]: Nebraska +3.5 — Bear and Jeff lean same side\nCollin Wilson [BBOC underdog parlay leg]: Nebraska ML — Paired with Navy ML; approx +440 combined\nBBOC + Bear Bets: Stuckey/Collin consensus Nebraska +3.5; Sammy wager; Bear/Jeff leans. Ohio State pass rush concerns, Nebraska ground game, defensive injuries; Jeremiah Smith usage risk.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "Memphis @ Navy",
-      "Current Spread": "",
+      "Current Spread": "Memphis -2.5",
       "Current Total": "",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Navy +3 (-109) — 1.09u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: Navy +3.5 (-115) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey [BBOC underdog parlay leg]: Navy ML — Paired with Nebraska ML; approx +440 combined"
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Navy +3 (-109) — 1.09u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: Navy +3.5 (-115) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey [BBOC underdog parlay leg]: Navy ML — Paired with Nebraska ML; approx +440 combined",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "North Texas @ Tulane",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "North Texas -6.5",
+      "Current Total": "55.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: North Texas TT Under 31.5 (-125) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Tulane +10.5 (-110) — 1.1u • Action Network profile PDF; historical tracked line"
+      "Tracked Analysis / Picks": "Duck [Official app bet]: North Texas TT Under 31.5 (-125) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Tulane +10.5 (-110) — 1.1u • Action Network profile PDF; historical tracked line",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "BYU @ Kansas",
-      "Current Spread": "BYU -5.5 (-113)",
+      "Current Spread": "BYU -5.5",
       "Current Total": "47.5",
       "My Ticket": "Kansas +6",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Kansas +6 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: Kansas +6 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey + Collin Wilson [BBOC consensus board]: Kansas +5.5 — Joint podcast agreement; NOT additional independent Action tickets\nBear [Bear Bets best bet]: Kansas spread, number not specified — Kansas defense and BYU tackling; Sammy +5.5\nSammy [Bear Bets best bet]: Kansas +5.5 — Kansas home underdog\nJeff Schwartz [Bear Bets underdog selection]: Kansas ML — Supports Kansas\nBBOC + Bear Bets: Stuckey and Collin tracked Kansas +6; podcast consensus +5.5; Sammy +5.5, Jeff ML, Bear supports. Kansas defensive improvement; BYU tackling concerns."
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Kansas +6 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: Kansas +6 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey + Collin Wilson [BBOC consensus board]: Kansas +5.5 — Joint podcast agreement; NOT additional independent Action tickets\nBear [Bear Bets best bet]: Kansas spread, number not specified — Kansas defense and BYU tackling; Sammy +5.5\nSammy [Bear Bets best bet]: Kansas +5.5 — Kansas home underdog\nJeff Schwartz [Bear Bets underdog selection]: Kansas ML — Supports Kansas\nBBOC + Bear Bets: Stuckey and Collin tracked Kansas +6; podcast consensus +5.5; Sammy +5.5, Jeff ML, Bear supports. Kansas defensive improvement; BYU tackling concerns.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:00 PM",
       "Game": "Wisconsin @ Purdue",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Wisconsin -6",
+      "Current Total": "46.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Over 45.5 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: Purdue +6 (-108) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey [BBOC Trash podcast]: Purdue +6 — Podcast selection; duplicates with official Action entries should not be double-counted\nBBOC + Bear Bets + Action: Stuckey Purdue +6; Collin game Over 45.5 app and Over 46.5 podcast; Wisconsin secondary injuries and Purdue passing potential."
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Over 45.5 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: Purdue +6 (-108) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey [BBOC Trash podcast]: Purdue +6 — Podcast selection; duplicates with official Action entries should not be double-counted\nBBOC + Bear Bets + Action: Stuckey Purdue +6; Collin game Over 45.5 app and Over 46.5 podcast; Wisconsin secondary injuries and Purdue passing potential.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "12:30 PM",
       "Game": "North Carolina @ Virginia",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Virginia -1.5",
+      "Current Total": "41.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "1:00 PM",
       "Game": "Western Kentucky @ Liberty",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Liberty -17.5",
+      "Current Total": "53.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "1:00 PM",
       "Game": "Houston @ West Virginia",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Houston -7.5",
+      "Current Total": "71.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Bear [Bear Bets underdog selection]: West Virginia ML — Houston market movement tied to WVU QB uncertainty"
+      "Tracked Analysis / Picks": "Bear [Bear Bets underdog selection]: West Virginia ML — Houston market movement tied to WVU QB uncertainty",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "1:00 PM",
       "Game": "Tennessee Tech @ Mississippi State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Mississippi State -33.5",
+      "Current Total": "59.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Mike Calabrese [Sixth Gear longshot]: Tennessee Tech ML +2200 — Very small-stake upset longshot; also underdog parlay leg"
+      "Tracked Analysis / Picks": "Mike Calabrese [Sixth Gear longshot]: Tennessee Tech ML +2200 — Very small-stake upset longshot; also underdog parlay leg",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "2:00 PM",
       "Game": "Missouri State @ Jacksonville State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Jacksonville State -10.5",
+      "Current Total": "52.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "2:00 PM",
       "Game": "Charlotte @ Tulsa",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Tulsa -22.5",
+      "Current Total": "51.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "2:00 PM",
       "Game": "Chattanooga @ Alabama",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Alabama -48.5",
+      "Current Total": "58.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "2:00 PM",
       "Game": "Middle Tennessee @ Sam Houston",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Middle Tennessee -6",
+      "Current Total": "48.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "2:30 PM",
       "Game": "South Florida @ Florida Atlantic",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "South Florida -1.5",
+      "Current Total": "64.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Under 65.5 (-110) — 0.55u • Action Network profile PDF; historical tracked line\nMike Calabrese [Sixth Gear conditional]: Over 64.5 — ONLY if FAU receiver Messer healthy; conflicts with Collin Under 65.5\nSixth Gear + Collin Action: DIRECT TOTAL CONFLICT: Mike Over 64.5 only if Messer healthy; Collin official Under 65.5. Injury status critical."
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Under 65.5 (-110) — 0.55u • Action Network profile PDF; historical tracked line\nMike Calabrese [Sixth Gear conditional]: Over 64.5 — ONLY if FAU receiver Messer healthy; conflicts with Collin Under 65.5\nSixth Gear + Collin Action: DIRECT TOTAL CONFLICT: Mike Over 64.5 only if Messer healthy; Collin official Under 65.5. Injury status critical.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "2:30 PM",
       "Game": "Iowa @ Illinois",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Iowa -8.5",
+      "Current Total": "40.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Iowa -8.5 (-112) — 1u • Action Network profile PDF; historical tracked line\nSammy [Bear Bets best bet]: Under 41 — Illinois QB uncertainty\nBear Bets + BBOC: Sammy Under 41; Duck Iowa -8.5 official. Illinois QB Payton Hower surgery and backup concerns per podcast; verify availability."
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Iowa -8.5 (-112) — 1u • Action Network profile PDF; historical tracked line\nSammy [Bear Bets best bet]: Under 41 — Illinois QB uncertainty\nBear Bets + BBOC: Sammy Under 41; Duck Iowa -8.5 official. Illinois QB Payton Hower surgery and backup concerns per podcast; verify availability.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "2:30 PM",
       "Game": "UL Monroe @ App State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "App State -14",
+      "Current Total": "50.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:00 PM",
       "Game": "Delaware @ New Mexico State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Delaware -3.5",
+      "Current Total": "53.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey [Official app bet]: New Mexico State +3.5 (-105) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey [BBOC Trash podcast]: New Mexico State +3.5 — Podcast selection; duplicates with official Action entries should not be double-counted"
+      "Tracked Analysis / Picks": "Stuckey [Official app bet]: New Mexico State +3.5 (-105) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey [BBOC Trash podcast]: New Mexico State +3.5 — Podcast selection; duplicates with official Action entries should not be double-counted",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:00 PM",
       "Game": "Coastal Carolina @ Louisiana",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Louisiana -10.5",
+      "Current Total": "49.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:00 PM",
       "Game": "FIU @ Kennesaw State",
-      "Current Spread": "Kennesaw State -3 (-110)",
+      "Current Spread": "Kennesaw State -3",
       "Current Total": "44.5",
       "My Ticket": "FIU +3.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: FIU +3.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nDuck [Official app bet]: FIU ML (+142) — 0.35u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: FIU +3.5 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey [BBOC Trash podcast]: FIU +3.5 — Podcast selection; duplicates with official Action entries should not be double-counted\nDuck [Sixth Gear underdog]: FIU ML / +3.5 — FIU pressure and rushing explosiveness\nBBOC + Sixth Gear + Action: Duck and Stuckey official FIU +3.5; Duck additional FIU ML +142. FIU defense and Kennesaw weak passing explosiveness."
+      "Tracked Analysis / Picks": "Duck [Official app bet]: FIU +3.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nDuck [Official app bet]: FIU ML (+142) — 0.35u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: FIU +3.5 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey [BBOC Trash podcast]: FIU +3.5 — Podcast selection; duplicates with official Action entries should not be double-counted\nDuck [Sixth Gear underdog]: FIU ML / +3.5 — FIU pressure and rushing explosiveness\nBBOC + Sixth Gear + Action: Duck and Stuckey official FIU +3.5; Duck additional FIU ML +142. FIU defense and Kennesaw weak passing explosiveness.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
       "Game": "Samford @ Auburn",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Auburn -48.5",
+      "Current Total": "59.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
       "Game": "Arkansas @ Texas",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Texas -20.5",
+      "Current Total": "47.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [BBOC lean]: Over, no number — Defensive questions\nStuckey [BBOC conditional lean]: Arkansas +21 — Only at 21 or better"
+      "Tracked Analysis / Picks": "Collin Wilson [BBOC lean]: Over, no number — Defensive questions\nStuckey [BBOC conditional lean]: Arkansas +21 — Only at 21 or better",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
       "Game": "UCLA @ Michigan",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "UCLA -3.5",
+      "Current Total": "37.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Michigan +4.5 (-115) — 1.15u • Action Network profile PDF; historical tracked line\nBear [Bear Bets best bet]: Michigan TT Under 17.5 — Michigan offensive deficiencies\nJeff Schwartz [Bear Bets conditional lean]: UCLA -3 — Conflicts Collin Michigan +4.5\nSammy [Bear Bets lean not bet]: UCLA -3 — Conflicts Collin Michigan +4.5\nBBOC + Bear Bets: Collin tracked Michigan +4.5, projects UCLA rush struggles against Michigan; Sammy/Jeff lean UCLA -3. Bear Michigan TT U17.5; Collin leans game under 37.5. Michigan receiver injuries; turnover regression concern."
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Michigan +4.5 (-115) — 1.15u • Action Network profile PDF; historical tracked line\nBear [Bear Bets best bet]: Michigan TT Under 17.5 — Michigan offensive deficiencies\nJeff Schwartz [Bear Bets conditional lean]: UCLA -3 — Conflicts Collin Michigan +4.5\nSammy [Bear Bets lean not bet]: UCLA -3 — Conflicts Collin Michigan +4.5\nBBOC + Bear Bets: Collin tracked Michigan +4.5, projects UCLA rush struggles against Michigan; Sammy/Jeff lean UCLA -3. Bear Michigan TT U17.5; Collin leans game under 37.5. Michigan receiver injuries; turnover regression concern.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
       "Game": "Old Dominion @ UConn",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "UConn -13.5",
+      "Current Total": "47.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Stuckey [BBOC Trash podcast]: Old Dominion +13.5 — Podcast selection; duplicates with official Action entries should not be double-counted\nMike Calabrese [Sixth Gear G6 best bet]: UConn -13.5 — UConn QB/pass rush matchup; DIRECT OPPOSITION to Stuckey ODU +13.5\nBBOC + Sixth Gear: DIRECT CONFLICT: Mike UConn -13.5 best bet vs Stuckey ODU +13.5 Trash. Mike cites UConn QB edge; Stuckey cites ODU defense and bye."
+      "Tracked Analysis / Picks": "Stuckey [BBOC Trash podcast]: Old Dominion +13.5 — Podcast selection; duplicates with official Action entries should not be double-counted\nMike Calabrese [Sixth Gear G6 best bet]: UConn -13.5 — UConn QB/pass rush matchup; DIRECT OPPOSITION to Stuckey ODU +13.5\nBBOC + Sixth Gear: DIRECT CONFLICT: Mike UConn -13.5 best bet vs Stuckey ODU +13.5 Trash. Mike cites UConn QB edge; Stuckey cites ODU defense and bye.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
       "Game": "NC State @ Florida State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Florida State -5.5",
+      "Current Total": "56.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
       "Game": "Indiana @ Washington",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Indiana -7.5",
+      "Current Total": "43.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Indiana -7.5 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nJeff Schwartz [Bear Bets best bet]: Under 43–44.5 discussed — Washington offense and Indiana road concerns\nCollin Wilson [BBOC reconsideration]: Washington +8 or better — He already tracked Indiana -7.5; potential buyout/opposite side, NOT confirmed bet\nBBOC + Bear Bets: Collin tracked Indiana -7.5 on opener but later said Washington +8 or better could merit buyout/opposite position due to Williams scrambling; Jeff game Under 43–44.5; Stuckey passes."
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Indiana -7.5 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nJeff Schwartz [Bear Bets best bet]: Under 43–44.5 discussed — Washington offense and Indiana road concerns\nCollin Wilson [BBOC reconsideration]: Washington +8 or better — He already tracked Indiana -7.5; potential buyout/opposite side, NOT confirmed bet\nBBOC + Bear Bets: Collin tracked Indiana -7.5 on opener but later said Washington +8 or better could merit buyout/opposite position due to Williams scrambling; Jeff game Under 43–44.5; Stuckey passes.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
       "Game": "LSU @ Tennessee",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "LSU -1.5",
+      "Current Total": "45.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [BBOC strong lean]: 1H Under, no number — Tennessee rush-heavy attack; LSU offensive execution"
+      "Tracked Analysis / Picks": "Collin Wilson [BBOC strong lean]: 1H Under, no number — Tennessee rush-heavy attack; LSU offensive execution",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
       "Game": "Rutgers @ Penn State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Penn State -26.5",
+      "Current Total": "49.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Penn State 1H -14.5 (+100) — 1u • Action Network profile PDF; historical tracked line"
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Penn State 1H -14.5 (+100) — 1u • Action Network profile PDF; historical tracked line",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:30 PM",
       "Game": "Texas Tech @ Baylor",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Texas Tech -4.5",
+      "Current Total": "56.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Texas Tech -3.5 (-106) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Under 55.5 (-108) — 1.08u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app parlay]: Texas Tech ML + Iowa ML (+108), 1u — Two-game parlay; Iowa leg is Iowa @ Illinois; not counted as two straight bets\nStuckey [BBOC head-to-head]: Baylor +4.5 — Opposes Collin Texas Tech; $20 podcast head-to-head\nCollin Wilson [BBOC head-to-head]: Texas Tech favorite / ML — Opposes Stuckey Baylor +4.5; Collin tracked separate TT/Baylor Under\nDuck [Sixth Gear Power Four]: Texas Tech -3.5 — Castellanos mobile QB vs Baylor; Bear/Stuckey favor Baylor\nBear [Bear Bets best bet]: Baylor underdog — Baylor run-matchup angle; opposes Duck/Collin Tech\nCollin Wilson [BBOC favorite overdog]: Texas Tech favorite — Havoc/turnover matchup\nBBOC + Bear Bets + Sixth Gear: DIRECT CONFLICT: Duck Texas Tech -3.5, Collin Texas Tech ML/ML parlay; Stuckey Baylor +4.5 and Bear Baylor. Collin also tracked Under 55.5. Avoid treating opposing sides as consensus."
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Texas Tech -3.5 (-106) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Under 55.5 (-108) — 1.08u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app parlay]: Texas Tech ML + Iowa ML (+108), 1u — Two-game parlay; Iowa leg is Iowa @ Illinois; not counted as two straight bets\nStuckey [BBOC head-to-head]: Baylor +4.5 — Opposes Collin Texas Tech; $20 podcast head-to-head\nCollin Wilson [BBOC head-to-head]: Texas Tech favorite / ML — Opposes Stuckey Baylor +4.5; Collin tracked separate TT/Baylor Under\nDuck [Sixth Gear Power Four]: Texas Tech -3.5 — Castellanos mobile QB vs Baylor; Bear/Stuckey favor Baylor\nBear [Bear Bets best bet]: Baylor underdog — Baylor run-matchup angle; opposes Duck/Collin Tech\nCollin Wilson [BBOC favorite overdog]: Texas Tech favorite — Havoc/turnover matchup\nBBOC + Bear Bets + Sixth Gear: DIRECT CONFLICT: Duck Texas Tech -3.5, Collin Texas Tech ML/ML parlay; Stuckey Baylor +4.5 and Bear Baylor. Collin also tracked Under 55.5. Avoid treating opposing sides as consensus.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "3:45 PM",
       "Game": "Texas A&M @ Oklahoma",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Oklahoma -7.5",
+      "Current Total": "37.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "4:00 PM",
       "Game": "South Alabama @ Southern Miss",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "South Alabama -4.5",
+      "Current Total": "66.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: South Alabama -3.5 (-110) — 1u • Action Network profile PDF; historical tracked line"
+      "Tracked Analysis / Picks": "Duck [Official app bet]: South Alabama -3.5 (-110) — 1u • Action Network profile PDF; historical tracked line",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "4:00 PM",
       "Game": "Georgia State @ Marshall",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Marshall -2.5",
+      "Current Total": "55.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "4:00 PM",
       "Game": "Georgia Southern @ Troy",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Georgia Southern -9.5",
+      "Current Total": "47.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "4:00 PM",
       "Game": "Northern Illinois @ North Dakota State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "North Dakota State -25.5",
+      "Current Total": "44.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "6:00 PM",
       "Game": "Washington State @ Texas State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Texas State -13.5",
+      "Current Total": "62.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Mike Calabrese [Sixth Gear Triple Option]: Texas State -11.5 — Texas State yardage edge and strong run defense; Jeff agrees\nJeff Schwartz [Bear Bets best bet]: Texas State, number not stated — Agrees with Mike on Texas State\nSixth Gear + Bear Bets: Mike Texas State -11.5 best G6; Jeff agrees. WSU 73-point prior outlier; Texas State run defense and prior yardage edge."
+      "Tracked Analysis / Picks": "Mike Calabrese [Sixth Gear Triple Option]: Texas State -11.5 — Texas State yardage edge and strong run defense; Jeff agrees\nJeff Schwartz [Bear Bets best bet]: Texas State, number not stated — Agrees with Mike on Texas State\nSixth Gear + Bear Bets: Mike Texas State -11.5 best G6; Jeff agrees. WSU 73-point prior outlier; Texas State run defense and prior yardage edge.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "6:15 PM",
       "Game": "Maryland @ USC",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "USC -17.5",
+      "Current Total": "57.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "7:00 PM",
       "Game": "Arizona @ Kansas State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Arizona -7.5",
+      "Current Total": "52.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Kansas State +7 (-105) — 1.05u • Action Network profile PDF; historical tracked line"
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Kansas State +7 (-105) — 1.05u • Action Network profile PDF; historical tracked line",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "7:00 PM",
       "Game": "UNLV @ San Jose State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "UNLV -6.5",
+      "Current Total": "47.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: UNLV TT Under 27.5 (-120) — 1u • Action Network profile PDF; historical tracked line\nBear [Bear Bets lean]: San Jose State +7 — Potential UNLV letdown; note Duck UNLV TT Under 27.5"
+      "Tracked Analysis / Picks": "Duck [Official app bet]: UNLV TT Under 27.5 (-120) — 1u • Action Network profile PDF; historical tracked line\nBear [Bear Bets lean]: San Jose State +7 — Potential UNLV letdown; note Duck UNLV TT Under 27.5",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "7:00 PM",
       "Game": "Virginia Tech @ Miami",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Miami -20.5",
+      "Current Total": "60.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Over 60.5 (-115) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Over 60.5 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nBBOC + Action: Duck and Collin official Over 60.5. Virginia Tech defense collapsing vs run/pass, Miami explosive offense; Miami defense vulnerable over middle."
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Over 60.5 (-115) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: Over 60.5 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nBBOC + Action: Duck and Collin official Over 60.5. Virginia Tech defense collapsing vs run/pass, Miami explosive offense; Miami defense vulnerable over middle.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "7:00 PM",
       "Game": "Arkansas State @ Louisiana Tech",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Louisiana Tech -14.5",
+      "Current Total": "53.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: 1H Under 28.5 (-114) — 0.5u • Action Network profile PDF; historical tracked line"
+      "Tracked Analysis / Picks": "Duck [Official app bet]: 1H Under 28.5 (-114) — 0.5u • Action Network profile PDF; historical tracked line",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "7:30 PM",
       "Game": "Stanford @ California",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Stanford -2.5",
+      "Current Total": "55.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Stanford ML (-127) — 1.2u • Action Network profile PDF; historical tracked line"
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Stanford ML (-127) — 1.2u • Action Network profile PDF; historical tracked line",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "7:30 PM",
       "Game": "Colorado State @ Fresno State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Fresno State -20.5",
+      "Current Total": "66.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Fresno State TT Over 42.5 (-106) — 1.06u • Action Network profile PDF; historical tracked line"
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Fresno State TT Over 42.5 (-106) — 1.06u • Action Network profile PDF; historical tracked line",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "7:30 PM",
       "Game": "Georgia @ South Carolina",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Georgia -14.5",
+      "Current Total": "51.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Over 49.5 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nCollin Wilson [BBOC podcast write-up]: Georgia TT Over 33.5 — Georgia passing mismatch vs SC secondary\nBBOC + Action: Collin official game Over 49.5; podcast Georgia TT Over 33.5 and Taylor receiving prop excluded from board. South Carolina defensive pass success weakness and injury questions."
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Over 49.5 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nCollin Wilson [BBOC podcast write-up]: Georgia TT Over 33.5 — Georgia passing mismatch vs SC secondary\nBBOC + Action: Collin official game Over 49.5; podcast Georgia TT Over 33.5 and Taylor receiving prop excluded from board. South Carolina defensive pass success weakness and injury questions.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "7:30 PM",
       "Game": "SMU @ Notre Dame",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Notre Dame -20.5",
+      "Current Total": "56.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [BBOC conditional lean]: SMU +21 or better — Waiting for +21/+21.5\nCollin Wilson [BBOC conditional lean]: Over 55 — Waiting for total to fall\nStuckey [BBOC conditional lean]: SMU +21 — Would require 21 widely available"
+      "Tracked Analysis / Picks": "Collin Wilson [BBOC conditional lean]: SMU +21 or better — Waiting for +21/+21.5\nCollin Wilson [BBOC conditional lean]: Over 55 — Waiting for total to fall\nStuckey [BBOC conditional lean]: SMU +21 — Would require 21 widely available",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "7:30 PM",
       "Game": "Kentucky @ Missouri",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Missouri -4.5",
+      "Current Total": "48.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Under 48.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nBear [Bear Bets best bet]: Missouri -5.5 — Sammy opposes with Kentucky ML\nSammy [Bear Bets underdog selection]: Kentucky ML — Opposes Bear Missouri -5.5"
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Under 48.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nBear [Bear Bets best bet]: Missouri -5.5 — Sammy opposes with Kentucky ML\nSammy [Bear Bets underdog selection]: Kentucky ML — Opposes Bear Missouri -5.5",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "7:30 PM",
       "Game": "Pittsburgh @ Louisville",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Louisville -13.5",
+      "Current Total": "50.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "8:00 PM",
       "Game": "UTSA @ UAB",
-      "Current Spread": "UTSA -6.5 (-108)",
+      "Current Spread": "UTSA -6.5",
       "Current Total": "50.5",
       "My Ticket": "Under 52.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Under 52.5 (-112) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: UAB +6.5 (-111) — 1.11u • Action Network profile PDF; historical tracked line\nStuckey + Collin Wilson [BBOC consensus board]: UAB +6.5 — Joint podcast agreement; NOT additional independent Action tickets\nStuckey [BBOC Trash podcast]: UAB +6.5 — Podcast selection; duplicates with official Action entries should not be double-counted\nDuck [Sixth Gear Triple Option]: Under 52.5 — UAB limits explosive passes; slow offense and red-zone inefficiency\nBBOC + Sixth Gear: Stuckey/Collin UAB +6.5 consensus; Duck U52.5 and Mike agrees. UAB limits explosives; UTSA defense vulnerable, road splits. Side+total combination is an inference, not an endorsed SGP."
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Under 52.5 (-112) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: UAB +6.5 (-111) — 1.11u • Action Network profile PDF; historical tracked line\nStuckey + Collin Wilson [BBOC consensus board]: UAB +6.5 — Joint podcast agreement; NOT additional independent Action tickets\nStuckey [BBOC Trash podcast]: UAB +6.5 — Podcast selection; duplicates with official Action entries should not be double-counted\nDuck [Sixth Gear Triple Option]: Under 52.5 — UAB limits explosive passes; slow offense and red-zone inefficiency\nBBOC + Sixth Gear: Stuckey/Collin UAB +6.5 consensus; Duck U52.5 and Mike agrees. UAB limits explosives; UTSA defense vulnerable, road splits. Side+total combination is an inference, not an endorsed SGP.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "9:00 PM",
       "Game": "Utah @ TCU",
-      "Current Spread": "Utah -7 (-108)",
+      "Current Spread": "Utah -7.5",
       "Current Total": "46.5",
       "My Ticket": "TCU +7.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: TCU +7.5 (-115) — 1.15u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: TCU +7.5 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey + Collin Wilson [BBOC consensus board]: TCU +7 — Joint podcast agreement; NOT additional independent Action tickets\nBear [Bear Bets best bet]: TCU +7 — Utah fatigue/spot; Sammy and Jeff agree\nBBOC + Bear Bets: Stuckey and Collin official TCU +7.5; BBOC consensus +7; Bear/Sammy/Jeff support. Utah grueling stretch; TCU defense and rest. TCU early scoring/finishing concerns."
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: TCU +7.5 (-115) — 1.15u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: TCU +7.5 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey + Collin Wilson [BBOC consensus board]: TCU +7 — Joint podcast agreement; NOT additional independent Action tickets\nBear [Bear Bets best bet]: TCU +7 — Utah fatigue/spot; Sammy and Jeff agree\nBBOC + Bear Bets: Stuckey and Collin official TCU +7.5; BBOC consensus +7; Bear/Sammy/Jeff support. Utah grueling stretch; TCU defense and rest. TCU early scoring/finishing concerns.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "9:30 PM",
       "Game": "San Diego State @ Boise State",
-      "Current Spread": "",
-      "Current Total": "",
+      "Current Spread": "Boise State -17.5",
+      "Current Total": "60.5",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: San Diego State +17 (-113) — 1.13u • Action Network profile PDF; historical tracked line\nBBOC + Action: Collin official SDSU +17; Boise defense conceded substantial points in recent games; SDSU strong rush defense/tackling."
+      "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: San Diego State +17 (-113) — 1.13u • Action Network profile PDF; historical tracked line\nBBOC + Action: Collin official SDSU +17; Boise defense conceded substantial points in recent games; SDSU strong rush defense/tackling.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "10:15 PM",
       "Game": "Oklahoma State @ Arizona State",
-      "Current Spread": "",
+      "Current Spread": "Oklahoma State -2.5",
       "Current Total": "",
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
       "Time ET": "10:30 PM",
       "Game": "Hawaii @ Nevada",
-      "Current Spread": "Nevada -5.5 (-113)",
+      "Current Spread": "Nevada -5.5",
       "Current Total": "40.5",
       "My Ticket": "Hawaii TT Under 17.5",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": "Duck [Official app bet]: Under 41.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nDuck [Official app bet]: Hawaii TT Under 17.5 (-125) — 1u • Action Network profile PDF; historical tracked line\nDuck [Sixth Gear G6 best bet]: Hawaii TT Under 17.5 — Nevada pass rush/secondary; Hawaii offensive inefficiency; cold weather/travel\nSixth Gear Duck: Hawaii exceeded 17.5 points only twice in seven games per podcast; Nevada pass defense, travel and cold-weather angle. Official Duck Hawaii TT U17.5 and game U41.5."
+      "Tracked Analysis / Picks": "Duck [Official app bet]: Under 41.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nDuck [Official app bet]: Hawaii TT Under 17.5 (-125) — 1u • Action Network profile PDF; historical tracked line\nDuck [Sixth Gear G6 best bet]: Hawaii TT Under 17.5 — Nevada pass rush/secondary; Hawaii offensive inefficiency; cold weather/travel\nSixth Gear Duck: Hawaii exceeded 17.5 points only twice in seven games per podcast; Nevada pass defense, travel and cold-weather angle. Official Duck Hawaii TT U17.5 and game U41.5.",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     },
     {
       "Date": "Sat",
@@ -839,7 +902,8 @@
       "My Ticket": "",
       "SP+ Spread": "",
       "SP+ Total": "",
-      "Tracked Analysis / Picks": ""
+      "Tracked Analysis / Picks": "",
+      "Market Source": "VegasInsider Week 12 consensus snapshot, Nov 20 2026"
     }
   ],
   "experts": [
