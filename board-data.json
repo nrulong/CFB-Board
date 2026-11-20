@@ -1,8 +1,57 @@
 {
   "week": "Week 12 — Nov 17–21, 2026",
-  "lastUpdated": "Nov 20, 2026 — Week 12 full slate and consolidated expert intelligence",
+  "lastUpdated": "Nov 20, 2026 — six user-confirmed Week 12 tickets recorded",
   "marketSource": "70-game schedule and kickoff times: footballschedule.info/college-football/week/12/ and NCAA.com Nov 19 schedule (ET). Market spread and total fields intentionally blank: no verified live Caesars odds. Expert prices are historical Action Network profile PDF or podcast quotes, NOT live. Official tracked bets separated from podcast endorsements, leans, projections and parlay legs. Futures and college player props excluded. Earlier Tue–Thu games retained for complete slate; do not treat as upcoming.",
-  "myPicks": [],
+  "myPicks": [
+    {
+      "Game": "Utah @ TCU",
+      "Pick": "TCU +7.5",
+      "Odds": "Not provided",
+      "Units": "Not provided",
+      "Status": "Placed — user confirmed",
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+    },
+    {
+      "Game": "BYU @ Kansas",
+      "Pick": "Kansas +6",
+      "Odds": "Not provided",
+      "Units": "Not provided",
+      "Status": "Placed — user confirmed",
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+    },
+    {
+      "Game": "FIU @ Kennesaw State",
+      "Pick": "FIU +3.5",
+      "Odds": "Not provided",
+      "Units": "Not provided",
+      "Status": "Placed — user confirmed",
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+    },
+    {
+      "Game": "East Carolina @ Army",
+      "Pick": "Army -5.5",
+      "Odds": "Not provided",
+      "Units": "Not provided",
+      "Status": "Placed — user confirmed",
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+    },
+    {
+      "Game": "Hawaii @ Nevada",
+      "Pick": "Hawaii TT Under 17.5",
+      "Odds": "Not provided",
+      "Units": "Not provided",
+      "Status": "Placed — user confirmed",
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+    },
+    {
+      "Game": "UTSA @ UAB",
+      "Pick": "Under 52.5",
+      "Odds": "Not provided",
+      "Units": "Not provided",
+      "Status": "Placed — user confirmed",
+      "Notes": "User confirmed placed based on assistant Week 12 recommendations on Nov 20, 2026; actual book price and stake not supplied."
+    }
+  ],
   "allGames": [
     {
       "Date": "Tue",
@@ -208,7 +257,7 @@
       "Game": "East Carolina @ Army",
       "Current Spread": "",
       "Current Total": "",
-      "My Ticket": "",
+      "My Ticket": "Army -5.5",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Duck [Official app bet]: Army -5.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: Army -5.5 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nDuck [Sixth Gear Triple Option]: Army -5.5 — ECU injuries, Army bye and ball control\nStuckey [BBOC favorite overdog]: Army -6 — Podcast number; official Action -5.5\nBBOC + Sixth Gear + Action: Duck and Stuckey official Army -5.5. Army bye, ECU injuries, rushing/possession edge. Stuckey favorite overdog."
@@ -252,7 +301,7 @@
       "Game": "BYU @ Kansas",
       "Current Spread": "",
       "Current Total": "",
-      "My Ticket": "",
+      "My Ticket": "Kansas +6",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: Kansas +6 (-110) — 1.1u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: Kansas +6 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey + Collin Wilson [BBOC consensus board]: Kansas +5.5 — Joint podcast agreement; NOT additional independent Action tickets\nBear [Bear Bets best bet]: Kansas spread, number not specified — Kansas defense and BYU tackling; Sammy +5.5\nSammy [Bear Bets best bet]: Kansas +5.5 — Kansas home underdog\nJeff Schwartz [Bear Bets underdog selection]: Kansas ML — Supports Kansas\nBBOC + Bear Bets: Stuckey and Collin tracked Kansas +6; podcast consensus +5.5; Sammy +5.5, Jeff ML, Bear supports. Kansas defensive improvement; BYU tackling concerns."
@@ -417,7 +466,7 @@
       "Game": "FIU @ Kennesaw State",
       "Current Spread": "",
       "Current Total": "",
-      "My Ticket": "",
+      "My Ticket": "FIU +3.5",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Duck [Official app bet]: FIU +3.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nDuck [Official app bet]: FIU ML (+142) — 0.35u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: FIU +3.5 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey [BBOC Trash podcast]: FIU +3.5 — Podcast selection; duplicates with official Action entries should not be double-counted\nDuck [Sixth Gear underdog]: FIU ML / +3.5 — FIU pressure and rushing explosiveness\nBBOC + Sixth Gear + Action: Duck and Stuckey official FIU +3.5; Duck additional FIU ML +142. FIU defense and Kennesaw weak passing explosiveness."
@@ -714,7 +763,7 @@
       "Game": "UTSA @ UAB",
       "Current Spread": "",
       "Current Total": "",
-      "My Ticket": "",
+      "My Ticket": "Under 52.5",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Duck [Official app bet]: Under 52.5 (-112) — 1u • Action Network profile PDF; historical tracked line\nCollin Wilson [Official app bet]: UAB +6.5 (-111) — 1.11u • Action Network profile PDF; historical tracked line\nStuckey + Collin Wilson [BBOC consensus board]: UAB +6.5 — Joint podcast agreement; NOT additional independent Action tickets\nStuckey [BBOC Trash podcast]: UAB +6.5 — Podcast selection; duplicates with official Action entries should not be double-counted\nDuck [Sixth Gear Triple Option]: Under 52.5 — UAB limits explosive passes; slow offense and red-zone inefficiency\nBBOC + Sixth Gear: Stuckey/Collin UAB +6.5 consensus; Duck U52.5 and Mike agrees. UAB limits explosives; UTSA defense vulnerable, road splits. Side+total combination is an inference, not an endorsed SGP."
@@ -725,7 +774,7 @@
       "Game": "Utah @ TCU",
       "Current Spread": "",
       "Current Total": "",
-      "My Ticket": "",
+      "My Ticket": "TCU +7.5",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Collin Wilson [Official app bet]: TCU +7.5 (-115) — 1.15u • Action Network profile PDF; historical tracked line\nStuckey [Official app bet]: TCU +7.5 (-110) — 0.5u • Action Network profile PDF; historical tracked line\nStuckey + Collin Wilson [BBOC consensus board]: TCU +7 — Joint podcast agreement; NOT additional independent Action tickets\nBear [Bear Bets best bet]: TCU +7 — Utah fatigue/spot; Sammy and Jeff agree\nBBOC + Bear Bets: Stuckey and Collin official TCU +7.5; BBOC consensus +7; Bear/Sammy/Jeff support. Utah grueling stretch; TCU defense and rest. TCU early scoring/finishing concerns."
@@ -758,7 +807,7 @@
       "Game": "Hawaii @ Nevada",
       "Current Spread": "",
       "Current Total": "",
-      "My Ticket": "",
+      "My Ticket": "Hawaii TT Under 17.5",
       "SP+ Spread": "",
       "SP+ Total": "",
       "Tracked Analysis / Picks": "Duck [Official app bet]: Under 41.5 (-110) — 1u • Action Network profile PDF; historical tracked line\nDuck [Official app bet]: Hawaii TT Under 17.5 (-125) — 1u • Action Network profile PDF; historical tracked line\nDuck [Sixth Gear G6 best bet]: Hawaii TT Under 17.5 — Nevada pass rush/secondary; Hawaii offensive inefficiency; cold weather/travel\nSixth Gear Duck: Hawaii exceeded 17.5 points only twice in seven games per podcast; Nevada pass defense, travel and cold-weather angle. Official Duck Hawaii TT U17.5 and game U41.5."
